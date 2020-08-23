@@ -30,9 +30,9 @@
 - 2 Esdras 14-16 [Please read this in the New Revised Standard Version published as part of *Oxford Biblical Studies Online*, see [http://www.oxfordbiblicalstudies.com.proxy.library.vanderbilt.edu/article/book/obso-9780195288803/obso-9780195288803-chapter-74](http://www.oxfordbiblicalstudies.com.proxy.library.vanderbilt.edu/article/book/obso-9780195288803/obso-9780195288803-chapter-74). Please also consult the introduction found there.] *(Link provided)*
 
 #### Secondary Source Readings:
-- Kang, Namsoon. “Whose/Which World in World Christianity?: Toward World Christianity as Christianity of Worldly Responsibility.” In *A New Day: Essays on World Christianity in Honor of Lamin Sanneh*. Edited by Akintunde E. Akinade. New York: Peter Lang, 2010, pp. 31–48. *(B)*
+- Kang, Namsoon. “Whose/Which World in World Christianity?: Toward World Christianity as Christianity of Worldly Responsibility.” In *A New Day: Essays on World Christianity in Honor of Lamin Sanneh*, edited by Akintunde E. Akinade, 31–48. New York: Peter Lang, 2010. *(B)*
  
-- Sivan, Hagith. “Christianity.” In *The Oxford Handbook of Roman Studies*. Edited by Alessandro Barchiesi and Walter Scheidel. Oxford: Oxford University Press, 2010, pp. 782-796. (Please read the following sections of Sivan, "Introduction," "Jesus," "From Sect to Religion"). *(VLC = available through Vanderbilt Libraries Catalogue)*
+- Sivan, Hagith. “Christianity.” In *The Oxford Handbook of Roman Studies*, edited by Alessandro Barchiesi and Walter Scheidel, 782-796. Oxford: Oxford University Press, 2010. (Please read the following sections of Sivan, "Introduction," "Jesus," "From Sect to Religion"). *(VLC = available through Vanderbilt Libraries Catalogue)*
 
 - Michelson, David. "How to Read for DIV 6700." *(B)*
 
@@ -44,5 +44,34 @@
 
 ### Thursday, August 27, 2020
 - Discussion sections. *(Zoom)*
+
+## Week 2: Christianity in the Greco-Roman World
+
+### Tuesday, September 1, 2020
+Unless otherwise specified, please complete the readings, lectures and assignments for each week by the end of the day on Tuesdays.
+
+#### Lectures
+- Michelson, David. "Early Christian Judaism." *(B)*
+- Michelson, David. "Christianity in the Roman Empire." *(B)*
+- Michelson, David. "Sources of Revelation." *(B)*
+
+#### Primary Source Readings:
+- “Correspondence of Pliny and Trajan. Book 10: Letters XCVI and XCVII." In Pliny the Younger, *Letters, Volume II: Books 8-10. Panegyricus*, translated by Betty Radice. 285-293. Loeb Classical Library 59. Cambridge, MA: Harvard University Press, 1969.  DOI: 10.4159/DLCL.pliny_younger-letters.1969. *(VLC)*
+- “Epistle to Diognetus. Chapters 1-10.” In *The Apostolic Fathers: Volume II*, edited and translated by Bart D. Ehrman, 122-155. Loeb Classical Library 25. Cambridge, MA: Harvard University Press, 2003. DOI: 10.4159/DLCL.epistle_diognetus.2003 *(VLC)*
+- 2 Esdras 14-16 (review and compare with Revelation 17)
+
+#### Secondary Source Readings:
+- Mitchell, Margaret M. "The Emergence of the Written Record." In *The Cambridge History of Christianity*, ed. Margaret M. Mitchell and Frances M. Young, 175-94. Vol. 1. *Origins to Constantine*. Cambridge: Cambridge University Press, 2006. *(VLC)*
+ 
+- Wilkin, Robert. “Pliny: A Roman Gentleman.” In *The Christians as the Romans Saw Them*, 1-30. Second Edition. Yale University Press, 2003. *(VLC)*
+
+#### Assignments
+
+- *Florilegium I* due by midnight on Tuesday, September 1, 2020. *(B)*
+- *Map Tutorial* is available on Brightspace beginning on Thursday, August 27, 2020.
+
+### Thursday, September 3, 2020
+- Discussion sections. *(Zoom)*
+
 
 
