@@ -1,3 +1,5 @@
+# Detailed Schedule
+
 **Notes:**
 
 - This schedule will be updated regularly during the course of the semester. Please listen to the lectures and complete the readings on or before the dates listed.
