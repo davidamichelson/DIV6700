@@ -1,8 +1,8 @@
-# Detailed Schedule
+# Detailed Schedule for Fall 2020
 
 **Notes:**
 
-- This schedule will be updated regularly during the course of the semester. Please listen to the lectures and complete the readings on or before the dates listed.
+- This schedule will be updated regularly during the course of the semester. Please listen to the lectures and complete the readings on ***or before*** the dates listed.
 - Brightspace does not always handle URLS well. So you may need to cut and paste the links below into your browser.
 
 ## Key to Abbreviations
@@ -23,7 +23,7 @@
 ### Wednesday, August 26, 2020
 #### Lectures
 - Michelson, David. "Introduction to Historical Methods for DIV 6700." *(B = posted to Brightspace)*
-- MacCulloch, Dairmaid. "The First Christianity." Ambrose Video, 2010. *(B)*
+- MacCulloch, Dairmaid. "The First Christianity." Ambrose Video, 2010. [https://vanderbilt.kanopy.com/video/first-christianity](https://vanderbilt.kanopy.com/video/first-christianity) *(Link provided)*
 - Michelson, David. "Backgrounds of Early Christianity." *(B)*
 
 #### Primary Source Readings:
@@ -38,9 +38,9 @@
 
 - Levine, Amy-Jill. “Is the New Testament Anti-Jewish?.” *Bible Odyssey.* [http://www.bibleodyssey.org/tools/bible-basics/is-the-new-testament-anti-jewish](http://www.bibleodyssey.org/tools/bible-basics/is-the-new-testament-anti-jewish) *(Link provided)*
 
-#### Practice *Florilegium*
+#### Assignments
 
-- See Brightspace for information about a practice assignment due by 4:00 p.m. on Wednesday, August 26, 2020. *(B)*
+- See Brightspace for information about a practice *Florilegium* due by 4:00 p.m. on Wednesday, August 26, 2020. *(B)*
 
 ### Thursday, August 27, 2020
 - Discussion sections. *(Zoom)*
