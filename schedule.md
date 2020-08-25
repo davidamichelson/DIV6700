@@ -46,7 +46,7 @@
 - Discussion sections. *(Zoom)*
 
 ### Thursday, August 27, 2020 or later
-- Meet with TA and with Dr. Michelson in two separate office hours meetings. Sign-up on Brightspace *(B)*
+- On Thursday sign up for an appointment to meet with your TA and with Dr. Michelson in two separate office hours meetings. Sign-up on Brightspace *(B)* on Thursday for appointments on Thursday or a later day.
 
 ## Week 2: Christianity in the Greco-Roman World
 
