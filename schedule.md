@@ -41,6 +41,7 @@
 #### Assignments
 
 - See Brightspace for information about a practice *Florilegium* due by 4:00 p.m. on Wednesday, August 26, 2020. *(B)*
+- Before Thursday please help us get to know you by completeing the DIV 6700 Student Questionnaire found under Activities>Quizzes in Brightspace.
 
 ### Thursday, August 27, 2020
 - Discussion sections. *(Zoom)*
