@@ -70,7 +70,7 @@ Unless otherwise specified, please complete the readings, lectures, and assignme
 
 #### Assignments
 
-- *Florilegium I* due by midnight on Tuesday, September 1, 2020. *(B)*
+- *Florilegium I* due by 9 PM Central Time on Tuesday, September 1, 2020. *(B)*
 - *Map Tutorial* is postponed until the week of Sept 10.
 
 ### Thursday, September 3, 2020
