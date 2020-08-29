@@ -56,7 +56,7 @@ Unless otherwise specified, please complete the readings, lectures, and assignme
 
 #### Lectures
 - Michelson, David. "Early Christian Judaism." *(B)*
-- Michelson, David. "Christianity in the Roman Empire." *(B)*
+- Michelson, David. "Christians and Romans." *(B)*
 - Michelson, David. "Sources of Revelation." *(This lecture has been postponed due to upload issues.)*
 
 #### Primary Source Readings
