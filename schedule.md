@@ -72,7 +72,7 @@ Unless otherwise specified, please complete the readings, lectures, and assignme
 #### Assignments
 
 - *Florilegium I* due by midnight on Tuesday, September 1, 2020. *(B)*
-- *Map Tutorial* is available on Brightspace beginning on Thursday, August 27, 2020.
+- *Map Tutorial* is *postponed*.
 
 ### Thursday, September 3, 2020
 - Discussion sections. *(Zoom)*
