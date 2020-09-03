@@ -98,6 +98,7 @@ Unless otherwise specified, please complete the readings, lectures, and assignme
 #### Assignments
 - *Florilegium II* is due by 9 PM Central Time on Tuesday, September 8, 2020.
 Questions for *Florilegium II* are:
+
 1. Early Christian authors often drew upon the rhetorical strategy of creating "paradoxical antitheses" in which they re-defined or re-valued the norms of society through a Christian lens. How did early Christian authors used such paradoxes to express their theology of martyrdom?
 
 2. How do the authors of the "Acts of Thecla" and "The Passion of Saints Perpetua and Felicity" portray the Christian faith as offering an alternative to the gender norms of Roman Society? (Hint: How do the authors employ "paradoxical antitheses"? You may also wish to explore the limits of this rhetorical method.)
