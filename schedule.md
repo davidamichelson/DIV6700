@@ -102,4 +102,4 @@ Questions for *Florilegium II* are:
 
 2. How do the authors of the "Acts of Thecla" and "The Passion of Saints Perpetua and Felicity" portray the Christian faith as offering an alternative to the gender norms of Roman Society? (Hint: How do the authors employ "paradoxical antitheses"? You may also wish to explore the limits of this rhetorical method.)
 
-- *Map Tutorial* is *still *postponed.
+- *Map Tutorial* is *still* postponed.
