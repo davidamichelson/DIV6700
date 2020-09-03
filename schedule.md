@@ -76,5 +76,30 @@ Unless otherwise specified, please complete the readings, lectures, and assignme
 ### Thursday, September 3, 2020
 - Discussion sections. *(Zoom)*
 
+## Week 3: Martyrdom and Asceticism
+Unless otherwise specified, please complete the readings, lectures, and assignments for each week by the end of the day on Tuesdays.
 
+#### Lectures
+- Michelson, David. "Martyrdom" *(B)*
+- Michelson, David. "Cult of the Saints" *(B)*
+- Michelson, David. "Asceticism and Virginity" *(B)*
+- Michelson, David. "Women in Early Christianity" *(B)*
 
+#### Primary Source Readings
+- “Acts of Thecla.” In Bart Ehrman, ed., *Lost Scriptures: Books That Did Not Make It into the New Testament*, 113-122. New York: Oxford University Press, 2003. *(VLC)*
+- “The Passion of Saints Perpetua and Felicity.” In Thomas J. Heffernan, trans., *The Passion of Perpetua and Felicity*, 125-135. New York: Oxford University Press, 2012. *(VLC)*
+
+#### Secondary Source Readings
+Darling Young, Robin. “Martyrdom as Exaltation.” In Virginia Burrus, ed., *A People's History of Christianity*. Vol. 2, 70-94. Minneapolis: Fortress Press, 2005.  *(B)*
+- McGuckin, John. "Chapter 23, Attitudes to Sexuality in the Early Church." In *The Path of Christianity: The First Thousand Years*), 1090-1114. Downers Grove, IL: IVP Academic, 2017. *(VLC)*
+- McGuckin, John. "Chapter 17, Women in Early Christianity." In *The Path of Christianity: The First Thousand Years*), 891-916. Downers Grove, IL: IVP Academic, 2017. *(VLC)*
+- Ashbrook Harvey, Susan. "Women and Words: Texts by and about Women". In *Cambridge History of Early Christian Literature*, eds. Lewis Ayres, Andrew Louth, and Frances M. Young, 382-390. Cambridge: Cambridge University Press, 2004. *(VLC)*
+
+#### Assignments
+- *Florilegium II* is due by 9 PM Central Time on Tuesday, September 8, 2020.
+Questions for *Florilegium II* are:
+1. Early Christian authors often drew upon the rhetorical strategy of creating "paradoxical antitheses" in which they re-defined or re-valued the norms of society through a Christian lens. How did early Christian authors used such paradoxes to express their theology of martyrdom?
+
+2. How do the authors of the "Acts of Thecla" and "The Passion of Saints Perpetua and Felicity" portray the Christian faith as offering an alternative to the gender norms of Roman Society? (Hint: How do the authors employ "paradoxical antitheses"? You may also wish to explore the limits of this rhetorical method.)
+
+- *Map Tutorial* is *still *postponed.
