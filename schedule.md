@@ -90,7 +90,7 @@ Unless otherwise specified, please complete the readings, lectures, and assignme
 - “The Passion of Saints Perpetua and Felicity.” In Thomas J. Heffernan, trans., *The Passion of Perpetua and Felicity*, 125-135. New York: Oxford University Press, 2012. *(VLC)*
 
 #### Secondary Source Readings
-Darling Young, Robin. “Martyrdom as Exaltation.” In Virginia Burrus, ed., *A People's History of Christianity*. Vol. 2, 70-94. Minneapolis: Fortress Press, 2005.  *(B)*
+- Darling Young, Robin. “Martyrdom as Exaltation.” In Virginia Burrus, ed., *A People's History of Christianity*. Vol. 2, 70-94. Minneapolis: Fortress Press, 2005.  *(B)*
 - McGuckin, John. "Chapter 23, Attitudes to Sexuality in the Early Church." In *The Path of Christianity: The First Thousand Years*), 1090-1114. Downers Grove, IL: IVP Academic, 2017. *(VLC)*
 - McGuckin, John. "Chapter 17, Women in Early Christianity." In *The Path of Christianity: The First Thousand Years*), 891-916. Downers Grove, IL: IVP Academic, 2017. *(VLC)*
 - Ashbrook Harvey, Susan. "Women and Words: Texts by and about Women". In *Cambridge History of Early Christian Literature*, eds. Lewis Ayres, Andrew Louth, and Frances M. Young, 382-390. Cambridge: Cambridge University Press, 2004. *(VLC)*
