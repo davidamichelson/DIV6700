@@ -82,7 +82,7 @@ Unless otherwise specified, please complete the readings, lectures, and assignme
 #### Lectures
 - Michelson, David. "Martyrdom" *(B)*
 - Michelson, David. "Cult of the Saints" *(B)*
-- Michelson, David. "Asceticism and Virginity" *(B)*
+- Michelson, David. "Asceticism" *(B)*
 - Michelson, David. "Women in Early Christianity" *(B)*
 
 #### Primary Source Readings
