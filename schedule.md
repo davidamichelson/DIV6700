@@ -96,11 +96,25 @@ Unless otherwise specified, please complete the readings, lectures, and assignme
 - Ashbrook Harvey, Susan. "Women and Words: Texts by and about Women". In *Cambridge History of Early Christian Literature*, eds. Lewis Ayres, Andrew Louth, and Frances M. Young, 382-390. Cambridge: Cambridge University Press, 2004. *(VLC)*
 
 #### Assignments
-- *Florilegium II* is due by 9 PM Central Time on Tuesday, September 8, 2020.
+- *Map Tutorial* is *still* postponed.
+
+- *Florilegium II* is due by 9 PM Central Time on Tuesday, September 8, 2020. (See extension options below).
+
 Questions for *Florilegium II* are:
 
 1. Early Christian authors often drew upon the rhetorical strategy of creating "paradoxical antitheses" in which they re-defined or re-valued the norms of society through a Christian lens. How did early Christian authors used such paradoxes to express their theology of martyrdom?
 
 2. How do the authors of the "Acts of Thecla" and "The Passion of Saints Perpetua and Felicity" portray the Christian faith as offering an alternative to the gender norms of Roman Society? (Hint: How do the authors employ "paradoxical antitheses"? You may also wish to explore the limits of this rhetorical method.)
 
-- *Map Tutorial* is *still* postponed.
+##### Extension options:
+
+1. Standard Option: Turn in your florilegium by 9 PM Tuesday, your TA will grade it before section meets on Thursday.
+
+2. Delayed No-Penalty Option: Turn in your florilegium anytime BEFORE your section on Thursday. You will not have a late penalty, but your TA will also not be able to grade it until after section. (This option is for the week of Sept. 10 only).
+
+3. Late Penalty Option: Turn in your florilegium after the start of your section on Thursday. The standard one letter grade late penalty will still apply (as per the syllabus) but we will still be happy to grade your work and give constructive feedback.
+
+
+
+### Thursday, September, 2020
+- Discussion sections. *(Zoom)*
