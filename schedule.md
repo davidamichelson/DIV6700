@@ -114,7 +114,45 @@ Questions for *Florilegium II* are:
 
 3. Late Penalty Option: Turn in your florilegium after the start of your section on Thursday. The standard one letter grade late penalty will still apply (as per the syllabus) but we will still be happy to grade your work and give constructive feedback.
 
+### Thursday, September 10, 2020
+- Discussion sections. *(Zoom)*
 
+## Week 4: Scripture and Revelation
+Unless otherwise specified, please complete the readings, lectures, and assignments for each week by the end of the day on Tuesdays.
 
-### Thursday, September, 2020
+*Nota Bene*: Please note the page numbers, for several of these sources you are only asked to read certain pages.
+
+#### Lectures
+- Michelson, David. "Scripture" *(B)*
+- Michelson, David. "Revelation" *(B)*
+
+#### Primary Source Readings
+- “The Secret Book of John.” In Bart Ehrman, ed., *Lost Scriptures: Books That Did Not Make It into the New Testament*, 297-306. New York: Oxford University Press, 2003. *(VLC)*
+- Irenaeus of Lyons. "Book III." In "Translation: Against Heresies." In *Irenaeus of Lyons*, translated by Robert M. Grant, 93-108. The Early Church Fathers. London: Routledge, 1997. *(VLC)* 
+- “The Muratorian Canon” In Bart Ehrman, ed., *Lost Scriptures: Books That Did Not Make It into the New Testament*, 331-333. New York: Oxford University Press, 2003. *(VLC)*
+
+#### Bonus Primary Source Reading
+
+For some reason, the translation of Irenaeus by Grant has left out the following key passage in Book III, Chapter 5, Section 1. When you get to page 96, please add this in just before the section marked "5.1". (*Hint*: You may want to include this in your florilegium).
+
+"III.5.1. Since, therefore, the tradition from the apostles does thus exist in the Church, and is permanent among us, let us revert to the Scriptural proof furnished by those apostles who did also write the Gospel, in which they recorded the doctrine regarding God, pointing out that our Lord Jesus Christ is the truth, and that no lie is in Him. As also David says, prophesying His birth from a virgin, and the resurrection from the dead, “Truth has sprung out of the earth.” The apostles, likewise, being disciples of the truth, are above all falsehood; for a lie has no fellowship with the truth, just as darkness has none with light, but the presence of the one shuts out that of the other. Our Lord, therefore, being the truth, did not speak lies; and whom He knew to have taken origin from a defect, He never would have acknowledged as God, even the God of all, the Supreme King, too, and His own Father, an imperfect being as a perfect one, an animal one as a spiritual, Him who was without the Pleroma as Him who was within it. Neither did His disciples make mention of any other God, or term any other Lord, except Him, who was truly the God and Lord of all..."
+
+**Source:** Irenaus. “Irenaeus against Heresies.” Translated by Alexander Roberts and James Donaldson. In *The Ante-Nicene Fathers*, ed. Alexander Roberts and James Donaldson, 417-18. Vol. 1. Buffalo: Christian Literature Publishing Company, 1887.
+
+#### Secondary Source Readings
+- McGuckin, John. "Selections from Chapter 2, The Fertile Second Century." In *The Path of Christianity: The First Thousand Years*), 3-4, 26-39, 48-54. Downers Grove, IL: IVP Academic, 2017. *(VLC)*
+- King, Karen L. “Reading Sex and Gender in the Secret Revelation of John.” *Journal of Early Christian Studies* 19, no. 4 (2011): 519–38. doi:10.1353/earl.2011.0045. *(VLC)*
+- Minns, Denis. "Section: Scripture, Tradition and Church Order" of "Chapter 7: From Christ to Kingdom." In *Irenaeus: An Introduction*, 133-139 London: Bloomsbury, 2010. *(VLC)* 
+
+#### Assignments
+- *Map Tutorial* is *still* postponed.
+- *Florilegium III* is due by 9 PM Central Time on Tuesday, September 15, 2020.
+
+Questions for *Florilegium III* are:
+
+1. Why does the author of the "Secret Book of John" think that their reader will be interested in the revelation contained in the book? How does reading the book help save the reader?
+
+2. What is truth according to Irenaeus? What are some of the rules of faith by which he argues that Christians can determine if a teacher or "scripture" conforms to the truth?
+
+### Thursday, September 17, 2020
 - Discussion sections. *(Zoom)*
