@@ -166,8 +166,10 @@ Unless otherwise specified, please complete the readings, lectures, and assignme
 #### Lectures
 - Michelson, David. "Baptism" *(B)*
 - Michelson, David. "Eucharist" *(B)*
-- Michelson, David. "Geography of Early Christianity I" *(B)*
-- Michelson, David. "Geography of Early Christianity II" *(B)*
+- Michelson, David. "Geography of Early Christianity I" *(B) Not yet available*
+- Michelson, David. "Geography of Early Christianity II" *(B) Not yet available*
+
+Apologies, due to an emergency, the Geography lectures will be available Wednesday, Sept. 23. You do not need to watch them before section.
 
 #### Primary Source Readings
 - Anne McGowan and Paul F. Bradshaw, eds. and trans., *The Pilgrimage of Egeria: A New Translation of the Itinerarium Egeriae with Introduction and Commentary* (Collegeville, MN: Liturgical Press, 2018), (Sections 23-49). *(VLC)*  (NB: the library's ebook can be very difficult to use and does not have good page numbers. Please refer to the section numbers instead).
