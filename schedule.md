@@ -170,12 +170,49 @@ Unless otherwise specified, please complete the readings, lectures, and assignme
 - Michelson, David. "Geography of Early Christianity II" *(B)*
 
 #### Primary Source Readings
-- Anne McGowan and Paul F. Bradshaw, eds. and trans., *The Pilgrimage of Egeria: A New Translation of the Itinerarium Egeriae with Introduction and Commentary* (Collegeville, MN: Liturgical Press, 2018), (Sections 23-49). *(VLC)*  (NB: the library's ebook can be very difficult to use and does not have good page numbers. Please refer to the section numbers instead).
-- Cyril of Jerusalem, "Mystagogic Catechesis 1,2,4, & 5," in *Cyril of Jerusalem*, translated by E.J. Yarnold S.J. (London: Taylor & Francis Group, 2000), pp. 89-96, 169-175, 179-187. *(VLC)* 
+- McGowan, Anne and Paul F. Bradshaw, eds. and trans. *The Pilgrimage of Egeria: A New Translation of the Itinerarium Egeriae with Introduction and Commentary*. Collegeville, MN: Liturgical Press, 2018, Sections 23-49. *(VLC)*  (NB: the library's ebook can be very difficult to use and does not have good page numbers. Please refer to the section numbers instead).
+- Cyril of Jerusalem, "Mystagogic Catechesis 1,2,4, & 5," in *Cyril of Jerusalem*, translated by E.J. Yarnold S.J. (London: Taylor & Francis Group, 2000), pp. 169-175, 179-187. *(VLC)* 
 
 #### Secondary Source Readings
 - John McGuckin, "Chapter 11, The Formation of Liturgy", in *The Path of Christianity: The First Thousand Years* (Downers Grove, IL: IVP Academic, 2017), 691-717. *(VLC)*
 - John McGuckin, "Chapter 7, A Church of the Nations: Ancient Global Christianity", in *The Path of Christianity: The First Thousand Years* (Downers Grove, IL: IVP Academic, 2017), 479-519. *Just browse this chapter if you need it to elaborate on the lecture, you do not need to read it end to end.* *(VLC)*
+- DIV 6700 Maps (these maps are posted to Brightspace. They do not have labels, but you can use the lectures and the internet to fill them in to study for the Map Tutorial) *(B)*
+
+#### Assignments
+- *Map Tutorial* is available under Assignments>Quizzes on Brightspace (in your section)! Please complete it before September 29th at 9:00 PM. You may take it as many times as needed please do take it until you get a perfect score.
+- *Practice Exam* The practice exam which was set for Sept. 17th will be delayed until Tuesday Sept. 29th. Please set aside 45 minutes from 9:00-9:45 AM on 9/29 for the practice exam. Details will be provided in section. You do not need to prepare extensively since this is just a practice exam.
+- *Florilegium IV* is due by 9 PM Central Time on Tuesday, September 22, 2020.
+
+Questions for *Florilegium IV* are:
+
+1. Egeria's descriptions of the liturgy follows patterns which perhaps indicate what she found most interesting or theologically meaningful. What are some of the patterns she observes with regard to the time, the day, the seasons, and the physical location of the liturgies she participates in? How do these patterns connect to biblical texts and theological themes of salvation and ressurection in the liturgies she describes?
+
+2. According to Cyril, how are the mysteries of Baptism and the Eucharist a form of access to heavenly things? 
+
+### Thursday, September 24, 2020
+- Discussion sections. *(Zoom)*
+
+## Week 6: Christianity and Empire
+
+Unless otherwise specified, please complete the readings, lectures, and assignments for each week by the end of the day on Tuesdays.
+
+*Nota Bene*: Please note the page numbers, for several of these sources you are only asked to read certain pages.
+
+#### Lectures
+- Michelson, David. "Geography of Early Christianity I" *(B)*
+- Michelson, David. "Geography of Early Christianity II" *(B)*
+- Michelson, David. "Christianity Shapes the Empire" *(B)*
+- Michelson, David. "The Empire Shapes Christianity" *(B)*
+- Michelson, David. "Divisions of Church and Empire" *(B)*
+
+#### Primary Source Readings
+- Anne McGowan and Paul F. Bradshaw, eds. and trans., *The Pilgrimage of Egeria: A New Translation of the Itinerarium Egeriae with Introduction and Commentary* (Collegeville, MN: Liturgical Press, 2018), (Sections 23-49). *(VLC)*  (NB: the library's ebook can be very difficult to use and does not have good page numbers. Please refer to the section numbers instead).
+- Cyril of Jerusalem, "Mystagogic Catechesis 1,2,4, & 5," in *Cyril of Jerusalem*, translated by E.J. Yarnold S.J. (London: Taylor & Francis Group, 2000), pp. 89-96, 169-175, 179-187. *(VLC)* 
+
+#### Secondary Source Readings
+- John McGuckin, "Chapter 4, The Gospel on the Throne: Christians in the Fourth-Century East", in *The Path of Christianity: The First Thousand Years* (Downers Grove, IL: IVP Academic, 2017), 278-342 (Browse for background only, you do not need to read this chapter in detail).
+- John McGuckin, "Section: Augustine and His Social Vision" in "Chapter 6, Remaking Society: The Church in the West in the Fourth to Sixth Centuries", in *The Path of Christianity: The First Thousand Years* (Downers Grove, IL: IVP Academic, 2017), 440-459.
+- John McGuckin, "Chapter 8, The Rise of the Ecumenical Conciliar System in the Fifth to Sixth Centuries [selections only, see page numbers below]", in *The Path of Christianity: The First Thousand Years* (Downers Grove, IL: IVP Academic, 2017), 539-567 (Browse for background only, you do not need to read this chapter in detail).
 - DIV 6700 Maps (these maps are posted to Brightspace. They do not have labels, but you can use the lectures and the internet to fill them in to study for the Map Tutorial) *(B)*
 
 #### Assignments
