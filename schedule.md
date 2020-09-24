@@ -140,7 +140,7 @@ For some reason, the translation of Irenaeus by Grant has left out the following
 **Source:** Irenaus. “Irenaeus against Heresies.” Translated by Alexander Roberts and James Donaldson. In *The Ante-Nicene Fathers*, ed. Alexander Roberts and James Donaldson, 417-18. Vol. 1. Buffalo: Christian Literature Publishing Company, 1887.
 
 #### Secondary Source Readings
-- McGuckin, John. "Selections from Chapter 2, The Fertile Second Century." In *The Path of Christianity: The First Thousand Years*), 3-4, 26-39, 48-54. Downers Grove, IL: IVP Academic, 2017. *(VLC)*
+- McGuckin, John. "Selections from Chapter 2, The Fertile Second Century." In *The Path of Christianity: The First Thousand Years*, 3-4, 26-39, 48-54. Downers Grove, IL: IVP Academic, 2017. *(VLC)*
 - King, Karen L. “Reading Sex and Gender in the Secret Revelation of John.” *Journal of Early Christian Studies* 19, no. 4 (2011): 519–38. doi:10.1353/earl.2011.0045. *(VLC)*
 - Minns, Denis. "Section: Scripture, Tradition and Church Order" of "Chapter 7: From Christ to Kingdom." In *Irenaeus: An Introduction*, 133-139 London: Bloomsbury, 2010. *(VLC)* 
 
@@ -170,12 +170,12 @@ Unless otherwise specified, please complete the readings, lectures, and assignme
 - Michelson, David. "Geography of Early Christianity II" *(B)*
 
 #### Primary Source Readings
-- McGowan, Anne and Paul F. Bradshaw, eds. and trans. *The Pilgrimage of Egeria: A New Translation of the Itinerarium Egeriae with Introduction and Commentary*. Collegeville, MN: Liturgical Press, 2018, Sections 23-49. *(VLC)*  (NB: the library's ebook can be very difficult to use and does not have good page numbers. Please refer to the section numbers instead).
-- Cyril of Jerusalem, "Mystagogic Catechesis 1,2,4, & 5," in *Cyril of Jerusalem*, translated by E.J. Yarnold S.J. (London: Taylor & Francis Group, 2000), pp. 169-175, 179-187. *(VLC)* 
+- McGowan, Anne and Paul F. Bradshaw, eds. and trans. *The Pilgrimage of Egeria: A New Translation of the Itinerarium Egeriae with Introduction and Commentary*, Sections 23-49. Collegeville, MN: Liturgical Press, 2018. *(VLC)*  (NB: the library's ebook can be very difficult to use and does not have good page numbers. Please refer to the section numbers instead).
+- Cyril of Jerusalem. "Mystagogic Catechesis 1,2,4, & 5." In *Cyril of Jerusalem*, 169-175, 179-187. Translated by E.J. Yarnold, S.J. London: Taylor & Francis Group, 2000. *(VLC)* 
 
 #### Secondary Source Readings
-- John McGuckin, "Chapter 11, The Formation of Liturgy", in *The Path of Christianity: The First Thousand Years* (Downers Grove, IL: IVP Academic, 2017), 691-717. *(VLC)*
-- John McGuckin, "Chapter 7, A Church of the Nations: Ancient Global Christianity", in *The Path of Christianity: The First Thousand Years* (Downers Grove, IL: IVP Academic, 2017), 479-519. *Just browse this chapter if you need it to elaborate on the lecture, you do not need to read it end to end.* *(VLC)*
+- McGuckin, John. "Chapter 11, The Formation of Liturgy." In *The Path of Christianity: The First Thousand Years*, 691-717. Downers Grove, IL: IVP Academic, 2017. *(VLC)*
+- McGuckin, John. "Chapter 7, A Church of the Nations: Ancient Global Christianity." In *The Path of Christianity: The First Thousand Years*,  479-519. Downers Grove, IL: IVP Academic, 2017. *(VLC)* *Just browse this chapter if you need it to elaborate on the lecture, you do not need to read it end to end.* *(VLC)*
 - DIV 6700 Maps (these maps are posted to Brightspace. They do not have labels, but you can use the lectures and the internet to fill them in to study for the Map Tutorial) *(B)*
 
 #### Assignments
@@ -206,25 +206,29 @@ Unless otherwise specified, please complete the readings, lectures, and assignme
 - Michelson, David. "Divisions of Church and Empire" *(B)*
 
 #### Primary Source Readings
-- Anne McGowan and Paul F. Bradshaw, eds. and trans., *The Pilgrimage of Egeria: A New Translation of the Itinerarium Egeriae with Introduction and Commentary* (Collegeville, MN: Liturgical Press, 2018), (Sections 23-49). *(VLC)*  (NB: the library's ebook can be very difficult to use and does not have good page numbers. Please refer to the section numbers instead).
-- Cyril of Jerusalem, "Mystagogic Catechesis 1,2,4, & 5," in *Cyril of Jerusalem*, translated by E.J. Yarnold S.J. (London: Taylor & Francis Group, 2000), pp. 89-96, 169-175, 179-187. *(VLC)* 
+- Eusebius. "Life of Constantine." In *Life of Constantine*,  Book I.22-32, Book I.37-48, Book III.4-14, Book IV 17-25. Edited and translated by Averil Cameron and Stuart G. Hall, Clarendon Ancient History Series. Oxford: Clarendon Press, 1999. *(VLC)* 
+- Augustine of Hippo. "The City of God: Book XIX, Chapters 5-12, 15-17." In *The City of God, Books XVII-XXII*, read pages 202-217, 223-229. Translated by Gerald G. Walsh, S.J. and Daniel J. Honan. Washington: D.C.: The Catholic University of America Press, 1954. *(VLC)* *Nota bene: While our discussion topic will not be directly focused on slavery, Augustine does have a stark discussion of it in chapter 15 which may be troubling.*
 
 #### Secondary Source Readings
-- John McGuckin, "Chapter 4, The Gospel on the Throne: Christians in the Fourth-Century East", in *The Path of Christianity: The First Thousand Years* (Downers Grove, IL: IVP Academic, 2017), 278-342 (Browse for background only, you do not need to read this chapter in detail).
-- John McGuckin, "Section: Augustine and His Social Vision" in "Chapter 6, Remaking Society: The Church in the West in the Fourth to Sixth Centuries", in *The Path of Christianity: The First Thousand Years* (Downers Grove, IL: IVP Academic, 2017), 440-459.
-- John McGuckin, "Chapter 8, The Rise of the Ecumenical Conciliar System in the Fifth to Sixth Centuries [selections only, see page numbers below]", in *The Path of Christianity: The First Thousand Years* (Downers Grove, IL: IVP Academic, 2017), 539-567 (Browse for background only, you do not need to read this chapter in detail).
+- McGuckin, John. "Chapter 4, The Gospel on the Throne: Christians in the Fourth-Century East". In *The Path of Christianity: The First Thousand Years*, 278-342. Downers Grove, IL: IVP Academic, 2017. (Browse for background only, you do not need to read this chapter in detail).
+- McGuckin, John. "Section: Augustine and His Social Vision". In "Chapter 6, Remaking Society: The Church in the West in the Fourth to Sixth Centuries", 440-459. In *The Path of Christianity: The First Thousand Years*. Downers Grove, IL: IVP Academic, 2017.
+- McGuckin, John. "Chapter 8, The Rise of the Ecumenical Conciliar System in the Fifth to Sixth Centuries [selections only, see page numbers below]", 539-567. In *The Path of Christianity: The First Thousand Years* (Downers Grove, IL: IVP Academic, 2017. (Browse for background only, you do not need to read this chapter in detail).
 - DIV 6700 Maps (these maps are posted to Brightspace. They do not have labels, but you can use the lectures and the internet to fill them in to study for the Map Tutorial) *(B)*
 
 #### Assignments
 - *Map Tutorial* is available under Assignments>Quizzes on Brightspace (in your section)! Please complete it before September 29th at 9:00 PM. You may take it as many times as needed please do take it until you get a perfect score.
-- *Practice Exam* The practice exam which was set for Sept. 17th will be delayed until Tuesday Sept. 29th. Please set aside 45 minutes from 9:00-9:45 AM on 9/29 for the practice exam. Details will be provided in section. You do not need to prepare extensively since this is just a practice exam.
+- *Practice Exam* The practice exam is due by 9 P.M. Tuesday Sept. 29th. You may take it at any time you wish, it is posted in your section. This exam is not factored into your final grade, it is a practice exam. Please see the question below to prepare.
 - *Florilegium IV* is due by 9 PM Central Time on Tuesday, September 22, 2020.
 
-Questions for *Florilegium IV* are:
+Question for *Practice Exam* is:
 
-1. Egeria's descriptions of the liturgy follows patterns which perhaps indicate what she found most interesting or theologically meaningful. What are some of the patterns she observes with regard to the time, the day, the seasons, and the physical location of the liturgies she participates in? How do these patterns connect to biblical texts and theological themes of salvation and ressurection in the liturgies she describes?
+How did Christians view the Roman Empire in the first four centuries of Christianity? Please describe three different Christian views of the Roman Empire using three of the early Christian primary sources assigned for our course. At least one source must have been written after the conversion of Constantine in the 4th century C.E. For each source, use quotations and citations to illustrate how the Christian author viewed Roman imperial power. Please formulate a thesis which answers the main question. 
 
-2. According to Cyril, how are the mysteries of Baptism and the Eucharist a form of access to heavenly things? 
+Example thesis: The attitudes of early Christians toward Roman political power developed and changed over time. At first Christians viewed the persecuting power of the Empire as a form of evil to be resisted. After the conversion of Constantine, Eusebius of Caesarea praised the power of the Emperor as providential, but a later theologian, Augustine, offered a more nuanced view of the sort of peace that empire could bring.
 
-### Thursday, September 24, 2020
+For the purposes of this practice exam, you may use your books, notes, and your past florilegia and commentarius. You may reuse any writing you already have written for our class as part of your answer. The final exam will be timed, so for the purpose of our practice exam, set a 60 minute period for yourself during which you work from your notes and previous florilegia to put together an answer. Your answer should be typed and should not be more than 1000 words.
+
+Nota bene: There is no florilegium due this week, *but*, you will need to read the texts for this week and take notes to answer this question.
+
+### Thursday, October 1, 2020
 - Discussion sections. *(Zoom)*
