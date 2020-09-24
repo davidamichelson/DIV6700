@@ -209,7 +209,9 @@ Unless otherwise specified, please complete the readings, lectures, and assignme
 
 #### Primary Source Readings
 - Eusebius. "Life of Constantine." In *Life of Constantine*,  Book I.22-32, Book I.37-48, Book III.4-14, Book IV 17-25. Edited and translated by Averil Cameron and Stuart G. Hall, Clarendon Ancient History Series. Oxford: Clarendon Press, 1999. *(VLC)* 
-- Augustine of Hippo. "The City of God: Book XIX, Chapters 5-12, 15-17." In *The City of God, Books XVII-XXII*, read pages 202-217, 223-229. Translated by Gerald G. Walsh, S.J. and Daniel J. Honan. Washington: D.C.: The Catholic University of America Press, 1954. *(VLC)* *Nota bene: While our discussion topic will not be directly focused on slavery, Augustine does have a stark discussion of it in chapter 15 which may be troubling.*
+- Augustine of Hippo. "The City of God: Book XIX, Chapters 5-12, 15-17." In *The City of God, Books XVII-XXII*, read pages 202-217, 223-229. Translated by Gerald G. Walsh, S.J. and Daniel J. Honan. Washington: D.C.: The Catholic University of America Press, 1954. *(VLC)* 
+
+*Nota bene: While our discussion topic will not be directly focused on slavery, Augustine does have a stark discussion of it in chapter 15 which may be troubling. Indeed, both sources bear the marks of the violent norms of Roman society.*
 
 #### Secondary Source Readings
 - McGuckin, John. "Chapter 4, The Gospel on the Throne: Christians in the Fourth-Century East". In *The Path of Christianity: The First Thousand Years*, 278-342. Downers Grove, IL: IVP Academic, 2017. (Browse for background only, you do not need to read this chapter in detail).
