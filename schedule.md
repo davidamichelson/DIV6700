@@ -220,7 +220,6 @@ Unless otherwise specified, please complete the readings, lectures, and assignme
 #### Assignments
 - *Map Tutorial* is available under Assignments>Quizzes on Brightspace (in your section)! Please complete it before September 29th at 9:00 PM. You may take it as many times as needed please do take it until you get a perfect score.
 - *Practice Exam* The practice exam is due by 9 P.M. Tuesday Sept. 29th. You may take it at any time you wish, it is posted in your section. This exam is not factored into your final grade, it is a practice exam. Please see the question below to prepare.
-- *Florilegium IV* is due by 9 PM Central Time on Tuesday, September 22, 2020.
 
 Question for *Practice Exam* is:
 
