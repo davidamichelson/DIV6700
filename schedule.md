@@ -235,3 +235,33 @@ Nota bene: There is no florilegium due this week, *but*, you will need to read t
 
 ### Thursday, October 1, 2020
 - Discussion sections. *(Zoom)*
+
+## Week 7: Desert Christians
+
+Unless otherwise specified, please complete the readings, lectures, and assignments for each week by the end of the day on Tuesdays.
+
+#### Lectures
+- Michelson, David. "Desert Christians" *(B)*
+- Michelson, David. "Byzantium" *(B)*
+
+#### Primary Source Readings
+- Wortley, John, translator. "6. Poverty [Aktēmosynē] and That It Is Necessary to Guard against Covetousness," "9. One Should Guard Against Judging Anybody (whole section)," "15. Humility (whole section)," "17. Love [Agapē]," in *The Book of the Elders Sayings of the Desert Fathers: The Systematic Collection*. Collegeville, Minn.: Liturgical Press, 2012. *(VLC)* Note bene: the page numbers are odd in this ebook, use the chapter headings instead.
+
+#### Secondary Source Readings
+-Harmless, William. “The Apophthegmata Patrum: Text and Context.” In *Desert Christians: An Introduction to the Literature of Early Monasticism*, 167–83, by William Harmless. Oxford: Oxford University Press, 2004. *(VLC)* 
+- McGuckin, John. "Chapter 5, Reconciling the World: Christian Ascetical and Penitential Imperatives". In *The Path of Christianity: The First Thousand Years*, 357-414. Downers Grove, IL: IVP Academic, 2017. (Browse for background only, you do not need to read this chapter in detail). *(VLC)* 
+- Wimbush, Vincent L. 1992. "Ascetic Behavior and Color-ful Language: Stories about Ethiopian Moses." Semeia no. 58: 81-92. ([https://scholarship.claremont.edu/cgu_fac_pub/25/]())
+
+#### Assignments
+- *Midterm Paper Draft Introduction* Due by 9:00 PM on 10/6.
+
+The midterm paper (1,000 words in length) is due on 10/15. For 10/6 please prepare a draft introduction of 150-200 words. This draft will be reviewed by your TA but is not factored into your final grade so please use it to test your ideas. The question to be addressed in the draft is: "According to the ancient editor of the *Apophthegmata Patrum*, what is the goal of the monastic life? How does the ancient editor employ the rhetoric of paradox to make this point? Analyze one or more of the organizational themes used by the editor to support your interpretation."
+
+The introduction of the paper should both introduce your answer to the question and let the reader know any relevant historical background in order to follow your argument. Do not spend too much time summarizing historical details, but do give your reader the basic essentials of who wrote the texts, when, and why. You will need to get this information from the textbooks and lectures in class. Finish by stating your answer to the question (your “thesis”) as clearly and briefly as possible at the end of your introduction. 
+
+You may also use secondary sources (such as the chapter from Harmless) to help you in your work but reading beyond works listed in the syllabus is not necessary. Stick to the text; work at what the ancient editor is trying to say in collecting these sayings and why he or she is saying it. This is not the place for you to express your own judgments on whether you love or hate the *Apophthegmata Patrum*. We are interested in understanding how the ancient Christians viewed their own religious experience.
+
+Please do consider meeting with the Divinity School writing tutor to help you proofread. While you are encouraged to ask a friend to check your grammar and prose; students are not allowed to co-author this assignment. The ideas must be your own. 
+
+### Thursday, October 8, 2020
+- Discussion sections. *(Zoom)*
