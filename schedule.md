@@ -245,10 +245,10 @@ Unless otherwise specified, please complete the readings, lectures, and assignme
 - Michelson, David. "Byzantium" *(B)*
 
 #### Primary Source Readings
-- Wortley, John, translator. "6. Poverty [Aktēmosynē] and That It Is Necessary to Guard against Covetousness," "9. One Should Guard Against Judging Anybody (whole section)," "15. Humility (whole section)," "17. Love [Agapē]," in *The Book of the Elders Sayings of the Desert Fathers: The Systematic Collection*. Collegeville, Minn.: Liturgical Press, 2012. *(VLC)* Note bene: the page numbers are odd in this ebook, use the chapter headings instead.
+- Wortley, John, translator. "6. Poverty [Aktēmosynē] and That It Is Necessary to Guard against Covetousness (whole section)," "9. One Should Guard Against Judging Anybody (whole section)," "15. Humility (whole section)," "17. Love [Agapē] (whole section)," in *The Book of the Elders Sayings of the Desert Fathers: The Systematic Collection*. Collegeville, Minn.: Liturgical Press, 2012. *(VLC)* Note bene: the page numbers are odd in this ebook, use the chapter headings instead.
 
 #### Secondary Source Readings
--Harmless, William. “The Apophthegmata Patrum: Text and Context.” In *Desert Christians: An Introduction to the Literature of Early Monasticism*, 167–83, by William Harmless. Oxford: Oxford University Press, 2004. *(VLC)* 
+- Harmless, William. “The Apophthegmata Patrum: Text and Context.” In *Desert Christians: An Introduction to the Literature of Early Monasticism*, 167–83, by William Harmless. Oxford: Oxford University Press, 2004. *(VLC)* 
 - McGuckin, John. "Chapter 5, Reconciling the World: Christian Ascetical and Penitential Imperatives". In *The Path of Christianity: The First Thousand Years*, 357-414. Downers Grove, IL: IVP Academic, 2017. (Browse for background only, you do not need to read this chapter in detail). *(VLC)* 
 - Wimbush, Vincent L. 1992. "Ascetic Behavior and Color-ful Language: Stories about Ethiopian Moses." Semeia no. 58: 81-92. ([https://scholarship.claremont.edu/cgu_fac_pub/25/]())
 
