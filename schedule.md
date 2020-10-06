@@ -250,7 +250,7 @@ Unless otherwise specified, please complete the readings, lectures, and assignme
 #### Secondary Source Readings
 - Harmless, William. “The Apophthegmata Patrum: Text and Context.” In *Desert Christians: An Introduction to the Literature of Early Monasticism*, 167–83, by William Harmless. Oxford: Oxford University Press, 2004. *(VLC)* 
 - McGuckin, John. "Chapter 5, Reconciling the World: Christian Ascetical and Penitential Imperatives". In *The Path of Christianity: The First Thousand Years*, 357-414. Downers Grove, IL: IVP Academic, 2017. (Browse for background only, you do not need to read this chapter in detail). *(VLC)* 
-- Wimbush, Vincent L. 1992. "Ascetic Behavior and Color-ful Language: Stories about Ethiopian Moses." Semeia no. 58: 81-92. ([https://scholarship.claremont.edu/cgu_fac_pub/25/]())
+- Wimbush, Vincent L. 1992. "Ascetic Behavior and Color-ful Language: Stories about Ethiopian Moses." Semeia no. 58: 81-92. ([https://scholarship.claremont.edu/cgu_fac_pub/25/](https://scholarship.claremont.edu/cgu_fac_pub/25/))
 
 #### Assignments
 - *Midterm Paper Draft Introduction* Due by 9:00 PM on 10/6.
