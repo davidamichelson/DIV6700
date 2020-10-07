@@ -265,3 +265,33 @@ Please do consider meeting with the Divinity School writing tutor to help you pr
 
 ### Thursday, October 8, 2020
 - Discussion sections. *(Zoom)*
+
+## Week 8: Syriac Christians
+
+Unless otherwise specified, please complete the readings, lectures, and assignments for each week by the end of the day on Tuesdays.
+
+#### Lectures
+- Michelson, David. "Syriac Christianities" *(B)*
+- Michelson, David. "Reading Scripture" *(B)*
+
+#### Primary Source Readings
+- McVey, Kathleen E., trans. “Hymns on the Nativity: Hymn 3.” in *Ephrem the Syrian: Hymns*, 82–88. New York: Paulist Press, 1989. *(B)*
+- Brock, Sebastian, trans. “The Dispute Between the Cherub and the Thief.” *Hugoye: The Journal of Syriac Studies* 5, no. 2 (2002): 181-188. [https://raw.githubusercontent.com/Beth-Mardutho/hugoye-data/master/pdf/vol5/HV5N2Brock.pdf](https://raw.githubusercontent.com/Beth-Mardutho/hugoye-data/master/pdf/vol5/HV5N2Brock.pdf)
+
+#### Secondary Source Readings
+- Taylor, David. “Christian Regional Diversity.” In *The Early Christian World*, ed. Philip Francis Esler, 295-306. Second Edition. London: Routledge, 2017. *(VLC)* 
+- Brock, Sebastian. “Ephrem on Reading Scripture.” In *Treasure-House of Mysteries*, pp. 21-30. Yonkers, 2012.  *(B)*
+- Shepardson, Christine. “Chapter 5: Syria and the Construction of Christian Orthodoxy.” In *Anti-Judaism and Christian Orthodoxy: Ephrem’s Hymns in Fourth-Century Syria*, 157-161. Washington, D.C.: Catholic University of America Press, 2008. *(VLC)* 
+
+#### Assignments
+- *Florilegium 5* due by 9:00 PM on 10/13.
+- *Midterm Paper* due by 8:00 AM on 10/15.
+
+**Question for Florilegium 5**
+
+How did Ephrem and other Syriac authors of intepretive poetry describe aspects of salvation history which they considered to be beyond human comprehension? In your answer, you may wish to look at particular rhetorical techniques, such as the use of paradox, biblical symbolism, or reliance on the "gaps" in the biblical texts.
+
+**Note: Please keep your florilegium short. 1000 words maximum for the whole assignment.**
+
+### Thursday, October 15, 2020
+- Discussion sections. *(Zoom)*
