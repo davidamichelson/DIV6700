@@ -295,3 +295,37 @@ How did Ephrem and other Syriac authors of intepretive poetry describe aspects o
 
 ### Thursday, October 15, 2020
 - Discussion sections. *(Zoom)*
+
+## Week 9: Islam
+
+Unless otherwise specified, please complete the readings, lectures, and assignments for each week by the end of the day on Tuesdays.
+
+#### Lectures
+- Michelson, David. "Islam I" *(B)*
+- Michelson, David. "Islam II" *(B)*
+- Michelson, David. "Icons and Iconclasm" *(B)*
+
+#### Primary Source Readings
+- Abdel Haleem, M. A. S., trans. *The Qur'an.* Oxford: Oxford University Press, 2015. Read Sura 2: 1-82, “The Cow”; Sura 5: 1-120: “The Feast”; Sura 30: 1-16: “The Byzantines”. *(This resource is available through VLC, but you may also access it through loging into  [Oxford Islamic Studies** online](https://catalog.library.vanderbilt.edu/permalink/01VAN_INST/6ll2l/alma991027090009703276)).*
+- Ibn Ishaq. “The Life of the Prophet.” In *The Life of Muhammad*, translated by Alfred Guillaume, 79–81. Oxford: Oxford University Press, 1955. *(B)*
+- "The Apology of Timothy the Patriarch before the Caliph Mahdi." In *Woodbrooke Studies: Christian Documents in Syriac, Arabic, and Garshuni,* edited and translated by A. Mingana. Volume 2, fasc. 3. Cambridge: W. Heffner & Sons Limited, 1928, [https://doi.org/doi:10.7282/T36T0K7D](https://doi.org/doi:10.7282/T36T0K7D). Please read pages 28-37 and 88-90.
+
+#### Secondary Source Readings
+- McGuckin, John. "Chapter 9, The Emergence of Christian Byzantium." In *The Path of Christianity: The First Thousand Years*, 631-640. Downers Grove, IL: IVP Academic, 2017. *(VLC)*
+- Kennedy, Hugh. “The Mediterranean Frontier: Christianity Face to Face with Islam, 600–1050.” In *The Cambridge History of Christianity: Volume 3: Early Medieval Christianities, c.600–c.1100*, edited by Julia M. H. Smith and Thomas F. X. Noble, 3:178–96. Cambridge: Cambridge University Press, 2008. *(VLC)*
+- Bundy, David D. “Timotheos I.” In *Gorgias Encyclopedic Dictionary of the Syriac Heritage: Electronic Edition*, edited by Sebastian P. Brock, Aaron M. Butts, George A. Kiraz and Lucas Van Rompay. Digital edition prepared by David Michelson, Ute Possekel, and Daniel L. Schwartz. Gorgias Press, 2011; online ed. Beth Mardutho, 2018. [https://gedsh.bethmardutho.org/Timotheos-I](https://gedsh.bethmardutho.org/Timotheos-I). 
+
+#### Assignments
+- *Florilegium 6* due by 9:00 PM on 10/20.
+- *Remix Topic* due by 9:00 PM on 10/20.
+
+**Question for Florilegium 6**
+Please answer these two questions in your *commentarius*. You may choose to answer them as separate paragraphs.
+
+* How does the Qurʾan position itself vis-à-vis the monotheistic tradition of  Christianity and Judaism?
+* What is the Qurʾan’s view of the Roman Empire?
+
+**Note: Please keep your florilegium short. 1000 words maximum for the whole assignment (including both questions).**
+
+### Thursday, October 22, 2020
+- Discussion sections. *(Zoom)*
