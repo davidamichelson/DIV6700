@@ -302,8 +302,7 @@ Unless otherwise specified, please complete the readings, lectures, and assignme
 
 #### Lectures
 - Michelson, David. "Islam I" *(B)*
-- Michelson, David. "Islam II" *(B)*
-- Michelson, David. "Icons and Iconclasm" *(B)*
+- Michelson, David. "Islam II and Iconoclasm" *(B)*
 
 #### Primary Source Readings
 - Abdel Haleem, M. A. S., trans. *The Qur'an.* Oxford: Oxford University Press, 2015. Read Sura 2: 1-82, “The Cow”; Sura 5: 1-120: “The Feast”; Sura 30: 1-16: “The Byzantines”. *(This resource is available through VLC, but you may also access it through loging into  [Oxford Islamic Studies** online](https://catalog.library.vanderbilt.edu/permalink/01VAN_INST/6ll2l/alma991027090009703276)).*
@@ -317,7 +316,7 @@ Unless otherwise specified, please complete the readings, lectures, and assignme
 
 #### Assignments
 - *Florilegium 6* due by 9:00 PM on 10/20.
-- *Remix Topic* due by 9:00 PM on 10/20.
+- *Remix Topic* due by 9:00 PM on 10/20. See information sheet under assignments.
 
 **Question for Florilegium 6**
 Please answer these two questions in your *commentarius*. You may choose to answer them as separate paragraphs.
