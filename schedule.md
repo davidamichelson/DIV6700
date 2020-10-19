@@ -307,7 +307,7 @@ Unless otherwise specified, please complete the readings, lectures, and assignme
 #### Primary Source Readings
 - Abdel Haleem, M. A. S., trans. *The Qur'an.* Oxford: Oxford University Press, 2015. Read Sura 2: 1-82, “The Cow”; Sura 5: 1-120: “The Feast”; Sura 30: 1-16: “The Byzantines”. *(This resource is available through VLC, but you may also access it through loging into  [Oxford Islamic Studies** online](https://catalog.library.vanderbilt.edu/permalink/01VAN_INST/6ll2l/alma991027090009703276)).*
 - Ibn Ishaq. "The Story of Bahira.” In *The Life of Muhammad*, translated by Alfred Guillaume, 79–81. Oxford: Oxford University Press, 1955. *(B)*
-- "The Apology of Timothy the Patriarch before the Caliph Mahdi." In *Woodbrooke Studies: Christian Documents in Syriac, Arabic, and Garshuni,* edited and translated by A. Mingana. Volume 2, fasc. 3. Cambridge: W. Heffner & Sons Limited, 1928, [https://doi.org/doi:10.7282/T36T0K7D](https://doi.org/doi:10.7282/T36T0K7D). Please read pages 28-37 and 88-90.
+- "The Apology of Timothy the Patriarch before the Caliph Mahdi." In *Woodbrooke Studies: Christian Documents in Syriac, Arabic, and Garshuni,* edited and translated by A. Mingana. Volume 2, fasc. 3. Cambridge: W. Heffner & Sons Limited, 1928, [https://doi.org/doi:10.7282/T36T0K7D](https://doi.org/doi:10.7282/T36T0K7D). Please read pages 28-37 and 88-90. *Nota Bene: Some students are reporting an error with this link, if so you can find a partial copy on Brightspace. But try this link first.*
 
 #### Secondary Source Readings
 - McGuckin, John. "Chapter 9, The Emergence of Christian Byzantium." In *The Path of Christianity: The First Thousand Years*, 631-640. Downers Grove, IL: IVP Academic, 2017. *(VLC)*
