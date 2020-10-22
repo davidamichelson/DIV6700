@@ -344,7 +344,7 @@ Unless otherwise specified, please complete the readings, lectures, and assignme
 #### Secondary Source Readings
 - Bantu, Vince. "Chapter 2. The First Christians of Africa." In *A Multitude of All Peoples: Engaging Ancient Christianity's Global Identity*, 72-118. Downer's Grove, Il.: Intervarsity Press, 2020. *(VLC)*
 - Dilley, Paul. “Jesus as Lord of the Dance.” Biblical Archaeology Society, October 2, 2018. [https://www.biblicalarchaeology.org/daily/people-cultures-in-the-bible/jesus-historical-jesus/jesus-as-lord-of-the-dance/](https://www.biblicalarchaeology.org/daily/people-cultures-in-the-bible/jesus-historical-jesus/jesus-as-lord-of-the-dance/).
-- Takahashi, Hidemi. "Syriac Christianity in China." In *The Syriac World*, edited by Daniel King, 625-652. London: Routledge, 2018. 
+- Takahashi, Hidemi. "Syriac Christianity in China." In *The Syriac World*, edited by Daniel King, 625-652. London: Routledge, 2018. *(VLC)*
 
 #### Assignments
 - *Florilegium 7* due by 9:00 PM on 10/27.
