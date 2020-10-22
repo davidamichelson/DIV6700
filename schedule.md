@@ -328,3 +328,34 @@ Please answer these two questions in your *commentarius*. You may choose to answ
 
 ### Thursday, October 22, 2020
 - Discussion sections. *(Zoom)*
+
+## Week 10: Christians in Africa and Asia
+
+Unless otherwise specified, please complete the readings, lectures, and assignments for each week by the end of the day on Tuesdays.
+
+#### Lectures
+- Michelson, David. "Christians of Africa" *(B)*
+- Michelson, David. "Christians of Asia" *(B)*
+
+#### Primary Source Readings
+- Ehrman, Bart D., and Zlatko Pleše, eds. “26. The Discourse upon the Cross.” In Other Gospels: Accounts of Jesus from Outside the New Testament, 226–30. New York: Oxford University Press, 2013. *(VLC)* *NB: This translation is actually two texts: “Discourse of the Savior” and “Dance of the Savior” (the latter begins at “p24” of the manuscript)*
+- Coakley, John W., and Andrea Sterk, eds. “Chinese Christian Sutras.” In Readings in World Christian History: Earliest Christianity to 1453, 1:247–51. Maryknoll, New York: Orbis Books, 2013. *(B)*
+
+#### Secondary Source Readings
+- Bantu, Vince. "Chapter 2. The First Christians of Africa." In *A Multitude of All Peoples: Engaging Ancient Christianity's Global Identity*, 72-118. Downer's Grove, Il.: Intervarsity Press, 2020. *(VLC)*
+- Dilley, Paul. “Jesus as Lord of the Dance.” Biblical Archaeology Society, October 2, 2018. [https://www.biblicalarchaeology.org/daily/people-cultures-in-the-bible/jesus-historical-jesus/jesus-as-lord-of-the-dance/](https://www.biblicalarchaeology.org/daily/people-cultures-in-the-bible/jesus-historical-jesus/jesus-as-lord-of-the-dance/).
+- Takahashi, Hidemi. "Syriac Christianity in China." In *The Syriac World*, edited by Daniel King, 625-652. London: Routledge, 2018. 
+
+#### Assignments
+- *Florilegium 7* due by 9:00 PM on 10/27.
+
+**Questions for Florilegium 7**
+Please answer these two questions in your *commentarius*. You may choose to answer them as separate paragraphs.
+
+- How does the author of the "Dance of the Savior" and "Discourse of the Savior" use the paradox of the cross (i.e. the inverted symbolism of the cross) to exalt Christ? How does this text reveal connections between medieval Nubian Christianity and the Christianities of the late ancient Mediterranean?
+- How do the Chinese Christian Sutras present Christian practices and beliefs in terms of concepts found in Buddhism (suffering), Taoism (the one way), and Confucianism (the virtues of loyalty and filial piety) of Tang Dynasty China?
+
+**Note: Please keep your florilegium short. 1000 words maximum for the whole assignment (including both questions).**
+
+### Thursday, October 29, 2020
+- Discussion sections. *(Zoom)*
