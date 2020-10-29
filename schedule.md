@@ -338,7 +338,7 @@ Unless otherwise specified, please complete the readings, lectures, and assignme
 - Michelson, David. "Christians of Asia" *(B)*
 
 #### Primary Source Readings
-- Ehrman, Bart D., and Zlatko Pleše, eds. “26. The Discourse upon the Cross.” In Other Gospels: Accounts of Jesus from Outside the New Testament, 226–30. New York: Oxford University Press, 2013. *(VLC)* *NB: This translation is actually two texts: “Discourse of the Savior” and “Dance of the Savior” (the latter begins at “p24” of the manuscript)*
+- Ehrman, Bart D., and Zlatko Pleše, eds. “26. The Discourse upon the Cross.” In *Other Gospels: Accounts of Jesus from Outside the New Testament*, 226–30. New York: Oxford University Press, 2013. *(VLC)* *NB: This reading is given only one title here but is actually two texts combined. The first part is “Discourse of the Savior” and the second is “Dance of the Savior” (the "Dance" begins at where you see the mark for “(p. 24)” of the manuscript)*
 - Coakley, John W., and Andrea Sterk, eds. “Chinese Christian Sutras.” In Readings in World Christian History: Earliest Christianity to 1453, 1:247–51. Maryknoll, New York: Orbis Books, 2013. *(B)*
 
 #### Secondary Source Readings
@@ -356,6 +356,39 @@ Please answer these two questions in your *commentarius*. You may choose to answ
 - How do the Chinese Christian Sutras present Christian practices and beliefs in terms of concepts found in Buddhism (suffering), Taoism (the one way), and Confucianism (the virtues of loyalty and filial piety) of Tang Dynasty China?
 
 **Note: Please keep your florilegium short. 1000 words maximum for the whole assignment (including both questions).**
+
+### Thursday, October 29, 2020
+- Discussion sections. *(Zoom)*
+
+## Week 11: Latin Christendom and The Clash of the Micro-Christendoms
+
+Unless otherwise specified, please complete the readings, lectures, and assignments for each week by the end of the day on Tuesdays.
+
+#### Lectures
+- Michelson, David. "The Latin West: Reform and Christendom" *(B)*
+- Michelson, David. "The Clash of Global Christianities: Micro-Christendoms on Crusade" *(B)*
+
+*With apologies that the lectures will not be available until Friday morning.*
+
+#### Primary Source Readings
+- Drogo of Terouanne and Baldwin of Hainault, “Truce of God” [https://sourcebooks.fordham.edu/source/t-of-god.asp](https://sourcebooks.fordham.edu/source/t-of-god.asp)
+- Andrew of Fleury, “The Peace League of Bourges,” from *The Miracles of St. Benedict* [https://sourcebooks.fordham.edu/source/1038peaceofbourges-thead.asp](https://sourcebooks.fordham.edu/source/1038peaceofbourges-thead.asp)
+- Guibert of Nogent, "The Deeds of God through the Franks" Selections taken from *The Deeds Of God Through The Franks: A Translation of Guibert de Nogent’s Gesta Dei per Francos*, tr. Robert Levine (Woodbridge, U.K.: The Boydell Press, 1997), 40-45, 126-33. *(B)*
+
+#### Secondary Source Readings
+- Michelson, David. "Charlemagne's Furniture." *Christian History* 108 (2014). [https://christianhistoryinstitute.org/magazine/article/charlemagnes-furniture](https://christianhistoryinstitute.org/magazine/article/charlemagnes-furniture)
+- Bagge, Sverre. “Christianizing Kingdoms.” In The Oxford Handbook of Medieval Christianity, edited by John H. Arnold. Oxford: Oxford University Press, 2014, n.p. doi:10.1093/oxfordhb/9780199582136.013.008. *(VLC)*
+- Bull, Marcus. “Crusade and Conquest.” In The Cambridge History of Christianity: Volume 4: Christianity in Western Europe, c.1100–c.1500, edited by Miri Rubin and Walter Simons, 4:340–52. Cambridge History of Christianity. Cambridge: Cambridge University Press, 2009. *(VLC)*
+
+#### Assignments
+- *Florilegium 8* due by 9:00 PM on 11/3/2020.
+
+**Questions for Florilegium 8**
+Using one or more of these sources from the Latin middle ages, describe how the Christian or Abrahamic impulse for reform (as seen in earlier sources such as the texts of monasticism or Islam) was adapted and continued in medieval Europe.
+
+Using one or more of these sources from the Latin middle ages, describe how the fusion of imperial power and monotheism found in earlier sources was continued or adapted in medieval Europe.
+
+**Note: Please keep your florilegium short. 1000 words maximum for the whole assignment.**
 
 ### Thursday, October 29, 2020
 - Discussion sections. *(Zoom)*
