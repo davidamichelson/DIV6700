@@ -382,6 +382,7 @@ Unless otherwise specified, please complete the readings, lectures, and assignme
 
 #### Assignments
 - *Florilegium 8* due by 9:00 PM on 11/3/2020.
+- *Remix Assignment* due by 8:00 AM on 11/5/2020.
 
 **Questions for Florilegium 8**
 Using one or more of these sources from the Latin middle ages, describe how the Christian or Abrahamic impulse for reform (as seen in earlier sources such as the texts of monasticism or Islam) was adapted and continued in medieval Europe.
