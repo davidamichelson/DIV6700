@@ -390,5 +390,5 @@ Using one or more of these sources from the Latin middle ages, describe how the 
 
 **Note: Please keep your florilegium short. 1000 words maximum for the whole assignment.**
 
-### Thursday, October 29, 2020
+### Thursday, November 5, 2020
 - Discussion sections. *(Zoom)*
