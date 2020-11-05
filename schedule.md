@@ -393,3 +393,34 @@ Using one or more of these sources from the Latin middle ages, describe how the 
 
 ### Thursday, November 5, 2020
 - Discussion sections. *(Zoom)*
+
+## Week 12: Crises of the Late Middle Ages and Christianities in the Americas
+
+Unless otherwise specified, please complete the readings, lectures, and assignments for each week by the end of the day on Tuesdays.
+
+#### Lectures
+- Michelson, David. "Light and Shadows in High Medieval Europe" *(B)*
+- Michelson, David. "5 Crises for Global Christianities" *(B)*
+- Michelson, David. "Christianities in the Americas" *(B)*
+
+#### Primary Source Readings
+- Hildegard of Bingen, “Introduction” and “Scivias (1151)”, in Sabina Flanagan, ed., and trans., Secrets of God: Writings of Hildegard of Bingen (1996) , pp. 1-11, 34-38. *(B)*
+- Weiler, Angela. “The Requerimiento (1513).” In Open Anthology of Earlier American Literature: [https://press.rebus.community/openamlit/chapter/the-requerimiento/](https://press.rebus.community/openamlit/chapter/the-requerimiento/)
+- “Chilam Balam of Chumayel”, in Munro S. Edmonson, ed., trans., Heaven Born Merida and Its Destiny: The Book of Chilam Balam of Chumayel (Austin: University of Texas Press, 1986), pp. 63, 108, 109-111. Excerpted by the National Humanities Center, 2006. *(B)*
+- Bartolomé de Las Casas, In Defense of the Indians, trans. and ed. Stafford Poole, C.M (DeKalb: Northern Illinois University Press, 1992), pp. 11-16, 285-289. *(B)*
+
+
+#### Secondary Source Readings
+- TBD *(one more reading coming soon)*
+- Ramey, Lynn T. “Medieval Race?” In Black Legacies: Race and the European Middle Ages. Gainesville, Florida: University Press of Florida, 2014, 25-38. *(VLC)* Browse this, it will be drawn upon in a subsequent week.
+
+#### Assignments
+- *Florilegium 9* due by 9:00 PM on 11/10/2020.
+
+**Questions for Florilegium 9**
+*Apologies that the questions will not be available until Friday morning. Hope to make them clearer than last week :)*
+
+**Note: You may choose to answer these questions in separate paragraphs or combine your answer into one. Please keep your florilegium short. 1000 words maximum for the whole assignment.**
+
+### Thursday, November 12, 2020
+- Discussion sections. *(Zoom)*
