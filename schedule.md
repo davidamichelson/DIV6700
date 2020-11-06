@@ -409,13 +409,17 @@ Unless otherwise specified, please complete the readings, lectures, and assignme
 - “Chilam Balam of Chumayel”, in Munro S. Edmonson, ed., trans., Heaven Born Merida and Its Destiny: The Book of Chilam Balam of Chumayel (Austin: University of Texas Press, 1986), pp. 63, 108, 109-111. Excerpted by the National Humanities Center, 2006. *(B)*
 - Bartolomé de Las Casas, In Defense of the Indians, trans. and ed. Stafford Poole, C.M (DeKalb: Northern Illinois University Press, 1992), pp. 11-16, 285-289. *(B)*
 
-
 #### Secondary Source Readings
-- TBD *(one more reading coming soon)*
+- Clayton, Lawrence A. "The Era of Columbus and the 'Discoverers'," in *Bartolome de Las Casas and the Conquest of the Americas*. Chichester, West Sussex, U.K.: Wiley-Blackwell, 2011, 10-32.
+*(VLC)*
 - Ramey, Lynn T. “Medieval Race?” In Black Legacies: Race and the European Middle Ages. Gainesville, Florida: University Press of Florida, 2014, 25-38. *(VLC)* Browse this, it will be drawn upon in a subsequent week.
 
 #### Assignments
 - *Florilegium 9* due by 9:00 PM on 11/10/2020.
+
+In what ways do Hildegard's visions call for a reform of Christendom?
+
+The sources on the colonization of the America's illustrate three different perspectives on the expansion of Christendom to the Americas. Identify and compare these three views.
 
 **Questions for Florilegium 9**
 *Apologies that the questions will not be available until Friday morning. Hope to make them clearer than last week :)*
