@@ -428,3 +428,31 @@ The sources on the colonization of the America's illustrate three different pers
 
 ### Thursday, November 12, 2020
 - Discussion sections. *(Zoom)*
+
+## Week 13: Reformations and Wars of Religion
+
+Unless otherwise specified, please complete the readings, lectures, and assignments for each week by the end of the day on Tuesdays.
+
+#### Lectures
+- Michelson, David. "Reformations" *(B)*
+- Michelson, David. "Wars of Religion" *(B)*
+
+#### Primary Source Readings
+- Martin Luther, “The Freedom of a Christian,: 1520,” in *The Annotated Luther*, edited by Timothy J. Wengert, Hans J. Hillerbrand, and Kirsi I. Stjerna (1517 Media, 2015), pp. 467–473, 487-492, 502-508. doi:10.2307/j.ctt13wwwmp.18 *(VLC)*
+- "Anna Jansz of Rotterdam" in *Profiles of Anabaptist Women Sixteenth-Century Reforming Pioneers*, edited by Linda A. Huebert Hecht and C. Arnold Snyder (Waterloo, Ont.: Wilfrid Laurier University Press, 1996), pp. 336-351. *(VLC)*
+
+#### Secondary Source Readings
+- Merry Wiesner-Hanks, “Women and Religious Change,” in *The Cambridge History of Christianity: Volume 6: Reform and Expansion 1500–1660*, edited by R. Po-chia Hsia (Cambridge: Cambridge University Press, 2007), pp. 465–82. doi:10.1017/CHOL9780521811620.026. *(VLC)*
+- Gary K. Waite, "Joris, David," in *The Oxford Encyclopedia of the Reformation* (Oxford University Press, 1996) https://www-oxfordreference-com.proxy.library.vanderbilt.edu/view/10.1093/acref/9780195064933.001.0001/acref-9780195064933-e-0743. *(VLC)*
+
+#### Assignments
+- *Florilegium 10* due by 9:00 PM on 11/17/2020.
+
+How do Martin Luther and Anna Jansz present the need for the reform of Christianity in terms of personal spirituality?
+
+How do both authors employ a rhetoric of paradox?
+
+**Note: You may choose to answer these questions in separate paragraphs or combine your answer into one. Please keep your florilegium short. 1000 words maximum for the whole assignment.**
+
+### Thursday, November 19, 2020
+- Discussion sections. *(Zoom)*
