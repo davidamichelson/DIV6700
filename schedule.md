@@ -476,7 +476,7 @@ Unless otherwise specified, please complete the readings, lectures, and assignme
 - Keller, Vera. “The ‘New World of Sciences’: The Temporality of the Research Agenda and the Unending Ambitions of Science.” *Isis* 103, no. 4 (December 1, 2012): 727–34. doi:10.1086/669047. *(VLC) Browse this article.*
 - Belcher, Wendy Laura. “Sisters Debating the Jesuits: The Role of African Women in Defeating Portuguese Proto-Colonialism in Seventeenth-Century Abyssinia.” Northeast African Studies 13, no. 1 (2013): 121–166. *(VLC) Browse this article.*
 - Belcher, Wendy Laura. “Same-Sex Intimacies in the Early African Text Gädlä Wälättä P̣eṭros (1672): Queer Reading an Ethiopian Woman Saint.” Research in African Literatures 47, no. 2 (2016): 20–45. *(VLC) Browse this article.*
-- McNutt, Jennifer Powell. “An Unsung Inspiration for the Protestant Reformation: The Ethiopian Church.” *Christian History*, August 27, 2020. https://www.christianitytoday.com/history/2020/august/unsung-inspiration-for-protestant-reformation-ethiopian-chu.html
+- McNutt, Jennifer Powell. “An Unsung Inspiration for the Protestant Reformation: The Ethiopian Church.” *Christian History*, August 27, 2020. [https://www.christianitytoday.com/history/2020/august/unsung-inspiration-for-protestant-reformation-ethiopian-chu.html](https://www.christianitytoday.com/history/2020/august/unsung-inspiration-for-protestant-reformation-ethiopian-chu.html)
 
 #### Assignments
 -*Florilegium 11* due by 9:00 PM on 12/1/2020.
