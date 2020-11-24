@@ -471,7 +471,6 @@ Unless otherwise specified, please complete the readings, lectures, and assignme
 -  Galawdewos. *The Life and Struggles of Our Mother Walatta Petros : A Seventeenth-Century African Biography of an Ethiopian Woman.* Translated by Michael Kleiner, Wendy Laura Belcher. Princeton, NJ: Princeton University Press, 2015. Read pages: 82-84, 93-133, 143-152, 204-208, 254-257, 267-270. (Chapters 2, 5-17, 23-25, 58-60, 86, 92). *(VLC)*
 -  Luther, Martin. "A Letter of Recommendation, dated July 4, 1534, signed by Luther and drafted by Philip Melanchthon for the Ethiopian, Michael" in “Luther and the Ethiopian Deacon,” translated by Daniels, David D. III, and Lawrence Anglin. Lutheran Quarterly 32, no. 4 (2018): 432-433. *(VLC) Read just these two pages.*
 
-
 #### Secondary Source Readings
 - Keller, Vera. “The ‘New World of Sciences’: The Temporality of the Research Agenda and the Unending Ambitions of Science.” *Isis* 103, no. 4 (December 1, 2012): 727–34. doi:10.1086/669047. *(VLC) Browse this article.*
 - Belcher, Wendy Laura. “Sisters Debating the Jesuits: The Role of African Women in Defeating Portuguese Proto-Colonialism in Seventeenth-Century Abyssinia.” Northeast African Studies 13, no. 1 (2013): 121–166. *(VLC) Browse this article.*
