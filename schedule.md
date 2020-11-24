@@ -456,3 +456,38 @@ How do both authors employ a rhetoric of paradox?
 
 ### Thursday, November 19, 2020
 - Discussion sections. *(Zoom)*
+
+## Week 14: World Christianities and Modernity
+
+Unless otherwise specified, please complete the readings, lectures, and assignments for each week by the end of the day on Tuesdays.
+
+#### Lectures
+- Michelson, David. "Science and New Worlds" *(B)*
+- Michelson, David. "World Christianities & the Rise of Modernity" *(B) Very Long!*
+- Michelson, David. "Concluding Thoughts" *(B) Very Short!*
+
+#### Primary Source Readings
+- Bacon, Francis. “Magnalia Naturae” in *New Atlantis a Work Unfinished* (London: 1658), Early English Books Online, Wing/342:05. *(B)* 
+-  Galawdewos. *The Life and Struggles of Our Mother Walatta Petros : A Seventeenth-Century African Biography of an Ethiopian Woman.* Translated by Michael Kleiner, Wendy Laura Belcher. Princeton, NJ: Princeton University Press, 2015. Read pages: 82-84, 93-133, 143-152, 204-208, 254-257, 267-270. (Chapters 2, 5-17, 23-25, 58-60, 86, 92). *(VLC)*
+-  Luther, Martin. "A Letter of Recommendation, dated July 4, 1534, signed by Luther and drafted by Philip Melanchthon for the Ethiopian, Michael" in “Luther and the Ethiopian Deacon,” translated by Daniels, David D. III, and Lawrence Anglin. Lutheran Quarterly 32, no. 4 (2018): 432-433. *(VLC) Read just these two pages.*
+
+
+#### Secondary Source Readings
+- Keller, Vera. “The ‘New World of Sciences’: The Temporality of the Research Agenda and the Unending Ambitions of Science.” *Isis* 103, no. 4 (December 1, 2012): 727–34. doi:10.1086/669047. *(VLC) Browse this article.*
+- Belcher, Wendy Laura. “Sisters Debating the Jesuits: The Role of African Women in Defeating Portuguese Proto-Colonialism in Seventeenth-Century Abyssinia.” Northeast African Studies 13, no. 1 (2013): 121–166. *(VLC) Browse this article.*
+- Belcher, Wendy Laura. “Same-Sex Intimacies in the Early African Text Gädlä Wälättä P̣eṭros (1672): Queer Reading an Ethiopian Woman Saint.” Research in African Literatures 47, no. 2 (2016): 20–45. *(VLC) Browse this article.*
+- McNutt, Jennifer Powell. “An Unsung Inspiration for the Protestant Reformation: The Ethiopian Church.” *Christian History*, August 27, 2020. https://www.christianitytoday.com/history/2020/august/unsung-inspiration-for-protestant-reformation-ethiopian-chu.html
+
+#### Assignments
+-*Florilegium 11* due by 9:00 PM on 12/1/2020.
+
+*NOTA BENE: If you are happy with your current florilegium grades you do not need to complete an 11th florilegium, this is an optional assignment for those who want to drop an earlier florilegium grade.*
+
+How do Galawdewos, Bacon, and Luther advocate for reform in these texts?
+
+How does Galawdewos use a rhetoric of paradox to support the authority of “Our Mother” Walatta-Petros?
+
+**Note: You may choose to answer these questions in separate paragraphs or combine your answer into one. Please keep your florilegium short. 1000 words maximum for the whole assignment.**
+
+### Thursday, December 3, 2020
+- Discussion sections. *(Zoom)*
