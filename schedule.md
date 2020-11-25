@@ -490,3 +490,12 @@ How does Galawdewos use a rhetoric of paradox to support the authority of “Our
 
 ### Thursday, December 3, 2020
 - Discussion sections. *(Zoom)*
+
+- Any remaining extra credit assignments must be turned in by 8:00 AM on Thursday, December 3, 2020. No late assignments will be accepted.
+
+## Final Exam
+
+### Wednesday, December 9, 2020
+- Final exam due as a single PDF on Brightspace before 11:59 AM Central Standard Time. Late exams will require approval from Dean Armour before they can be considered.
+
+
