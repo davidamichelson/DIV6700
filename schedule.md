@@ -1,6 +1,6 @@
 # Detailed Schedule for Fall 2022
 
-###Notes:
+## Notes:
 
 - This schedule will be updated regularly during the course of the semester. For each date listed, please read or complete any primary sources, secondary sources, or assignments listed before that date
 - Brightspace does not always handle URLS well. So you may need to cut and paste the links below into your browser.
