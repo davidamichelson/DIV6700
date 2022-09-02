@@ -69,7 +69,7 @@
 ### Thursday, September 1: Discussion
 *Assignments*
 
-- *Florilegium I* is due on Brightspace by 8 AM Central Time. Please also bring a paper copy to class.
+- *Practice Florilegium* is due on Brightspace by 8 AM Central Time. Please also bring a paper copy to class.
 
 1. How did Christians fit into existing patterns of Roman conflict with Judaism?
 2. How were Christians effected by the Roman fear of factions?
@@ -93,7 +93,7 @@
 
 *Assignments*
 
-- *Florilegium II* is due on Brightspace by 8 AM Central Time. Please also bring a paper copy to class.
+- *Practice Florilegium 2* is due on Brightspace by 8 AM Central Time. Please also bring a paper copy to class.
 
 1. Early Christian authors often drew upon the rhetorical strategy of creating "paradoxical antitheses" in which they re-defined or re-valued the norms of society through a Christian lens. How did early Christian authors used such paradoxes to express their theologies of martyrdom and asceticism?
 
