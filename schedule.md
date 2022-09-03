@@ -81,6 +81,8 @@
 ### Wednesday, September 7: Lecture on Martyrdom and the Cult of the Saints
 *Primary Sources* 
 
+Nota bene: Please be aware that these sources are accounts (fictional or otherwise) of violence including gendered/sexualized violence.
+
 - “Acts of Thecla.” In Bart Ehrman, ed., *Lost Scriptures: Books That Did Not Make It into the New Testament*, 113-122. New York: Oxford University Press, 2003. *(VLC)*
 - “The Passion of Saints Perpetua and Felicity.” In Thomas J. Heffernan, trans., *The Passion of Perpetua and Felicity*, 125-135. New York: Oxford University Press, 2012. *(VLC)*
 
