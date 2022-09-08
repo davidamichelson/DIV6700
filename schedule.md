@@ -133,9 +133,12 @@ For some reason, the translation of Irenaeus by Grant has left out the following
 - King, Karen L. “Reading Sex and Gender in the Secret Revelation of John.” *Journal of Early Christian Studies* 19, no. 4 (2011): 519–38. doi:10.1353/earl.2011.0045. *(VLC)*
 - Minns, Denis. "Section: Scripture, Tradition and Church Order" of "Chapter 7: From Christ to Kingdom." In *Irenaeus: An Introduction*, 133-139 London: Bloomsbury, 2010. *(VLC)* 
 
+### Thursday, September 15: Discussion
 *Assignments*
 
 - *Florilegium III* is due on Brightspace by 8 AM Central Time. Please also bring a paper copy to class.
+
+Please only answer one!
 
 1. Why does the author of the "Secret Book of John" think that their reader will be interested in the revelation contained in the book? How does reading the book help save the reader?
 2. What is truth according to Irenaeus? What are some of the rules of faith by which he argues that Christians can determine if a teacher or "scripture" conforms to the truth?
