@@ -136,7 +136,7 @@ For some reason, the translation of Irenaeus by Grant has left out the following
 ### Thursday, September 15: Discussion
 *Assignments*
 
-- *Florilegium III* is due on Brightspace by 8 AM Central Time. Please also bring a paper copy to class.
+- *Florilegium I* is due on Brightspace by 8 AM Central Time. Please also bring a paper copy to class.
 
 Please only answer one!
 
@@ -166,7 +166,7 @@ Please only answer one!
 *Assignments*
 
 - Map tutorial due on Brightspace.
-- *Florilegium IV* is due on Brightspace by 8 AM Central Time. Please also bring a paper copy to class.
+- *Florilegium II* is due on Brightspace by 8 AM Central Time. Please also bring a paper copy to class.
 
 1. Egeria's descriptions of the liturgy follows patterns which perhaps indicate what she found most interesting or theologically meaningful. What are some of the patterns she observes with regard to the time, the day, the seasons, and the physical location of the liturgies she participates in? How do these patterns connect to biblical texts and theological themes of salvation and ressurection in the liturgies she describes?
 2. According to Cyril, how are the mysteries of Baptism and the Eucharist a form of access to heavenly things? 
@@ -219,7 +219,7 @@ Please only answer one!
 ### Thursday, October 6: Discussion
 *Assignments*
 
-- *Florilegium V* is due on Brightspace by 8 AM Central Time. Please also bring a paper copy to class.
+- *Florilegium III* is due on Brightspace by 8 AM Central Time. Please also bring a paper copy to class.
 
 ## Week 8: Syriac Christians
 ### Monday, October 10: Lecture on Syriac Christians
@@ -242,7 +242,7 @@ Please only answer one!
 ### Wednesday, October 12: Lecture on Reading Scripture and Large Group Discussion
 *Assignments*
 
-- *Florilegium VI* due by is due on Brightspace by 10 AM Central Time. Please also bring a paper copy to class.
+- *Florilegium IV* due by is due on Brightspace by 10 AM Central Time. Please also bring a paper copy to class.
 
 1. How did Ephrem and other Syriac authors of intepretive poetry describe aspects of salvation history which they considered to be beyond human comprehension? 
 2. In your answer, you may wish to look at particular rhetorical techniques, such as the use of paradox, biblical symbolism, or reliance on the "gaps" in the biblical texts.
@@ -271,7 +271,7 @@ Please only answer one!
 
 *Assignments*
 
-- *Florilegium VII* is due on Brightspace by 8 AM Central Time. Please also bring a paper copy to class.
+- *Florilegium V* is due on Brightspace by 8 AM Central Time. Please also bring a paper copy to class.
 
 1. How does the Qurʾan position itself vis-à-vis the monotheistic tradition of  Christianity and Judaism?
 2. What is the Qurʾan’s view of the Roman Empire?
@@ -302,7 +302,7 @@ Please only answer one!
 ### Thursday, October 29, 2020
 *Assignments*
 
-- *Florilegium VIII* is due on Brightspace by 8 AM Central Time. Please also bring a paper copy to class.
+- *Florilegium VI* is due on Brightspace by 8 AM Central Time. Please also bring a paper copy to class.
 
 1. How does the author of the "Dance of the Savior" and "Discourse of the Savior" use the paradox of the cross (i.e. the inverted symbolism of the cross) to exalt Christ? How does this text reveal connections between medieval Nubian Christianity and the Christianities of the late ancient Mediterranean?
 2. How do the Chinese Christian Sutras present Christian practices and beliefs in terms of concepts found in Buddhism (suffering), Taoism (the one way), and Confucianism (the virtues of loyalty and filial piety) of Tang Dynasty China?
@@ -326,7 +326,7 @@ Please only answer one!
 
 *Assignments*
 
-- *Florilegium IX* is due on Brightspace by 8 AM Central Time. Please also bring a paper copy to class.
+- *Florilegium VII* is due on Brightspace by 8 AM Central Time. Please also bring a paper copy to class.
 1. Using one or more of these sources from the Latin middle ages, describe how the Christian or Abrahamic impulse for reform (as seen in earlier sources such as the texts of monasticism or Islam) was adapted and continued in medieval Europe.
 2. Using one or more of these sources from the Latin middle ages, describe how the fusion of imperial power and monotheism found in earlier sources was continued or adapted in medieval Europe.
 
@@ -375,7 +375,7 @@ Please only answer one!
 
 *Assignments*
 
-- *Florilegium X* is due on Brightspace by 8 AM Central Time. Please also bring a paper copy to class.
+- *Florilegium VIII* is due on Brightspace by 8 AM Central Time. Please also bring a paper copy to class.
 
 1. In what ways do Hildegard's visions call for a reform of Christendom?
 2. The sources on the colonization of the America's illustrate three different perspectives on the expansion of Christendom to the Americas. Identify and compare these three views.
@@ -400,7 +400,7 @@ Please only answer one!
 ### Thursday, December 1: Discussion
 *Assignments*
 
-- *Optional Florilegium XI* due by 9:00 PM on 11/17/2020.
+- *Florilegium IX* is due on Brightspace by 8 AM Central Time.
 
 1. How do Martin Luther and Anna Jansz present the need for the reform of Christianity in terms of personal spirituality?
 2. How do both authors employ a rhetoric of paradox?
@@ -433,7 +433,7 @@ Please only answer one!
 
 ### Thursday, December 8: Discussion
 *Assignments*
-
+- *Florilegium X* is due on Brightspace by 8 AM Central Time.
 - Any remaining extra credit assignments must be turned in by 8:00 AM on Thursday, December 8, 2020. No late assignments will be accepted for any reason.
 
 
