@@ -149,7 +149,7 @@ Please only answer one!
 ### Monday, September 19: Lecture on Baptism and Eucharist
 *Primary Sources* 
 
-- McGowan, Anne and Paul F. Bradshaw, eds. and trans. *The Pilgrimage of Egeria: A New Translation of the Itinerarium Egeriae with Introduction and Commentary*, Sections 23-49. Collegeville, MN: Liturgical Press, 2018. *(VLC)*  (NB: the library's ebook can be very difficult to use and does not have good page numbers. Please refer to the section numbers instead).
+- McGowan, Anne and Paul F. Bradshaw, eds. and trans. *The Pilgrimage of Egeria: A New Translation of the Itinerarium Egeriae with Introduction and Commentary*, Sections 23-49. Collegeville, MN: Liturgical Press, 2018. *(VLC)*  (NB: the library's ebook can be very difficult to use and does not have good page numbers. Please refer to the section numbers inside the part labeled "TRANSLATION AND COMMENTARY" instead. For example, section 23 begins "1 For setting out from Tarsus, I arrived at a certain city" and may be on page 97 of 144 in the ebook).
 - Cyril of Jerusalem. "Mystagogic Catechesis 1,2,4, & 5." In *Cyril of Jerusalem*, 169-175, 179-187. Translated by E.J. Yarnold, S.J. London: Taylor & Francis Group, 2000. *(VLC)* 
 
 *Secondary Sources* 
