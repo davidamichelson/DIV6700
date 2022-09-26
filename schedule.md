@@ -165,7 +165,6 @@ Please only answer one!
 
 *Assignments*
 
-- Map tutorial due on Brightspace.
 - *Florilegium II* is due on Brightspace by 8 AM Central Time. Please also bring a paper copy to class.
 
 1. Egeria's descriptions of the liturgy follows patterns which perhaps indicate what she found most interesting or theologically meaningful. What are some of the patterns she observes with regard to the time, the day, the seasons, and the physical location of the liturgies she participates in? How do these patterns connect to biblical texts and theological themes of salvation and ressurection in the liturgies she describes?
@@ -194,7 +193,7 @@ Please only answer one!
 ### Friday, September 30
 *Assignments*
 
-- Midterm Essay due on brightspace by 5 PM.
+- Midterm Essay due on brightspace by 12:00 PM (Noon).
 
 
 ## Week 7: Desert Christians 
@@ -219,6 +218,7 @@ Please only answer one!
 ### Thursday, October 6: Discussion
 *Assignments*
 
+- Map tutorial due on Brightspace by 8 AM Central Time. You may take this as many times as you need, but you must pass with 100%. You may consult notes, the study guide, and other materials as you complete it.
 - *Florilegium III* is due on Brightspace by 8 AM Central Time. Please also bring a paper copy to class.
 
 ## Week 8: Syriac Christians
