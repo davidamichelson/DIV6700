@@ -219,7 +219,8 @@ Please only answer one!
 *Assignments*
 
 - Map tutorial due on Brightspace by 8 AM Central Time. You may take this as many times as you need, but you must pass with 100%. You may consult notes, the study guide, and other materials as you complete it.
-- *Florilegium III* is due on Brightspace by 8 AM Central Time. Please also bring a paper copy to class.
+- *Florilegium III* is due on Brightspace by 8 AM Central Time. Please also bring a paper copy to class. Please answer this two-part question:
+According to the ancient editor of the Apophthegmata Patrum, what is the goal of the monastic life? How does the ancient editor employ the rhetoric of paradox to make this point? Analyze one or more of the organizational themes (poverty, non-judgement, humility, love, etc.) used by the editor to support your interpretation.
 
 ## Week 8: Syriac Christians
 ### Monday, October 10: Lecture on Syriac Christians
