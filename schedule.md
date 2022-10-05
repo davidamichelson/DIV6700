@@ -211,6 +211,7 @@ Please only answer one!
 
 ### Wednesday, October 5: Lecture on Divisions of Church and Empire
 
+<-- for 2023 addin Augustine here, also push midterm back one week -->
 *Secondary Sources* 
 
 - McGuckin, John. "Chapter 8, The Rise of the Ecumenical Conciliar System in the Fifth to Sixth Centuries [selections only, see page numbers below]", 539-567. In *The Path of Christianity: The First Thousand Years* (Downers Grove, IL: IVP Academic, 2017. (Browse for background only, you do not need to read this chapter in detail).
