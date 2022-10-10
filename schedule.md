@@ -246,7 +246,7 @@ According to the ancient editor of the Apophthegmata Patrum, what is the goal of
 
 - *Florilegium IV* due by is due on Brightspace by 10 AM Central Time. Please also bring a paper copy to class.
 
-1. How did Ephrem and other Syriac authors of intepretive poetry describe aspects of salvation history which they considered to be beyond human comprehension? 
+1. How did Ephrem and other Syriac authors of interpretive poetry describe aspects of salvation history which they considered to be beyond human comprehension? 
 2. In your answer, you may wish to look at particular rhetorical techniques, such as the use of paradox, biblical symbolism, or reliance on the "gaps" in the biblical texts.
 
 ### Thursday, October 13: Fall Break (No Class)
