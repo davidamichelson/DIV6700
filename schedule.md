@@ -9,7 +9,7 @@
 
 *(B)*: Item is posted to Brightspace.
 
-*(VLC)*: Item id available through searching the Vanderbilt Libraries Catalogue ([https://catalog.library.vanderbilt.edu](https://catalog.library.vanderbilt.edu)).
+*(VLC)*: Item is available through searching the Vanderbilt Libraries Catalogue ([https://catalog.library.vanderbilt.edu](https://catalog.library.vanderbilt.edu)).
 
 *(Link provided)*: For these items, a link is provided directly in this schedule.
 
