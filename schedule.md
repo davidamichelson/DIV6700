@@ -275,8 +275,8 @@ According to the ancient editor of the Apophthegmata Patrum, what is the goal of
 
 - *Florilegium V* is due on Brightspace by 8 AM Central Time. Please also bring a paper copy to class.
 
-1. How does the Qurʾan position itself vis-à-vis the monotheistic tradition of  Christianity and Judaism?
-2. What is the Qurʾan’s view of the Roman Empire?
+1. How does the Qurʾan position itself as a reform movement vis-à-vis the monotheistic traditions of  Christianity and Judaism?
+2. In these sources, how do Christians and Muslims appeal to their shared monotheism to support the claims of their respective religions?
 
 ## Week 10: Christians in Africa and Asia
 ### Monday, October 24: Lecture on Christianity in Africa
