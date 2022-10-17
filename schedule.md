@@ -274,7 +274,9 @@ According to the ancient editor of the Apophthegmata Patrum, what is the goal of
 *Assignments*
 
 - *Florilegium V* is due on Brightspace by 8 AM Central Time. Please also bring a paper copy to class.
+
 Answer only one of these:
+
 1. How does the Qurʾan position itself as a reform movement vis-à-vis the monotheistic traditions of  Christianity and Judaism?
 2. In these sources, how do Christians and Muslims appeal to their shared monotheism to support the claims of their respective religions?
 
