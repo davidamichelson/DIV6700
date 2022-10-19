@@ -308,7 +308,7 @@ Answer only one of these:
 
 - *Florilegium VI* is due on Brightspace by 8 AM Central Time. Please also bring a paper copy to class.
 
-1. How does the author of the "Dance of the Savior" and "Discourse of the Savior" use the paradox of the cross (i.e. the inverted symbolism of the cross) to exalt Christ? How does this text reveal connections between medieval Nubian Christianity and the Christianities of the late ancient Mediterranean?
+1. How does the author of the "Dance of the Savior" and "Discourse of the Savior" use the paradox of the cross (i.e. the inverted symbolism of the cross) to exalt Christ? How does this use of paradox in medieval Nubian Christianity compare with the use of paradox in other Christianities of the late ancient Mediterranean?
 2. How do the Chinese Christian Sutras present Christian practices and beliefs in terms of concepts found in Buddhism (suffering), Taoism (the one way), and Confucianism (the virtues of loyalty and filial piety) of Tang Dynasty China?
 
 ## Week 11: Greek and Latin Christendoms
