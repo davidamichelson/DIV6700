@@ -280,7 +280,7 @@ Answer only one of these:
 1. How does the Qurʾan position itself as a reform movement vis-à-vis the monotheistic traditions of  Christianity and Judaism?
 2. In these sources, how do Christians and Muslims appeal to their shared monotheism to support the claims of their respective religions?
 
-## Week 10: Christians in Africa and Asia
+## Week 10: Christians in Africa and Asia <!--- swap these and but Asia first next time --->
 ### Monday, October 24: Lecture on Christianity in Africa
 
 *Primary Sources* 
@@ -311,12 +311,12 @@ Answer only one of these:
 1. How does the author of the "Dance of the Savior" and "Discourse of the Savior" use the paradox of the cross (i.e. the inverted symbolism of the cross) to exalt Christ? How does this use of paradox in medieval Nubian Christianity compare with the use of paradox in other Christianities of the late ancient Mediterranean?
 2. How do the Chinese Christian Sutras present Christian practices and beliefs in terms of concepts found in Buddhism (suffering), Taoism (the one way), and Confucianism (the virtues of loyalty and filial piety) of Tang Dynasty China?
 
-## Week 11: Greek and Latin Christendoms
+## Week 11: Greek and Latin Christendoms 
 ### Monday, October 31: Lecture on Byzantium
 
 ### Wednesday, November 2: Lecture on the Latin West, Reform, and Christendom
 
-*Primary Sources* 
+*Primary Sources*  <!--- Change these readings: Thomas Head ebook and also https://web.pdx.edu/~ott/drogopeace/index.html --->
 
 - Drogo of Terouanne and Baldwin of Hainault, “Truce of God” [https://sourcebooks.fordham.edu/source/t-of-god.asp](https://sourcebooks.fordham.edu/source/t-of-god.asp)
 - Andrew of Fleury, “The Peace League of Bourges,” from *The Miracles of St. Benedict* [https://sourcebooks.fordham.edu/source/1038peaceofbourges-thead.asp](https://sourcebooks.fordham.edu/source/1038peaceofbourges-thead.asp)
@@ -340,6 +340,7 @@ Answer only one of these:
 
 - Guibert of Nogent, "The Deeds of God through the Franks" Selections taken from *The Deeds Of God Through The Franks: A Translation of Guibert de Nogent’s Gesta Dei per Francos*, tr. Robert Levine (Woodbridge, U.K.: The Boydell Press, 1997), 40-45, 126-33. *(B)*
 
+*Secondary Sources* 
 
 - Bull, Marcus. “Crusade and Conquest.” In The Cambridge History of Christianity: Volume 4: Christianity in Western Europe, c.1100–c.1500, edited by Miri Rubin and Walter Simons, 4:340–52. Cambridge History of Christianity. Cambridge: Cambridge University Press, 2009. *(VLC)*
 
@@ -356,7 +357,7 @@ Answer only one of these:
 
 *Assignments*
 
-- No Florilegium due
+- No Florilegium due! But do come to class prepared to discuss this topic: Compare and contrast the themes of reform and of Christendom as found in Guibert of Nogent and Hildegard of Bingen.
 
 ## Week 13: Crises of the Late Middle Ages and Christianities in the Americas
 ### Monday, November 14: Lecture on 5 Crises for Global Christianites
