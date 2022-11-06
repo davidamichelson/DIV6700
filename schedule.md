@@ -342,7 +342,7 @@ Answer only one of these:
 
 *Secondary Sources* 
 
-- Bull, Marcus. “Crusade and Conquest.” In The Cambridge History of Christianity: Volume 4: Christianity in Western Europe, c.1100–c.1500, edited by Miri Rubin and Walter Simons, 4:340–52. Cambridge History of Christianity. Cambridge: Cambridge University Press, 2009. *(VLC)*
+- Bull, Marcus. “Crusade and Conquest.” In _The Cambridge History of Christianity: Volume 4: Christianity in Western Europe, c.1100–c.1500_, edited by Miri Rubin and Walter Simons, 4:340–52. Cambridge History of Christianity. Cambridge: Cambridge University Press, 2009. *(VLC)*
 
 *Assignments*
 
