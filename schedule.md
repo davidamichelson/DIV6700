@@ -378,12 +378,11 @@ Answer only one of these:
 
 ### Thursday, November 17: Discussion
 
-*Assignments*
+*Assignment*
 
 - *Florilegium VIII* is due on Brightspace by 8 AM Central Time. Please also bring a paper copy to class.
 
-1. In what ways do Hildegard's visions call for a reform of Christendom?
-2. The sources on the colonization of the America's illustrate three different perspectives on the expansion of Christendom to the Americas. Identify and compare these three views.
+The primary sources on the colonization of the America's illustrate three different perspectives on the Spanish expansion of Christendom to the Americas. What are these three views? Who held each view? For each perspective, please discuss if it approved or disapproved of how the Spanish colonizers went about expanding Christendom.
 
 ## Week 14: Reformations and Wars of Religion
 ### Monday, November 28: Lecture on Reformations
