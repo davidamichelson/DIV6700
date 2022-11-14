@@ -374,7 +374,7 @@ Answer only one of these:
 
 - Clayton, Lawrence A. "The Era of Columbus and the 'Discoverers'," in *Bartolome de Las Casas and the Conquest of the Americas*. Chichester, West Sussex, U.K.: Wiley-Blackwell, 2011, 10-32.
 *(VLC)*
-- Ramey, Lynn T. “Medieval Race?” In Black Legacies: Race and the European Middle Ages. Gainesville, Florida: University Press of Florida, 2014, 25-38. *(VLC)* Browse this, it will be drawn upon in a subsequent week.
+- Ramey, Lynn T. “Medieval Race?” In _Black Legacies: Race and the European Middle Ages_. Gainesville, Florida: University Press of Florida, 2014, 25-38. *(VLC)* Browse this, it will be drawn upon in a subsequent week.
 
 ### Thursday, November 17: Discussion
 
