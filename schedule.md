@@ -280,7 +280,8 @@ Answer only one of these:
 1. How does the Qurʾan position itself as a reform movement vis-à-vis the monotheistic traditions of  Christianity and Judaism?
 2. In these sources, how do Christians and Muslims appeal to their shared monotheism to support the claims of their respective religions?
 
-## Week 10: Christians in Africa and Asia <!--- swap these and but Asia first next time --->
+## Week 10: Christians in Africa and Asia 
+<!--- swap these and but Asia first next time --->
 ### Monday, October 24: Lecture on Christianity in Africa
 
 *Primary Sources* 
