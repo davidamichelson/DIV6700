@@ -367,9 +367,9 @@ Answer only one of these:
 
 *Primary Sources* 
 
-- Weiler, Angela. “The Requerimiento (1513).” In Open Anthology of Earlier American Literature: [https://press.rebus.community/openamlit/chapter/the-requerimiento/](https://press.rebus.community/openamlit/chapter/the-requerimiento/)
-- “Chilam Balam of Chumayel”, in Munro S. Edmonson, ed., trans., Heaven Born Merida and Its Destiny: The Book of Chilam Balam of Chumayel (Austin: University of Texas Press, 1986), pp. 63, 108, 109-111. Excerpted by the National Humanities Center, 2006. *(B)*
-- Bartolomé de Las Casas, In Defense of the Indians, trans. and ed. Stafford Poole, C.M (DeKalb: Northern Illinois University Press, 1992), pp. 11-16, 285-289. *(B)*
+- Weiler, Angela. “The Requerimiento (1513).” In _Open Anthology of Earlier American Literature_: [https://press.rebus.community/openamlit/chapter/the-requerimiento/](https://press.rebus.community/openamlit/chapter/the-requerimiento/)
+- “Chilam Balam of Chumayel”, in Munro S. Edmonson, ed., trans., _Heaven Born Merida and Its Destiny: The Book of Chilam Balam of Chumayel_ (Austin: University of Texas Press, 1986), pp. 63, 108, 109-111. Excerpted by the National Humanities Center, 2006. *(B)*
+- Bartolomé de Las Casas, _In Defense of the Indians_, trans. and ed. Stafford Poole, C.M (DeKalb: Northern Illinois University Press, 1992), pp. 11-16, 285-289. *(B)*
 
 *Secondary Sources* 
 
