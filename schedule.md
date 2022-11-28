@@ -407,8 +407,10 @@ The primary sources on the colonization of the America's illustrate three differ
 
 - *Florilegium IX* is due on Brightspace by 8 AM Central Time.
 
+Answer one:
+
 1. How do Martin Luther and Anna Jansz present the need for the reform of Christianity in terms of personal spirituality?
-2. How do both authors employ a rhetoric of paradox?
+2. How do Martin Luther and Anna Jansz employ a rhetoric of paradox to express their calls to reform?
 
 ## Week 15: World Christianities and Modernity
 ### Monday, December 5: Lecture on World Christianities & the Rise of Modernity
