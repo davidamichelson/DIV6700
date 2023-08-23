@@ -2,7 +2,7 @@
 
 ### Notes:
 
-- This schedule will be updated regularly during the course of the semester. For each date listed, please read or complete any primary sources, secondary sources, or assignments listed before that date
+- This schedule will be updated regularly during the course of the semester. For each date, please read or complete any primary sources, secondary sources, or assignments listed following it. Please complete these assignments before coming to class on that date.
 - Brightspace does not always handle URLS well. So you may need to cut and paste the links below into your browser.
 
 ## Key to Abbreviations
@@ -20,13 +20,13 @@
 *Secondary Sources* 
 
 - Michelson, David. "How to Read for DIV 6700." *(B)*
-- Michelson, David. 'Florilegium Guides." *(B)*
+- Michelson, David. 'Florilegium Guide." *(B)*
 
 ### Thursday, August 24: Discussion
 
 *Primary Sources*
 
-- 2 Esdras 14-16 [I recommend you read this in the *New Oxford Annotated Bible: New Revised Standard Version* which is available in *VLC*: [https://catalog.library.vanderbilt.edu/permalink/01VAN_INST/6ll2l/alma991043584815303276](https://catalog.library.vanderbilt.edu/permalink/01VAN_INST/6ll2l/alma991043584815303276)]
+- 2 Esdras 14-16 [We recommend you read this in the *New Oxford Annotated Bible: New Revised Standard Version* which is available in *VLC*: [https://catalog.library.vanderbilt.edu/permalink/01VAN_INST/6ll2l/alma991043584815303276](https://catalog.library.vanderbilt.edu/permalink/01VAN_INST/6ll2l/alma991043584815303276)]
 
 *Secondary Sources* 
 
@@ -38,7 +38,7 @@
 
 *Assignments*
 
-- Before Thursday please help me get to know you by completeing the DIV 6700 Student Questionnaire distributed in class in Wednesday.
+- Before Thursday please help us get to know you by completing the DIV 6700 Student Questionnaire distributed in class on Wednesday.
 - Come to class prepared to discuss this question about 2 Esdras: What can this source tell us about the place of Christianity in the pre-existing conflict between Judaism and Hellenism?
 - In class on Thursday, sign up for an appointment to meet with Dr. Michelson in groups of three.
 
