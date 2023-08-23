@@ -307,7 +307,7 @@ According to the ancient editor of the Apophthegmata Patrum, what is the goal of
 ## Week 11: Greek and Latin Christendoms 
 ### Monday, October 30: Lecture on Byzantium
 
-- Readings TBA. <!--- Kassia ---!>
+- Readings TBA. <!--- Kassia --->
 
 ### Wednesday, November 1: Lecture on the Latin West, Reform, and Christendom
 
