@@ -34,7 +34,7 @@
  
 - Sivan, Hagith. “Christianity.” In *The Oxford Handbook of Roman Studies*, edited by Alessandro Barchiesi and Walter Scheidel, 782-796. Oxford: Oxford University Press, 2010. (Please read the following sections of Sivan, "Introduction," "Jesus," "From Sect to Religion"). *(VLC = available through Vanderbilt Libraries Catalogue)*
 
-- Levine, Amy-Jill. “Is the New Testament Anti-Jewish?.” *Bible Odyssey.* [http://www.bibleodyssey.org/tools/bible-basics/is-the-new-testament-anti-jewish](http://www.bibleodyssey.org/tools/bible-basics/is-the-new-testament-anti-jewish) *(Link provided)*
+- Levine, Amy-Jill. “Is the New Testament Anti-Jewish?” *Bible Odyssey.* [http://www.bibleodyssey.org/tools/bible-basics/is-the-new-testament-anti-jewish](http://www.bibleodyssey.org/tools/bible-basics/is-the-new-testament-anti-jewish) *(Link provided)*
 
 *Assignments*
 
