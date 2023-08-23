@@ -1,8 +1,8 @@
-# Detailed Schedule for Fall 2022
+# Detailed Schedule for Fall 2023
 
 ### Notes:
 
-- This schedule will be updated regularly during the course of the semester. For each date listed, please read or complete any primary sources, secondary sources, or assignments listed before that date
+- This schedule will be updated regularly during the course of the semester. For each date, please read or complete any primary sources, secondary sources, or assignments listed following it. Please complete these assignments before coming to class on that date.
 - Brightspace does not always handle URLS well. So you may need to cut and paste the links below into your browser.
 
 ## Key to Abbreviations
@@ -15,19 +15,18 @@
 
 ## Week 1: Backgrounds of Early Christianity
 
-### Wednesday, August 24: Lecture on "Historical Methods and Backgrounds of Early Christianity"
+### Wednesday, August 23: Lecture on "Historical Methods and Backgrounds of Early Christianity"
  
 *Secondary Sources* 
 
 - Michelson, David. "How to Read for DIV 6700." *(B)*
+- Michelson, David. 'Florilegium Guide." *(B)*
 
-- MacCulloch, Dairmaid. "The First Christianity." Ambrose Video, 2010. 59 minutes. [https://vanderbilt.kanopy.com/video/first-christianity](https://vanderbilt.kanopy.com/video/first-christianity) *(Link provided, may require login from off campus)*
-
-### Thursday, August 25: Discussion
+### Thursday, August 24: Discussion
 
 *Primary Sources*
 
-- 2 Esdras 14-16 [Please read this in the New Revised Standard Version.]
+- 2 Esdras 14-16 [We recommend you read this in the *New Oxford Annotated Bible: New Revised Standard Version* which is available in *VLC*: [https://catalog.library.vanderbilt.edu/permalink/01VAN_INST/6ll2l/alma991043584815303276](https://catalog.library.vanderbilt.edu/permalink/01VAN_INST/6ll2l/alma991043584815303276)]
 
 *Secondary Sources* 
 
@@ -39,49 +38,49 @@
 
 *Assignments*
 
-- Before Thursday please help me get to know you by completeing the DIV 6700 Student Questionnaire distributed in class in Wednesday.
+- Before Thursday please help us get to know you by completing the DIV 6700 Student Questionnaire distributed in class on Wednesday.
 - Come to class prepared to discuss this question about 2 Esdras: What can this source tell us about the place of Christianity in the pre-existing conflict between Judaism and Hellenism?
 - In class on Thursday, sign up for an appointment to meet with Dr. Michelson in groups of three.
 
 ## Week 2: Christianity in the Greco-Roman World
 
-### Monday, August 29: Lecture on "Early Christian Judaism"
+### Monday, August 28: Lecture on "Early Christian Judaism"
 *Primary Sources* 
 
-- 2 Esdras 14-16 (review and compare with Revelation 17)
+- 2 Esdras 14-16
+- Revelation 17
 
 *Secondary Sources* 
 
 - Mitchell, Margaret M. "The Emergence of the Written Record." In *The Cambridge History of Christianity*, ed. Margaret M. Mitchell and Frances M. Young, 175-94. Vol. 1. *Origins to Constantine*. Cambridge: Cambridge University Press, 2006. *(VLC)*
 
-### Wednesday, August 31: Lecture on "Christians and Romans"
+### Wednesday, August 30: Lecture on "Christians and Romans"
 
 *Primary Sources* 
 
 - “Correspondence of Pliny and Trajan. Book 10: Letters XCVI and XCVII." In Pliny the Younger, *Letters, Volume II: Books 8-10. Panegyricus*, translated by Betty Radice. 285-293. Loeb Classical Library 59. Cambridge, MA: Harvard University Press, 1969.  DOI: 10.4159/DLCL.pliny_younger-letters.1969. *(VLC)*
 - “Epistle to Diognetus. Chapters 1-10.” In *The Apostolic Fathers: Volume II*, edited and translated by Bart D. Ehrman, 122-155. Loeb Classical Library 25. Cambridge, MA: Harvard University Press, 2003. DOI: 10.4159/DLCL.epistle_diognetus.2003 *(VLC)*
-- 2 Esdras 14-16 (review and compare with Revelation 17)
 
 *Secondary Sources* 
 
 - Wilkin, Robert. “Pliny: A Roman Gentleman.” In *The Christians as the Romans Saw Them*, 1-30. Second Edition. Yale University Press, 2003. *(VLC)*
 
-### Thursday, September 1: Discussion
 *Assignments*
 
-- *Practice Florilegium* is due on Brightspace by 8 AM Central Time. Please also bring a paper copy to class.
+- *Practice Florilegium* is due on Brightspace by 9 PM Central Time. Please also bring a paper copy to class. Pick one question to answer from these two:
 
 1. How did Christians fit into existing patterns of Roman conflict with Judaism?
 2. How were Christians effected by the Roman fear of factions?
 
+### Thursday, August 31: Discussion
 
 ## Week 3: Martyrdom and Asceticism
-### Monday, September 5: Labor Day, No Class
+### Monday, September 4: Labor Day, No Class
 
-### Wednesday, September 7: Lecture on Martyrdom and the Cult of the Saints
+### Wednesday, September 6: Lecture on Martyrdom and the Cult of the Saints
 *Primary Sources* 
 
-Nota bene: Please be aware that these sources are accounts (fictional or otherwise) of violence including gendered/sexualized violence.
+*Nota bene*: Please be aware that these sources are accounts (fictional or otherwise) of violence including gendered/sexualized violence.
 
 - “Acts of Thecla.” In Bart Ehrman, ed., *Lost Scriptures: Books That Did Not Make It into the New Testament*, 113-122. New York: Oxford University Press, 2003. *(VLC)*
 - “The Passion of Saints Perpetua and Felicity.” In Thomas J. Heffernan, trans., *The Passion of Perpetua and Felicity*, 125-135. New York: Oxford University Press, 2012. *(VLC)*
@@ -91,17 +90,16 @@ Nota bene: Please be aware that these sources are accounts (fictional or otherwi
 - Darling Young, Robin. “Martyrdom as Exaltation.” In Virginia Burrus, ed., *A People's History of Christianity*. Vol. 2, 70-94. Minneapolis: Fortress Press, 2005.  *(B)*
 - Ashbrook Harvey, Susan. "Women and Words: Texts by and about Women". In *Cambridge History of Early Christian Literature*, eds. Lewis Ayres, Andrew Louth, and Frances M. Young, 382-390. Cambridge: Cambridge University Press, 2004. *(VLC)*
 
-### Thursday, September 8: Discussion
-
 *Assignments*
 
-- *Practice Florilegium 2* is due on Brightspace by 8 AM Central Time. Please also bring a paper copy to class.
+- *Florilegium 1* is due on Brightspace by 9 PM Central Time. Please also bring a paper copy to class.
 
 1. Early Christian authors often drew upon the rhetorical strategy of creating "paradoxical antitheses" in which they re-defined or re-valued the norms of society through a Christian lens. How did early Christian authors used such paradoxes to express their theologies of martyrdom and asceticism?
 
+### Thursday, September 7: Discussion
 
 ## Week 4: Asceticism, Gender, Revelation
-### Monday, September 12: Lecture on Women in Early Christianity and Asceticism
+### Monday, September 11: Lecture on Women in Early Christianity and Asceticism
 *Primary Sources* 
 
 - “Acts of Thecla.” In Bart Ehrman, ed., *Lost Scriptures: Books That Did Not Make It into the New Testament*, 113-122. New York: Oxford University Press, 2003. *(VLC)*
@@ -112,7 +110,7 @@ Nota bene: Please be aware that these sources are accounts (fictional or otherwi
 - McGuckin, John. "Chapter 17, Women in Early Christianity." In *The Path of Christianity: The First Thousand Years*), 891-916. Downers Grove, IL: IVP Academic, 2017. *(VLC)*
 - McGuckin, John. "Chapter 23, Attitudes to Sexuality in the Early Church." In *The Path of Christianity: The First Thousand Years*), 1090-1114. Downers Grove, IL: IVP Academic, 2017. *(VLC)*
 
-### Wednesday, September 14: Lecture on Scripture and Revelation
+### Wednesday, September 13: Lecture on Scripture and Revelation
 
 *Primary Sources* 
 
@@ -133,10 +131,9 @@ For some reason, the translation of Irenaeus by Grant has left out the following
 - King, Karen L. “Reading Sex and Gender in the Secret Revelation of John.” *Journal of Early Christian Studies* 19, no. 4 (2011): 519–38. doi:10.1353/earl.2011.0045. *(VLC)*
 - Minns, Denis. "Section: Scripture, Tradition and Church Order" of "Chapter 7: From Christ to Kingdom." In *Irenaeus: An Introduction*, 133-139 London: Bloomsbury, 2010. *(VLC)* 
 
-### Thursday, September 15: Discussion
 *Assignments*
 
-- *Florilegium I* is due on Brightspace by 8 AM Central Time. Please also bring a paper copy to class.
+*Florilegium 2* is due on Brightspace by 9 PM Central Time. Please also bring a paper copy to class.
 
 Please only answer one!
 
@@ -144,9 +141,10 @@ Please only answer one!
 2. What is truth according to Irenaeus? What are some of the rules of faith by which he argues that Christians can determine if a teacher or "scripture" conforms to the truth?
 3. How do the authors of the "Acts of Thecla" and "The Passion of Saints Perpetua and Felicity" portray the Christian faith as offering an alternative to the gender norms of Roman Society? (Hint: How do the authors employ "paradoxical antitheses"? You may also wish to explore the limits of this rhetorical method.)
 
+### Thursday, September 14: Discussion
 
 ## Week 5: Early Christian Worship and Scripture
-### Monday, September 19: Lecture on Baptism and Eucharist
+### Monday, September 18: Lecture on Baptism and Eucharist
 *Primary Sources* 
 
 - McGowan, Anne and Paul F. Bradshaw, eds. and trans. *The Pilgrimage of Egeria: A New Translation of the Itinerarium Egeriae with Introduction and Commentary*, Sections 23-49. Collegeville, MN: Liturgical Press, 2018. *(VLC)*  (NB: the library's ebook can be very difficult to use and does not have good page numbers. Please refer to the section numbers inside the part labeled "TRANSLATION AND COMMENTARY" instead. For example, section 23 begins "1 For setting out from Tarsus, I arrived at a certain city" and may be on page 97 of 144 in the ebook).
@@ -156,24 +154,23 @@ Please only answer one!
 
 - McGuckin, John. "Chapter 11, The Formation of Liturgy." In *The Path of Christianity: The First Thousand Years*, 691-717. Downers Grove, IL: IVP Academic, 2017. *(VLC)*
 
-### Wednesday, September 21: Scripture
+### Wednesday, September 20: Scripture
 *Primary Sources* 
 
 - “The Muratorian Canon” In Bart Ehrman, ed., *Lost Scriptures: Books That Did Not Make It into the New Testament*, 331-333. New York: Oxford University Press, 2003. *(VLC)*
 
-### Thursday, September 22: Discussion
-
 *Assignments*
 
-- *Florilegium II* is due on Brightspace by 8 AM Central Time. Please also bring a paper copy to class.
+- *Florilegium 3* is due on Brightspace by 9 PM Central Time. Please also bring a paper copy to class. Please pick one of these two questions.
 
 1. Egeria's descriptions of the liturgy follows patterns which perhaps indicate what she found most interesting or theologically meaningful. What are some of the patterns she observes with regard to the time, the day, the seasons, and the physical location of the liturgies she participates in? How do these patterns connect to biblical texts and theological themes of salvation and ressurection in the liturgies she describes?
 2. According to Cyril, how are the mysteries of Baptism and the Eucharist a form of access to heavenly things? 
 
+### Thursday, September 21: Discussion
 
 ## Week 6: Christianity and Empire
 
-### Monday, September 26: Lecture on Christianity and Empire
+### Monday, September 25: Lecture on Christianity and Empire
 
 *Primary Sources* 
 
@@ -183,21 +180,19 @@ Please only answer one!
 
 - McGuckin, John. "Chapter 4, The Gospel on the Throne: Christians in the Fourth-Century East". In *The Path of Christianity: The First Thousand Years*, 278-342. Downers Grove, IL: IVP Academic, 2017. (Browse for background only, you do not need to read this chapter in detail).
 
-### Wednesday, September 28: Geography of Early Christianity
+### Wednesday, September 27: Geography of Early Christianity
 *Secondary Sources* 
 
 - McGuckin, John. "Chapter 7, A Church of the Nations: Ancient Global Christianity." In *The Path of Christianity: The First Thousand Years*,  479-519. Downers Grove, IL: IVP Academic, 2017. *(VLC)* *Just browse this chapter if you need it to elaborate on the lecture, you do not need to read it end to end.* *(VLC)*
 
-### Thursday, September 29: Discussion
+### Thursday, September 28: Discussion
 
-### Friday, September 30
 *Assignments*
 
 - Midterm Essay due on brightspace by 12:00 PM (Noon).
 
-
 ## Week 7: Desert Christians 
-### Monday, October 3: Lecture on Desert Christians
+### Monday, October 2: Lecture on Desert Christians
 
 *Primary Sources* 
 
@@ -209,22 +204,29 @@ Please only answer one!
 - McGuckin, John. "Chapter 5, Reconciling the World: Christian Ascetical and Penitential Imperatives". In *The Path of Christianity: The First Thousand Years*, 357-414. Downers Grove, IL: IVP Academic, 2017. (Browse for background only, you do not need to read this chapter in detail). *(VLC)* 
 - Wimbush, Vincent L. 1992. "Ascetic Behavior and Color-ful Language: Stories about Ethiopian Moses." Semeia no. 58: 81-92. ([https://scholarship.claremont.edu/cgu_fac_pub/25/](https://scholarship.claremont.edu/cgu_fac_pub/25/))
 
-### Wednesday, October 5: Lecture on Divisions of Church and Empire
+*Assignments*
 
-<-- for 2023 addin Augustine here, also push midterm back one week -->
+- Map tutorial due on Brightspace by midnight on 10/1. You may take this as many times as you need, but you must pass with 100%. You may consult notes, the study guide, and other materials as you complete it.
+
+### Wednesday, October 4: Lecture on Divisions of Church and Empire
+
+*Primary Sources* 
+
+- Augustine of Hippo. "The City of God: Book XIX, Chapters 15-17." In *The City of God, Books XVII-XXII*, read pages 223-229. Translated by Gerald G. Walsh, S.J. and Daniel J. Honan. Washington: D.C.: The Catholic University of America Press, 1954. *(VLC)* 
+
 *Secondary Sources* 
 
 - McGuckin, John. "Chapter 8, The Rise of the Ecumenical Conciliar System in the Fifth to Sixth Centuries [selections only, see page numbers below]", 539-567. In *The Path of Christianity: The First Thousand Years* (Downers Grove, IL: IVP Academic, 2017. (Browse for background only, you do not need to read this chapter in detail).
 
-### Thursday, October 6: Discussion
 *Assignments*
 
-- Map tutorial due on Brightspace by 8 AM Central Time. You may take this as many times as you need, but you must pass with 100%. You may consult notes, the study guide, and other materials as you complete it.
-- *Florilegium III* is due on Brightspace by 8 AM Central Time. Please also bring a paper copy to class. Please answer this two-part question:
+- *Florilegium 4* is due on Brightspace by 9 PM Central Time. Please also bring a paper copy to class. Please answer this two-part question:
 According to the ancient editor of the Apophthegmata Patrum, what is the goal of the monastic life? How does the ancient editor employ the rhetoric of paradox to make this point? Analyze one or more of the organizational themes (poverty, non-judgement, humility, love, etc.) used by the editor to support your interpretation.
 
+### Thursday, October 5: Discussion
+
 ## Week 8: Syriac Christians
-### Monday, October 10: Lecture on Syriac Christians
+### Monday, October 9: Lecture on Syriac Christians
 
 *Primary Sources* 
 
@@ -237,29 +239,27 @@ According to the ancient editor of the Apophthegmata Patrum, what is the goal of
 - Brock, Sebastian. “Ephrem on Reading Scripture.” In *Treasure-House of Mysteries*, pp. 21-30. Yonkers, 2012.  *(B)*
 - Shepardson, Christine. “Chapter 5: Syria and the Construction of Christian Orthodoxy.” In *Anti-Judaism and Christian Orthodoxy: Ephrem’s Hymns in Fourth-Century Syria*, 157-161. Washington, D.C.: Catholic University of America Press, 2008. *(VLC)* 
 
+### Wednesday, October 11: Lecture on Reading Scripture 
 *Assignments*
 
-- *Remix Topic* is due on Brightspace by 12 Noon Central Time.
-
-### Wednesday, October 12: Lecture on Reading Scripture and Large Group Discussion
-*Assignments*
-
-- *Florilegium IV* due by is due on Brightspace by 10 AM Central Time. Please also bring a paper copy to class.
+- *Florilegium 5* due by is due on Brightspace by 9 PM Central Time. Please also bring a paper copy to class.
 
 1. How did Ephrem and other Syriac authors of interpretive poetry describe aspects of salvation history which they considered to be beyond human comprehension? 
 2. In your answer, you may wish to look at particular rhetorical techniques, such as the use of paradox, biblical symbolism, or reliance on the "gaps" in the biblical texts.
 
-### Thursday, October 13: Fall Break (No Class)
+- *Remix Topic* is due on Brightspace by 9 PM Central Time.
+
+### Thursday, October 12: Discussion
 
 ## Week 9: Islam
 
-### Monday, October 17: Lecture on Islam
+### Monday, October 16: Lecture on Islam
 
 *Primary Sources* 
 
 - Abdel Haleem, M. A. S., trans. *The Qur'an.* Oxford: Oxford University Press, 2015. Read Sura 2: 1-82, “The Cow”; Sura 5: 1-120: “The Feast”; Sura 30: 1-16: “The Byzantines”. *(This resource is available through VLC, but you may also access it through loging into  [Oxford Islamic Studies** online](https://catalog.library.vanderbilt.edu/permalink/01VAN_INST/6ll2l/alma991027090009703276)).*
 - Ibn Ishaq. "The Story of Bahira.” In *The Life of Muhammad*, translated by Alfred Guillaume, 79–81. Oxford: Oxford University Press, 1955. *(B)*
-- "The Apology of Timothy the Patriarch before the Caliph Mahdi." In *Woodbrooke Studies: Christian Documents in Syriac, Arabic, and Garshuni,* edited and translated by A. Mingana. Volume 2, fasc. 3. Cambridge: W. Heffner & Sons Limited, 1928, [https://doi.org/doi:10.7282/T36T0K7D](https://doi.org/doi:10.7282/T36T0K7D). Please read pages 28-37 and 88-90. *Nota Bene: Some students are reporting an error with this link, if so you can find a partial copy on Brightspace. But try this link first.*
+- "The Apology of Timothy the Patriarch before the Caliph Mahdi." In *Woodbrooke Studies: Christian Documents in Syriac, Arabic, and Garshuni,* edited and translated by A. Mingana. Volume 2, fasc. 3. Cambridge: W. Heffner & Sons Limited, 1928, [https://doi.org/doi:10.7282/T36T0K7D](https://doi.org/doi:10.7282/T36T0K7D). Please read pages 28-37 and 88-90.
 
 *Secondary Sources* 
 
@@ -267,33 +267,13 @@ According to the ancient editor of the Apophthegmata Patrum, what is the goal of
 - Kennedy, Hugh. “The Mediterranean Frontier: Christianity Face to Face with Islam, 600–1050.” In *The Cambridge History of Christianity: Volume 3: Early Medieval Christianities, c.600–c.1100*, edited by Julia M. H. Smith and Thomas F. X. Noble, 3:178–96. Cambridge: Cambridge University Press, 2008. *(VLC)*
 - Bundy, David D. “Timotheos I.” In *Gorgias Encyclopedic Dictionary of the Syriac Heritage: Electronic Edition*, edited by Sebastian P. Brock, Aaron M. Butts, George A. Kiraz and Lucas Van Rompay. Digital edition prepared by David Michelson, Ute Possekel, and Daniel L. Schwartz. Gorgias Press, 2011; online ed. Beth Mardutho, 2018. [https://gedsh.bethmardutho.org/Timotheos-I](https://gedsh.bethmardutho.org/Timotheos-I). 
 
-### Wednesday, October 19: Lecture on Islam
+### Wednesday, October 18: Lecture on Islam
 
-### Thursday, October 20: Discussion
+### Thursday, October 19: Fall Break - No Class
 
-*Assignments*
-
-- *Florilegium V* is due on Brightspace by 8 AM Central Time. Please also bring a paper copy to class.
-
-Answer only one of these:
-
-1. How does the Qurʾan position itself as a reform movement vis-à-vis the monotheistic traditions of  Christianity and Judaism?
-2. In these sources, how do Christians and Muslims appeal to their shared monotheism to support the claims of their respective religions?
-
-## Week 10: Christians in Africa and Asia 
+## Week 10: Christians in Asia and Africa 
 <!--- swap these and but Asia first next time --->
-### Monday, October 24: Lecture on Christianity in Africa
-
-*Primary Sources* 
-
-- Ehrman, Bart D., and Zlatko Pleše, eds. “26. The Discourse upon the Cross.” In *Other Gospels: Accounts of Jesus from Outside the New Testament*, 226–30. New York: Oxford University Press, 2013. *(VLC)* *NB: This reading is given only one title here but is actually two texts combined. The first part is “Discourse of the Savior” and the second is “Dance of the Savior” (the "Dance" begins at where you see the mark for “(p. 24)” of the manuscript)*
-
-*Secondary Sources* 
-
-- Bantu, Vince. "Chapter 2. The First Christians of Africa." In *A Multitude of All Peoples: Engaging Ancient Christianity's Global Identity*, 72-118. Downer's Grove, Il.: Intervarsity Press, 2020. *(VLC)*
-- Dilley, Paul. “Jesus as Lord of the Dance.” Biblical Archaeology Society, October 2, 2018. [https://www.biblicalarchaeology.org/daily/people-cultures-in-the-bible/jesus-historical-jesus/jesus-as-lord-of-the-dance/](https://www.biblicalarchaeology.org/daily/people-cultures-in-the-bible/jesus-historical-jesus/jesus-as-lord-of-the-dance/).
-
-### Wednesday, October 25: Lecture on Christianity in Asia
+### Monday, October 23: Lecture on Christianity in Asia
 
 *Primary Sources* 
 
@@ -304,39 +284,60 @@ Answer only one of these:
 
 - Takahashi, Hidemi. "Syriac Christianity in China." In *The Syriac World*, edited by Daniel King, 625-652. London: Routledge, 2018. *(VLC)*
 
-### Thursday, October 29, 2020
+### Wednesday, October 25: Lecture on Christianity in Africa
+
+*Primary Sources* 
+
+- Ehrman, Bart D., and Zlatko Pleše, eds. “26. The Discourse upon the Cross.” In *Other Gospels: Accounts of Jesus from Outside the New Testament*, 226–30. New York: Oxford University Press, 2013. *(VLC)* *NB: This reading is given only one title here but is actually two texts combined. The first part is “Discourse of the Savior” and the second is “Dance of the Savior” (the "Dance" begins at where you see the mark for “(p. 24)” of the manuscript)*
+
+*Secondary Sources* 
+
+- Bantu, Vince. "Chapter 2. The First Christians of Africa." In *A Multitude of All Peoples: Engaging Ancient Christianity's Global Identity*, 72-118. Downer's Grove, Il.: Intervarsity Press, 2020. *(VLC)*
+- Dilley, Paul. “Jesus as Lord of the Dance.” Biblical Archaeology Society, October 2, 2018. [https://www.biblicalarchaeology.org/daily/people-cultures-in-the-bible/jesus-historical-jesus/jesus-as-lord-of-the-dance/](https://www.biblicalarchaeology.org/daily/people-cultures-in-the-bible/jesus-historical-jesus/jesus-as-lord-of-the-dance/).
 *Assignments*
 
-- *Florilegium VI* is due on Brightspace by 8 AM Central Time. Please also bring a paper copy to class.
+- *Florilegium 6* is due on Brightspace by 9 PM Central Time. Please also bring a paper copy to class. Please answer one of these two questions.
 
-1. How does the author of the "Dance of the Savior" and "Discourse of the Savior" use the paradox of the cross (i.e. the inverted symbolism of the cross) to exalt Christ? How does this use of paradox in medieval Nubian Christianity compare with the use of paradox in other Christianities of the late ancient Mediterranean?
-2. How do the Chinese Christian Sutras present Christian practices and beliefs in terms of concepts found in Buddhism (suffering), Taoism (the one way), and Confucianism (the virtues of loyalty and filial piety) of Tang Dynasty China?
+1. How do the Chinese Christian Sutras present Christian practices and beliefs in terms of concepts found in Buddhism (suffering), Taoism (the one way), and Confucianism (the virtues of loyalty and filial piety) of Tang Dynasty China?
+
+2. How does the author of the "Dance of the Savior" and "Discourse of the Savior" use the paradox of the cross (i.e. the inverted symbolism of the cross) to exalt Christ? How does this use of paradox in medieval Nubian Christianity compare with the use of paradox in other Christianities of the late ancient Mediterranean?
+
+### Thursday, October 26, 2020: Discussion
 
 ## Week 11: Greek and Latin Christendoms 
-### Monday, October 31: Lecture on Byzantium
+### Monday, October 30: Lecture on Byzantium
 
-### Wednesday, November 2: Lecture on the Latin West, Reform, and Christendom
+- Readings TBA. <!--- Kassia ---!>
 
-*Primary Sources*  <!--- Change these readings: Thomas Head ebook and also https://web.pdx.edu/~ott/drogopeace/index.html --->
+### Wednesday, November 1: Lecture on the Latin West, Reform, and Christendom
+
+*Primary Sources* 
+
+- Readings TBA.
+
+<!--- Change these readings: Thomas Head ebook and also https://web.pdx.edu/~ott/drogopeace/index.html 
 
 - Drogo of Terouanne and Baldwin of Hainault, “Truce of God” [https://sourcebooks.fordham.edu/source/t-of-god.asp](https://sourcebooks.fordham.edu/source/t-of-god.asp)
-- Andrew of Fleury, “The Peace League of Bourges,” from *The Miracles of St. Benedict* [https://sourcebooks.fordham.edu/source/1038peaceofbourges-thead.asp](https://sourcebooks.fordham.edu/source/1038peaceofbourges-thead.asp)
+- Andrew of Fleury, “The Peace League of Bourges,” from *The Miracles of St. Benedict* [https://sourcebooks.fordham.edu/source/1038peaceofbourges-thead.asp](https://sourcebooks.fordham.edu/source/1038peaceofbourges-thead.asp) --->
 
 *Secondary Sources* 
 
 - Michelson, David. "Charlemagne's Furniture." *Christian History* 108 (2014). [https://christianhistoryinstitute.org/magazine/article/charlemagnes-furniture](https://christianhistoryinstitute.org/magazine/article/charlemagnes-furniture)
 - Bagge, Sverre. “Christianizing Kingdoms.” In The Oxford Handbook of Medieval Christianity, edited by John H. Arnold. Oxford: Oxford University Press, 2014, n.p. doi:10.1093/oxfordhb/9780199582136.013.008. *(VLC)*
 
-### Thursday, November 3: Discussion
-
 *Assignments*
 
-- *Florilegium VII* is due on Brightspace by 8 AM Central Time. Please also bring a paper copy to class.
-1. Using one or more of these sources from the Latin middle ages, describe how the Christian or Abrahamic impulse for reform (as seen in earlier sources such as the texts of monasticism or Islam) was adapted and continued in medieval Europe.
-2. Using one or more of these sources from the Latin middle ages, describe how the fusion of imperial power and monotheism found in earlier sources was continued or adapted in medieval Europe.
+- *Florilegium 7* is due on Brightspace by 9 PM Central Time. Please also bring a paper copy to class.
+
+- Questions TBA.
+
+<!---questions revision 1. Using one or more of these sources from the Latin middle ages, describe how the Christian or Abrahamic impulse for reform (as seen in earlier sources such as the texts of monasticism or Islam) was adapted and continued in medieval Europe.
+2. Using one or more of these sources from the Latin middle ages, describe how the fusion of imperial power and monotheism found in earlier sources was continued or adapted in medieval Europe. --->
+
+### Thursday, November 2: Discussion
 
 ## Week 12: The Clash of Global Christianities
-### Monday, November 7: Lecture on Micro-Christendoms on Crusade
+### Monday, November 6: Lecture on Micro-Christendoms on Crusade
 *Primary Sources* 
 
 - Guibert of Nogent, "The Deeds of God through the Franks" Selections taken from *The Deeds Of God Through The Franks: A Translation of Guibert de Nogent’s Gesta Dei per Francos*, tr. Robert Levine (Woodbridge, U.K.: The Boydell Press, 1997), 40-45, 126-33. *(B)*
@@ -349,21 +350,25 @@ Answer only one of these:
 
 - Remix assignment due.
 
-### Wednesday, November 9: Lecture on Light and Shadows in High Medieval Europe
+### Wednesday, November 8: Lecture on Light and Shadows in High Medieval Europe
 *Primary Sources*
 
 - Hildegard of Bingen, “Introduction” and “Scivias (1151)”, in Sabina Flanagan, ed., and trans., Secrets of God: Writings of Hildegard of Bingen (1996) , pp. 1-11, 34-38. *(B)*
 
-### Thursday, November 10: Discussion
-
 *Assignments*
 
-- No Florilegium due! But do come to class prepared to discuss this topic: Compare and contrast the themes of reform and of Christendom as found in Guibert of Nogent and Hildegard of Bingen.
+- *Florilegium 8* is due on Brightspace by 9 PM Central Time. Please also bring a paper copy to class.
+
+- Questions TBA.
+
+<!--- Compare and contrast the themes of reform and of Christendom as found in Guibert of Nogent and Hildegard of Bingen. --->
+
+### Thursday, November 9: Discussion
 
 ## Week 13: Crises of the Late Middle Ages and Christianities in the Americas
-### Monday, November 14: Lecture on 5 Crises for Global Christianites
+### Monday, November 10: Lecture on 5 Crises for Global Christianites
 
-### Wednesday, November 16: Lecture on Christianities in the Americas
+### Wednesday, November 12: Lecture on Christianities in the Americas
 
 *Primary Sources* 
 
@@ -377,16 +382,16 @@ Answer only one of these:
 *(VLC)*
 - Ramey, Lynn T. “Medieval Race?” In _Black Legacies: Race and the European Middle Ages_. Gainesville, Florida: University Press of Florida, 2014, 25-38. *(VLC)* Browse this, it will be drawn upon in a subsequent week.
 
-### Thursday, November 17: Discussion
-
 *Assignment*
 
-- *Florilegium VIII* is due on Brightspace by 8 AM Central Time. Please also bring a paper copy to class.
+- *Florilegium 9* is due on Brightspace by 9 PM Central Time. Please also bring a paper copy to class.
 
 The primary sources on the colonization of the America's illustrate three different perspectives on the Spanish expansion of Christendom to the Americas. What are these three views? Who held each view? For each perspective, please discuss if it approved or disapproved of how the Spanish colonizers went about expanding Christendom.
 
+### Thursday, November 18: Discussion
+
 ## Week 14: Reformations and Wars of Religion
-### Monday, November 28: Lecture on Reformations
+### Monday, November 27: Lecture on Reformations
 *Primary Sources* 
 
 - Martin Luther, “The Freedom of a Christian,: 1520,” in *The Annotated Luther*, edited by Timothy J. Wengert, Hans J. Hillerbrand, and Kirsi I. Stjerna (1517 Media, 2015), pp. 467–473, 487-492, 502-508. doi:10.2307/j.ctt13wwwmp.18 *(VLC)*
@@ -402,19 +407,19 @@ The primary sources on the colonization of the America's illustrate three differ
 - Merry Wiesner-Hanks, “Women and Religious Change,” in *The Cambridge History of Christianity: Volume 6: Reform and Expansion 1500–1660*, edited by R. Po-chia Hsia (Cambridge: Cambridge University Press, 2007), pp. 465–82. doi:10.1017/CHOL9780521811620.026. *(VLC)*
 - Gary K. Waite, "Joris, David," in *The Oxford Encyclopedia of the Reformation* (Oxford University Press, 1996) https://www-oxfordreference-com.proxy.library.vanderbilt.edu/view/10.1093/acref/9780195064933.001.0001/acref-9780195064933-e-0743. *(VLC)*
 
-### Thursday, December 1: Discussion
 *Assignments*
 
-- *Florilegium IX* is due on Brightspace by 8 AM Central Time.
+- *Florilegium 10* is due on Brightspace by 9 PM Central Time.
 
 Answer one:
 
 1. How do Martin Luther and Anna Jansz present the need for the reform of Christianity in terms of personal spirituality?
 2. How do Martin Luther and Anna Jansz employ a rhetoric of paradox to express their calls to reform?
 
+### Thursday, November 30: Discussion
+
 ## Week 15: World Christianities and Modernity
-### Monday, December 5: Lecture on World Christianities & the Rise of Modernity
-*Primary Sources*
+### Monday, December 4
 
 -  Galawdewos. *The Life and Struggles of Our Mother Walatta Petros : A Seventeenth-Century African Biography of an Ethiopian Woman.* Translated by Michael Kleiner, Wendy Laura Belcher. Princeton, NJ: Princeton University Press, 2015. Read pages: 82-84, 93-133, 143-152, 204-208, 254-257, 267-270. (Chapters 2, 5-17, 23-25, 58-60, 86, 92). *(VLC)*
 -  Luther, Martin. "A Letter of Recommendation, dated July 4, 1534, signed by Luther and drafted by Philip Melanchthon for the Ethiopian, Michael" in “Luther and the Ethiopian Deacon,” translated by Daniels, David D. III, and Lawrence Anglin. Lutheran Quarterly 32, no. 4 (2018): 432-433. *(VLC) Read just these two pages.*
@@ -425,7 +430,7 @@ Answer one:
 - Belcher, Wendy Laura. “Same-Sex Intimacies in the Early African Text Gädlä Wälättä P̣eṭros (1672): Queer Reading an Ethiopian Woman Saint.” Research in African Literatures 47, no. 2 (2016): 20–45. *(VLC) Browse this article.*
 - McNutt, Jennifer Powell. “An Unsung Inspiration for the Protestant Reformation: The Ethiopian Church.” *Christian History*, August 27, 2020. [https://www.christianitytoday.com/history/2020/august/unsung-inspiration-for-protestant-reformation-ethiopian-chu.html](https://www.christianitytoday.com/history/2020/august/unsung-inspiration-for-protestant-reformation-ethiopian-chu.html)
 
-### Wednesday, December 7: Lecture on Science and New Worlds
+### Wednesday, December 6: Lecture on Science and New Worlds
 *Primary Sources*
 
 - Bacon, Francis. “Magnalia Naturae” in *New Atlantis a Work Unfinished* (London: 1658), Early English Books Online, Wing/342:05. *(B)* 
@@ -435,16 +440,20 @@ Answer one:
 - Keller, Vera. “The ‘New World of Sciences’: The Temporality of the Research Agenda and the Unending Ambitions of Science.” *Isis* 103, no. 4 (December 1, 2012): 727–34. doi:10.1086/669047. *(VLC) Browse this article.*
 
 *Assignments*
+- *Florilegium 11* is due on Brightspace by 9 PM Central Time.
 
-- Revised Remix and Reflection due in class and on Brightspace by 10 AM.
+### Thursday, December 7: Discussion
 
-### Thursday, December 8: Discussion
 *Assignments*
-- *Florilegium X* is due on Brightspace by 8 AM Central Time.
-- Any remaining extra credit assignments must be turned in by 8:00 AM on Thursday, December 8, 2020. No late assignments will be accepted for any reason.
 
+- Revised Remix and Reflection due on Brightspace by 9:00 AM Central Time. Please also bring it to class to show your colleagues.
 
-## Final Essay: Due December 14th at 5 PM on Brightspace.
-There will be no in-person final exam.
+- Any remaining extra credit assignments must be turned in on Brightspace by 9:00 AM Central Time. No late assignments will be accepted for any reason.
+
+### Tuesday, December 12: Final Essays
+
+*Assignments*
+
+- Final Essays due on Brightspace at 5 PM Central Time. There will be no in-person final exam.
 
 
