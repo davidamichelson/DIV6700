@@ -70,7 +70,7 @@
 - *Practice Florilegium* is due on Brightspace by 9 PM Central Time. Please also bring a paper copy to class. Pick one question to answer from these two:
 
 1. How did Christians fit into existing patterns of Roman conflict with Judaism?
-2. How were Christians effected by the Roman fear of factions?
+2. How were Christians affected by the Roman fear of factions?
 
 ### Thursday, August 31: Discussion
 
