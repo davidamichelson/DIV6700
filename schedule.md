@@ -366,9 +366,9 @@ According to the ancient editor of the Apophthegmata Patrum, what is the goal of
 ### Thursday, November 9: Discussion
 
 ## Week 13: Crises of the Late Middle Ages and Christianities in the Americas
-### Monday, November 10: Lecture on 5 Crises for Global Christianites
+### Monday, November 13: Lecture on 5 Crises for Global Christianites
 
-### Wednesday, November 12: Lecture on Christianities in the Americas
+### Wednesday, November 15: Lecture on Christianities in the Americas
 
 *Primary Sources*
 
@@ -388,7 +388,7 @@ According to the ancient editor of the Apophthegmata Patrum, what is the goal of
 
 The primary sources on the colonization of the America's illustrate three different perspectives on the Spanish expansion of Christendom to the Americas. What are these three views? Who held each view? For each perspective, please discuss if it approved or disapproved of how the Spanish colonizers went about expanding Christendom.
 
-### Thursday, November 18: Discussion
+### Thursday, November 16: Discussion
 
 ## Week 14: Reformations and Wars of Religion
 ### Monday, November 27: Lecture on Reformations
