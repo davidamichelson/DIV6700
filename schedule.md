@@ -348,7 +348,7 @@ According to the ancient editor of the Apophthegmata Patrum, what is the goal of
 
 *Assignments*
 
-- Remix assignment due.
+- Remix assignment due in class at 10 AM. Please upload to brightspace but also bring a copy to share with your classmates.
 
 ### Wednesday, November 8: Lecture on Light and Shadows in High Medieval Europe
 *Primary Sources*
