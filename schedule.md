@@ -214,7 +214,7 @@ Please only answer one!
 
 *Assignments*
 
-- Map tutorial due on Brightspace by midnight on 10/1. You may take this as many times as you need, but you must pass with 100%. You may consult notes, the study guide, and other materials as you complete it.
+- Map tutorial due on Brightspace by 10 AM on 10/2. You may take this as many times as you need, but you must pass with 100%. You may consult notes, the study guide, and other materials as you complete it.
 
 ### Wednesday, October 4: Lecture on Divisions of Church and Empire
 
