@@ -265,7 +265,7 @@ According to the ancient editor of the Apophthegmata Patrum, what is the goal of
 
 *Primary Sources*
 
-- Abdel Haleem, M. A. S., trans. *The Qur'an.* Oxford: Oxford University Press, 2015. Read Sura 2: 1-82, “The Cow”; Sura 5: 1-120: “The Feast”; Sura 30: 1-16: “The Byzantines”. *(VLC).*
+- Abdel Haleem, M. A. S., trans. *The Qur'an.* Oxford: Oxford University Press, 2015. Read Sura 2: 1-82, “The Cow”; Sura 5: 1-120: “The Feast”; Sura 30: 1-16: “The Byzantines”. *(VLC).* (Bonus: You may wish to explore the recorded recistiona of the *The Qur'an* found at [https://tanzil.net](https://tanzil.net).
 - Ibn Ishaq. "The Story of Bahira.” In *The Life of Muhammad*, translated by Alfred Guillaume, 79–81. Oxford: Oxford University Press, 1955. *(B)*
 - "The Apology of Timothy the Patriarch before the Caliph Mahdi." In *Woodbrooke Studies: Christian Documents in Syriac, Arabic, and Garshuni,* edited and translated by A. Mingana. Volume 2, fasc. 3. Cambridge: W. Heffner & Sons Limited, 1928, [https://doi.org/doi:10.7282/T36T0K7D](https://doi.org/doi:10.7282/T36T0K7D). Please read pages 28-37 and 88-90.
 
