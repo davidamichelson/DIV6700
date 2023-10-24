@@ -321,17 +321,19 @@ According to the ancient editor of the Apophthegmata Patrum, what is the goal of
 
 *Primary Sources*
 
-- Readings TBA.
+- "Document 4: The acts of the council of Poitiers." Translated by Phillippe Buc. In *The Peace of God: Social Violence and Religious Response in France around the Year 1000*, edited by Thomas Head and Richard Landes. Ithaca, NY: Cornell University Pres, 1992, pp. 330-331. *(VLC)*
 
-<!--- Change these readings: Thomas Head ebook and also https://web.pdx.edu/~ott/drogopeace/index.html
+- "Document 6: Peace oath proposed by Bishop Warin of Beauvais to King Robert the Pious." Translated by Richard Landes. In *The Peace of God: Social Violence and Religious Response in France around the Year 1000*, edited by Thomas Head and Richard Landes. Ithaca, NY: Cornell University Pres, 1992, pp. 332-337. *(VLC)*
 
-- Drogo of Terouanne and Baldwin of Hainault, “Truce of God” [https://sourcebooks.fordham.edu/source/t-of-god.asp](https://sourcebooks.fordham.edu/source/t-of-god.asp)
-- Andrew of Fleury, “The Peace League of Bourges,” from *The Miracles of St. Benedict* [https://sourcebooks.fordham.edu/source/1038peaceofbourges-thead.asp](https://sourcebooks.fordham.edu/source/1038peaceofbourges-thead.asp) --->
+- "Document 8: Excerpts from the Gesta episcoporum Cameracensium." Translated by Richard Landes. In *The Peace of God: Social Violence and Religious Response in France around the Year 1000*, edited by Thomas Head and Richard Landes. Ithaca, NY: Cornell University Pres, 1992, pp. 335--334. *(VLC)*
+
+<!--- Consider adding  The Peace-Pact of Drogo, bishop of Thérouanne, and Baldwin, Count of Flanders (ca. 1035-1067) https://web.pdx.edu/~ott/drogopeace/index.html --->
 
 *Secondary Sources*
 
 - Michelson, David. "Charlemagne's Furniture." *Christian History* 108 (2014). [https://christianhistoryinstitute.org/magazine/article/charlemagnes-furniture](https://christianhistoryinstitute.org/magazine/article/charlemagnes-furniture)
-- Bagge, Sverre. “Christianizing Kingdoms.” In The Oxford Handbook of Medieval Christianity, edited by John H. Arnold. Oxford: Oxford University Press, 2014, n.p. doi:10.1093/oxfordhb/9780199582136.013.008. *(VLC)*
+- Bagge, Sverre. “Christianizing Kingdoms.” In *The Oxford Handbook of Medieval Christianity*, edited by John H. Arnold. Oxford: Oxford University Press, 2014, n.p. doi:10.1093/oxfordhb/9780199582136.013.008. *(VLC)*
+- Head, Thomas. "Introduction." In *The Peace of God: Social Violence and Religious Response in France around the Year 1000*, edited by Thomas Head and Richard Landes. Ithaca, NY: Cornell University Pres, 1992, pp. 1-9 (just read these first 9 pages, not the full introduction). *(VLC)*
 
 *Assignments*
 
