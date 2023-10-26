@@ -315,16 +315,14 @@ According to the ancient editor of the Apophthegmata Patrum, what is the goal of
 ## Week 11: Greek and Latin Christendoms
 ### Monday, October 30: Lecture on Byzantium
 
-- Readings TBA. <!--- Kassia --->
+- Kassia the Melodist, “Canon for Remembrance of the Dead (all odes)” in Gheorghita Zugravu, “Kassia the Melodist. And the Making of a Byzantine Hymnographer,” 236-42. Ph.D. dissertation, Columbia University, 2013. *(VLC)*
 
 ### Wednesday, November 1: Lecture on the Latin West, Reform, and Christendom
 
 *Primary Sources*
 
 - "Document 4: The acts of the council of Poitiers." Translated by Phillippe Buc. In *The Peace of God: Social Violence and Religious Response in France around the Year 1000*, edited by Thomas Head and Richard Landes. Ithaca, NY: Cornell University Pres, 1992, pp. 330-331. *(VLC)*
-
 - "Document 6: Peace oath proposed by Bishop Warin of Beauvais to King Robert the Pious." Translated by Richard Landes. In *The Peace of God: Social Violence and Religious Response in France around the Year 1000*, edited by Thomas Head and Richard Landes. Ithaca, NY: Cornell University Pres, 1992, pp. 332-337. *(VLC)*
-
 - "Document 8: Excerpts from the Gesta episcoporum Cameracensium." Translated by Richard Landes. In *The Peace of God: Social Violence and Religious Response in France around the Year 1000*, edited by Thomas Head and Richard Landes. Ithaca, NY: Cornell University Pres, 1992, pp. 335--334. *(VLC)*
 
 <!--- Consider adding  The Peace-Pact of Drogo, bishop of Thérouanne, and Baldwin, Count of Flanders (ca. 1035-1067) https://web.pdx.edu/~ott/drogopeace/index.html --->
@@ -337,12 +335,11 @@ According to the ancient editor of the Apophthegmata Patrum, what is the goal of
 
 *Assignments*
 
-- *Florilegium 7* is due on Brightspace by 9 PM Central Time. Please also bring a paper copy to class.
+- *Florilegium 7* is due on Brightspace by 9 PM Central Time. Please also bring a paper copy to class. Please answer one of these two questions.
 
-- Questions TBA.
+1. How do these sources from medieval Byzantium and the Latin middle ages envision Christ (or the Christian God) as an ultimate judge?
 
-<!---questions revision 1. Using one or more of these sources from the Latin middle ages, describe how the Christian or Abrahamic impulse for reform (as seen in earlier sources such as the texts of monasticism or Islam) was adapted and continued in medieval Europe.
-2. Using one or more of these sources from the Latin middle ages, describe how the fusion of imperial power and monotheism found in earlier sources was continued or adapted in medieval Europe. --->
+2. Based on the sources from the Latin middle ages, describe how the Christian impulse for reform (as seen in earlier sources such as the texts of monasticism or Islam) and the concept of Christendom (the fusion of empire and monotheism found in earlier sources) became joined together in medieval Europe. 
 
 ### Thursday, November 2: Discussion
 
