@@ -364,11 +364,9 @@ According to the ancient editor of the Apophthegmata Patrum, what is the goal of
 
 *Assignments*
 
-- *Florilegium 8* is due on Brightspace by 9 PM Central Time. Please also bring a paper copy to class.
+- *Florilegium 8* is due on Brightspace by 9 PM Central Time. Please also bring a paper copy to class. Please answer this question:
 
-- Questions TBA.
-
-<!--- Compare and contrast the themes of reform and of Christendom as found in Guibert of Nogent and Hildegard of Bingen. --->
+Compare and contrast the theological themes of historical progress in Guibert of Nogent and Hildegard of Bingen. What threats to the Church concern the two authors? How do they see God at work in human history?
 
 ### Thursday, November 9: Discussion
 
