@@ -372,6 +372,14 @@ Compare and contrast the theological themes of historical progress in Guibert of
 
 ## Week 13: Crises of the Late Middle Ages and Christianities in the Americas
 ### Monday, November 13: Lecture on 5 Crises for Global Christianites
+*Primary Sources*
+
+- Watson, Nicholas and Jacqueline. Jenkins, eds. *The Writings of Julian of Norwich: A Vision Showed to a Devout Woman and A Revelation of Love*. University Park, Pa: Pennsylvania State University Press, 2006. *(VLC)* Please read sections 2-4 of "A Vision Showed to a Devout Woman" found on pages 64-71. The Middle English may be a bit rough but use the footnotes/commentary and you will get the gist of it. This reading will not be part of your florilegium, but do come prepared to discuss its themes of suffering and divine love in section.
+
+
+*Secondary Sources*
+
+- Ramey, Lynn T. “Medieval Race?” In _Black Legacies: Race and the European Middle Ages_. Gainesville, Florida: University Press of Florida, 2014, 25-38. *(VLC)* Browse this, it will be drawn upon in a subsequent week.
 
 ### Wednesday, November 15: Lecture on Christianities in the Americas
 
@@ -385,7 +393,6 @@ Compare and contrast the theological themes of historical progress in Guibert of
 
 - Clayton, Lawrence A. "The Era of Columbus and the 'Discoverers'," in *Bartolome de Las Casas and the Conquest of the Americas*. Chichester, West Sussex, U.K.: Wiley-Blackwell, 2011, 10-32.
 *(VLC)*
-- Ramey, Lynn T. “Medieval Race?” In _Black Legacies: Race and the European Middle Ages_. Gainesville, Florida: University Press of Florida, 2014, 25-38. *(VLC)* Browse this, it will be drawn upon in a subsequent week.
 
 *Assignment*
 
