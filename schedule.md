@@ -151,11 +151,11 @@ Please only answer one!
 - Cyril of Jerusalem. "Mystagogic Catechesis 1,2,4, & 5." In *Cyril of Jerusalem*. Translated by E.J. Yarnold, S.J. London: Taylor & Francis Group, 2000. *(VLC)* (*Nota bene*, the VLC ebook's page numbers are hard to find. So instead use the table of contents of the ebook and look for:
 
 	- MYSTAGOGIC CATECHESIS 1: TO THE NEWLY BAPTIZED
-	
+
 	- MYSTAGOGIC CATECHESIS 2: CONCERNING BAPTISM
-	
+
 	- MYSTAGOGIC CATECHESIS 4: CONCERNING CHRIST'S BODY AND BLOOD
-	
+
 	- MYSTAGOGIC CATECHESIS 5
 
 *Secondary Sources*
@@ -339,7 +339,7 @@ According to the ancient editor of the Apophthegmata Patrum, what is the goal of
 
 1. How do these sources from medieval Byzantium and the Latin middle ages envision Christ (or the Christian God) as an ultimate judge?
 
-2. Based on the sources from the Latin middle ages, describe how the Christian impulse for reform (as seen in earlier sources such as the texts of monasticism or Islam) and the concept of Christendom (the fusion of empire and monotheism found in earlier sources) became joined together in medieval Europe. 
+2. Based on the sources from the Latin middle ages, describe how the Christian impulse for reform (as seen in earlier sources such as the texts of monasticism or Islam) and the concept of Christendom (the fusion of empire and monotheism found in earlier sources) became joined together in medieval Europe.
 
 ### Thursday, November 2: Discussion
 
@@ -406,7 +406,7 @@ The primary sources on the colonization of the America's illustrate three differ
 ### Monday, November 27: Lecture on Reformations
 *Primary Sources*
 
-- Martin Luther, “The Freedom of a Christian,: 1520,” in *The Annotated Luther*, edited by Timothy J. Wengert, Hans J. Hillerbrand, and Kirsi I. Stjerna (1517 Media, 2015), pp. 467–473, 487-492, 502-508. doi:10.2307/j.ctt13wwwmp.18 *(VLC)*
+- Martin Luther, “The Freedom of a Christian: 1520,” in *The Annotated Luther*, edited by Timothy J. Wengert, Hans J. Hillerbrand, and Kirsi I. Stjerna (1517 Media, 2015), pp. 467–473, 487-492, 502-508. doi:10.2307/j.ctt13wwwmp.18 *(VLC)*
 
 ### Wednesday, November 29: Lecture on Wars of Religion
 
