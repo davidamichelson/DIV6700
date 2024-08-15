@@ -1,4 +1,4 @@
-# Detailed Schedule for Fall 2023
+# Detailed Schedule for Fall 2024
 
 ### Notes:
 
@@ -15,14 +15,14 @@
 
 ## Week 1: Backgrounds of Early Christianity
 
-### Wednesday, August 23: Lecture on "Historical Methods and Backgrounds of Early Christianity"
+### Wednesday, August 21: Lecture on "Historical Methods and Backgrounds of Early Christianity"
 
 *Secondary Sources*
 
 - Michelson, David. "How to Read for DIV 6700." *(B)*
 - Michelson, David. 'Florilegium Guide." *(B)*
 
-### Thursday, August 24: Discussion
+### Thursday, August 22: Discussion
 
 *Primary Sources*
 
@@ -44,7 +44,7 @@
 
 ## Week 2: Christianity in the Greco-Roman World
 
-### Monday, August 28: Lecture on "Early Christian Judaism"
+### Monday, August 26: Lecture on "Early Christian Judaism"
 *Primary Sources*
 
 - 2 Esdras 14-16
@@ -54,7 +54,7 @@
 
 - Mitchell, Margaret M. "The Emergence of the Written Record." In *The Cambridge History of Christianity*, ed. Margaret M. Mitchell and Frances M. Young, 175-94. Vol. 1. *Origins to Constantine*. Cambridge: Cambridge University Press, 2006. *(VLC)*
 
-### Wednesday, August 30: Lecture on "Christians and Romans"
+### Wednesday, August 28: Lecture on "Christians and Romans"
 
 *Primary Sources*
 
@@ -72,12 +72,12 @@
 1. How did Christians fit into existing patterns of Roman conflict with Judaism?
 2. How were Christians affected by the Roman fear of factions?
 
-### Thursday, August 31: Discussion
+### Thursday, August 29: Discussion
 
 ## Week 3: Martyrdom and Asceticism
-### Monday, September 4: Labor Day, No Class
+### Monday, September 2: Labor Day, No Class
 
-### Wednesday, September 6: Lecture on Martyrdom and the Cult of the Saints
+### Wednesday, September 4: Lecture on Martyrdom and the Cult of the Saints
 *Primary Sources*
 
 *Nota bene*: Please be aware that these sources are accounts (fictional or otherwise) of violence including gendered/sexualized violence.
@@ -96,10 +96,10 @@
 
 1. Early Christian authors often drew upon the rhetorical strategy of creating "paradoxical antitheses" in which they re-defined or re-valued the norms of society through a Christian lens. How did early Christian authors used such paradoxes to express their theologies of martyrdom and asceticism?
 
-### Thursday, September 7: Discussion
+### Thursday, September 5: Discussion
 
 ## Week 4: Asceticism, Gender, Revelation
-### Monday, September 11: Lecture on Women in Early Christianity and Asceticism
+### Monday, September 9: Lecture on Women in Early Christianity and Asceticism
 *Primary Sources*
 
 - “Acts of Thecla.” In Bart Ehrman, ed., *Lost Scriptures: Books That Did Not Make It into the New Testament*, 113-122. New York: Oxford University Press, 2003. *(VLC)*
@@ -110,7 +110,7 @@
 - McGuckin, John. "Chapter 17, Women in Early Christianity." In *The Path of Christianity: The First Thousand Years*), 891-916. Downers Grove, IL: IVP Academic, 2017. *(VLC)*
 - McGuckin, John. "Chapter 23, Attitudes to Sexuality in the Early Church." In *The Path of Christianity: The First Thousand Years*), 1090-1114. Downers Grove, IL: IVP Academic, 2017. *(VLC)*
 
-### Wednesday, September 13: Lecture on Scripture and Revelation
+### Wednesday, September 11: Lecture on Scripture and Revelation
 
 *Primary Sources*
 
@@ -141,10 +141,10 @@ Please only answer one!
 2. What is truth according to Irenaeus? What are some of the rules of faith by which he argues that Christians can determine if a teacher or "scripture" conforms to the truth?
 3. How do the authors of the "Acts of Thecla" and "The Passion of Saints Perpetua and Felicity" portray the Christian faith as offering an alternative to the gender norms of Roman Society? (Hint: How do the authors employ "paradoxical antitheses"? You may also wish to explore the limits of this rhetorical method.)
 
-### Thursday, September 14: Discussion
+### Thursday, September 12: Discussion
 
 ## Week 5: Early Christian Worship and Scripture
-### Monday, September 18: Lecture on Baptism and Eucharist
+### Monday, September 16: Lecture on Baptism and Eucharist
 *Primary Sources*
 
 - McGowan, Anne and Paul F. Bradshaw, eds. and trans. *The Pilgrimage of Egeria: A New Translation of the Itinerarium Egeriae with Introduction and Commentary*, Sections 23-49. Collegeville, MN: Liturgical Press, 2018. *(VLC)*  (NB: the library's ebook can be very difficult to use and does not have good page numbers. Please refer to the section numbers inside the part labeled "TRANSLATION AND COMMENTARY" instead. For example, section 23 begins "1 For setting out from Tarsus, I arrived at a certain city" and may be on page 97 of 144 in the ebook).
@@ -162,7 +162,7 @@ Please only answer one!
 
 - McGuckin, John. "Chapter 11, The Formation of Liturgy." In *The Path of Christianity: The First Thousand Years*, 691-717. Downers Grove, IL: IVP Academic, 2017. *(VLC)*
 
-### Wednesday, September 20: Scripture
+### Wednesday, September 18: Scripture
 *Primary Sources*
 
 - “The Muratorian Canon” In Bart Ehrman, ed., *Lost Scriptures: Books That Did Not Make It into the New Testament*, 331-333. New York: Oxford University Press, 2003. *(VLC)*
@@ -174,11 +174,11 @@ Please only answer one!
 1. Egeria's descriptions of the liturgy follows patterns which perhaps indicate what she found most interesting or theologically meaningful. What are some of the patterns she observes with regard to the time, the day, the seasons, and the physical location of the liturgies she participates in? How do these patterns connect to biblical texts and theological themes of salvation and ressurection in the liturgies she describes?
 2. According to Cyril, how are the mysteries of Baptism and the Eucharist a form of access to heavenly things?
 
-### Thursday, September 21: Discussion
+### Thursday, September 19: Discussion
 
 ## Week 6: Christianity and Empire
 
-### Monday, September 25: Lecture on Christianity and Empire
+### Monday, September 23: Lecture on Christianity and Empire
 
 *Primary Sources*
 
@@ -188,19 +188,19 @@ Please only answer one!
 
 - McGuckin, John. "Chapter 4, The Gospel on the Throne: Christians in the Fourth-Century East". In *The Path of Christianity: The First Thousand Years*, 278-342. Downers Grove, IL: IVP Academic, 2017. (Browse for background only, you do not need to read this chapter in detail).
 
-### Wednesday, September 27: Geography of Early Christianity
+### Wednesday, September 25: Geography of Early Christianity
 *Secondary Sources*
 
 - McGuckin, John. "Chapter 7, A Church of the Nations: Ancient Global Christianity." In *The Path of Christianity: The First Thousand Years*,  479-519. Downers Grove, IL: IVP Academic, 2017. *(VLC)* *Just browse this chapter if you need it to elaborate on the lecture, you do not need to read it end to end.* *(VLC)*
 
-### Thursday, September 28: Discussion
+### Thursday, September 26: Discussion
 
 *Assignments*
 
 - Midterm Essay due on brightspace by 12:00 PM (Noon).
 
 ## Week 7: Desert Christians
-### Monday, October 2: Lecture on Desert Christians
+### Monday, September 30: Lecture on Desert Christians
 
 *Primary Sources*
 
@@ -216,7 +216,7 @@ Please only answer one!
 
 - Map tutorial due on Brightspace by 10 AM on 10/2. You may take this as many times as you need, but you must pass with 100%. You may consult notes, the study guide, and other materials as you complete it.
 
-### Wednesday, October 4: Lecture on Divisions of Church and Empire
+### Wednesday, October 2: Lecture on Divisions of Church and Empire
 
 *Primary Sources*
 
@@ -231,10 +231,10 @@ Please only answer one!
 - *Florilegium 4* is due on Brightspace by 9 PM Central Time. Please also bring a paper copy to class. Please answer this two-part question:
 According to the ancient editor of the Apophthegmata Patrum, what is the goal of the monastic life? How does the ancient editor employ the rhetoric of paradox to make this point? Analyze one or more of the organizational themes (poverty, non-judgement, humility, love, etc.) used by the editor to support your interpretation.
 
-### Thursday, October 5: Discussion
+### Thursday, October 3: Discussion
 
 ## Week 8: Syriac Christians
-### Monday, October 9: Lecture on Syriac Christians
+### Monday, October 7: Lecture on Syriac Christians
 
 *Primary Sources*
 
@@ -247,7 +247,7 @@ According to the ancient editor of the Apophthegmata Patrum, what is the goal of
 - Brock, Sebastian. “Ephrem on Reading Scripture.” In *Treasure-House of Mysteries*, pp. 21-30. Yonkers, 2012.  *(B)*
 - Shepardson, Christine. “Chapter 5: Syria and the Construction of Christian Orthodoxy.” In *Anti-Judaism and Christian Orthodoxy: Ephrem’s Hymns in Fourth-Century Syria*, 157-161. Washington, D.C.: Catholic University of America Press, 2008. *(VLC)*
 
-### Wednesday, October 11: Lecture on Reading Scripture
+### Wednesday, October 9: Lecture on Reading Scripture
 *Assignments*
 
 - *Florilegium 5* due by is due on Brightspace by 9 PM Central Time. Please also bring a paper copy to class.
@@ -257,11 +257,11 @@ According to the ancient editor of the Apophthegmata Patrum, what is the goal of
 
 - *Remix Topic* is due on Brightspace by 9 PM Central Time.
 
-### Thursday, October 12: Discussion
+### Thursday, October 10: Fall Break - No Class
 
 ## Week 9: Islam
 
-### Monday, October 16: Lecture on Islam
+### Monday, October 14: Lecture on Islam
 
 *Primary Sources*
 
@@ -275,24 +275,22 @@ According to the ancient editor of the Apophthegmata Patrum, what is the goal of
 - Kennedy, Hugh. “The Mediterranean Frontier: Christianity Face to Face with Islam, 600–1050.” In *The Cambridge History of Christianity: Volume 3: Early Medieval Christianities, c.600–c.1100*, edited by Julia M. H. Smith and Thomas F. X. Noble, 3:178–96. Cambridge: Cambridge University Press, 2008. *(VLC)*
 - Bundy, David D. “Timotheos I.” In *Gorgias Encyclopedic Dictionary of the Syriac Heritage: Electronic Edition*, edited by Sebastian P. Brock, Aaron M. Butts, George A. Kiraz and Lucas Van Rompay. Digital edition prepared by David Michelson, Ute Possekel, and Daniel L. Schwartz. Gorgias Press, 2011; online ed. Beth Mardutho, 2018. [https://gedsh.bethmardutho.org/Timotheos-I](https://gedsh.bethmardutho.org/Timotheos-I).
 
-### Wednesday, October 18: Lecture on Islam
+### Wednesday, October 16: Lecture on Islam
 
-### Thursday, October 19: Fall Break - No Class
+### Thursday, October 17: Discussion
 
 ## Week 10: Christians in Asia and Africa
-<!--- swap these and but Asia first next time --->
-### Monday, October 23: Lecture on Christianity in Asia
+### Monday, October 21: Lecture on Christianity in Asia
 
 *Primary Sources*
 
 - Coakley, John W., and Andrea Sterk, eds. “Chinese Christian Sutras.” In Readings in World Christian History: Earliest Christianity to 1453, 1:247–51. Maryknoll, New York: Orbis Books, 2013. *(B)*
-### Thursday, October 26: Discussion
 
 *Secondary Sources*
 
 - Takahashi, Hidemi. "Syriac Christianity in China." In *The Syriac World*, edited by Daniel King, 625-652. London: Routledge, 2018. *(VLC)*
 
-### Wednesday, October 25: Lecture on Christianity in Africa
+### Wednesday, October 24: Lecture on Christianity in Africa
 
 *Primary Sources*
 
@@ -310,14 +308,14 @@ According to the ancient editor of the Apophthegmata Patrum, what is the goal of
 
 2. How does the author of the "Dance of the Savior" and "Discourse of the Savior" use the paradox of the cross (i.e. the inverted symbolism of the cross) to exalt Christ? How does this use of paradox in medieval Nubian Christianity compare with the use of paradox in other Christianities of the late ancient Mediterranean?
 
-### Thursday, October 26, 2020: Discussion
+### Thursday, October 25: Discussion
 
 ## Week 11: Greek and Latin Christendoms
-### Monday, October 30: Lecture on Byzantium
+### Monday, October 28: Lecture on Byzantium
 
 - Kassia the Melodist, “Canon for Remembrance of the Dead (all odes)” in Gheorghita Zugravu, “Kassia the Melodist. And the Making of a Byzantine Hymnographer,” 236-42. Ph.D. dissertation, Columbia University, 2013. *(VLC)*
 
-### Wednesday, November 1: Lecture on the Latin West, Reform, and Christendom
+### Wednesday, October 30: Lecture on the Latin West, Reform, and Christendom
 
 *Primary Sources*
 
@@ -341,10 +339,10 @@ According to the ancient editor of the Apophthegmata Patrum, what is the goal of
 
 2. Based on the sources from the Latin middle ages, describe how the Christian impulse for reform (as seen in earlier sources such as the texts of monasticism or Islam) and the concept of Christendom (the fusion of empire and monotheism found in earlier sources) became joined together in medieval Europe.
 
-### Thursday, November 2: Discussion
+### Thursday, October 31: Discussion
 
 ## Week 12: The Clash of Global Christianities
-### Monday, November 6: Lecture on Micro-Christendoms on Crusade
+### Monday, November 4: Lecture on Micro-Christendoms on Crusade
 *Primary Sources*
 
 - Guibert of Nogent, "The Deeds of God through the Franks" Selections taken from *The Deeds Of God Through The Franks: A Translation of Guibert de Nogent’s Gesta Dei per Francos*, tr. Robert Levine (Woodbridge, U.K.: The Boydell Press, 1997), 40-45, 126-33. *(B)*
@@ -357,7 +355,7 @@ According to the ancient editor of the Apophthegmata Patrum, what is the goal of
 
 - Remix assignment due in class at 10 AM. Please upload to brightspace but also bring a copy to share with your classmates.
 
-### Wednesday, November 8: Lecture on Light and Shadows in High Medieval Europe
+### Wednesday, November 5: Lecture on Light and Shadows in High Medieval Europe
 *Primary Sources*
 
 - Hildegard of Bingen, “Introduction” and “Scivias (1151)”, in Sabina Flanagan, ed., and trans., Secrets of God: Writings of Hildegard of Bingen (1996) , pp. 1-11, 34-38. *(B)*
@@ -368,10 +366,10 @@ According to the ancient editor of the Apophthegmata Patrum, what is the goal of
 
 Compare and contrast the theological themes of historical progress in Guibert of Nogent and Hildegard of Bingen. What threats to the Church concern the two authors? How do they see God at work in human history?
 
-### Thursday, November 9: Discussion
+### Thursday, November 6: Discussion
 
 ## Week 13: Crises of the Late Middle Ages and Christianities in the Americas
-### Monday, November 13: Lecture on 5 Crises for Global Christianites
+### Monday, November 11: Lecture on 5 Crises for Global Christianites
 *Primary Sources*
 
 - Watson, Nicholas and Jacqueline. Jenkins, eds. *The Writings of Julian of Norwich: A Vision Showed to a Devout Woman and A Revelation of Love*. University Park, Pa: Pennsylvania State University Press, 2006. *(VLC)* Please read sections 2-4 of "A Vision Showed to a Devout Woman" found on pages 64-71. The Middle English may be a bit rough but use the footnotes/commentary and you will get the gist of it. This reading will not be part of your florilegium, but do come prepared to discuss its themes of suffering and divine love in section.
@@ -381,7 +379,7 @@ Compare and contrast the theological themes of historical progress in Guibert of
 
 - Ramey, Lynn T. “Medieval Race?” In _Black Legacies: Race and the European Middle Ages_. Gainesville, Florida: University Press of Florida, 2014, 25-38. *(VLC)* Browse this, it will be drawn upon in a subsequent week.
 
-### Wednesday, November 15: Lecture on Christianities in the Americas
+### Wednesday, November 13: Lecture on Christianities in the Americas
 
 *Primary Sources*
 
@@ -400,15 +398,15 @@ Compare and contrast the theological themes of historical progress in Guibert of
 
 The primary sources on the colonization of the America's illustrate three different perspectives on the Spanish expansion of Christendom to the Americas. What are these three views? Who held each view? For each perspective, please discuss if it approved or disapproved of how the Spanish colonizers went about expanding Christendom.
 
-### Thursday, November 16: Discussion
+### Thursday, November 14: Discussion
 
 ## Week 14: Reformations and Wars of Religion
-### Monday, November 27: Lecture on Reformations
+### Monday, November 18: Lecture on Reformations
 *Primary Sources*
 
 - Martin Luther, “The Freedom of a Christian: 1520,” in *The Annotated Luther*, edited by Timothy J. Wengert, Hans J. Hillerbrand, and Kirsi I. Stjerna (1517 Media, 2015), pp. 467–473, 487-492, 502-508. doi:10.2307/j.ctt13wwwmp.18 *(VLC)*
 
-### Wednesday, November 29: Lecture on Wars of Religion
+### Wednesday, November 20: Lecture on Wars of Religion
 
 *Primary Sources*
 
@@ -428,10 +426,10 @@ Answer one:
 1. How do Martin Luther and Anna Jansz present the need for the reform of Christianity in terms of personal spirituality?
 2. How do Martin Luther and Anna Jansz employ a rhetoric of paradox to express their calls to reform?
 
-### Thursday, November 30: Discussion
+### Thursday, November 21: Discussion
 
 ## Week 15: World Christianities and Modernity
-### Monday, December 4
+### Monday, December 2
 
 -  Galawdewos. *The Life and Struggles of Our Mother Walatta Petros : A Seventeenth-Century African Biography of an Ethiopian Woman.* Translated by Michael Kleiner, Wendy Laura Belcher. Princeton, NJ: Princeton University Press, 2015. Read pages: 82-84, 93-133, 143-152, 204-208, 254-257, 267-270. (Chapters 2, 5-17, 23-25, 58-60, 86, 92). *(VLC)*
 -  Luther, Martin. "A Letter of Recommendation, dated July 4, 1534, signed by Luther and drafted by Philip Melanchthon for the Ethiopian, Michael" in “Luther and the Ethiopian Deacon,” translated by Daniels, David D. III, and Lawrence Anglin. Lutheran Quarterly 32, no. 4 (2018): 432-433. *(VLC) Read just these two pages.*
@@ -442,7 +440,7 @@ Answer one:
 - Belcher, Wendy Laura. “Same-Sex Intimacies in the Early African Text Gädlä Wälättä P̣eṭros (1672): Queer Reading an Ethiopian Woman Saint.” Research in African Literatures 47, no. 2 (2016): 20–45. *(VLC) Browse this article.*
 - McNutt, Jennifer Powell. “An Unsung Inspiration for the Protestant Reformation: The Ethiopian Church.” *Christian History*, August 27, 2020. [https://www.christianitytoday.com/history/2020/august/unsung-inspiration-for-protestant-reformation-ethiopian-chu.html](https://www.christianitytoday.com/history/2020/august/unsung-inspiration-for-protestant-reformation-ethiopian-chu.html)
 
-### Wednesday, December 6: Lecture on Science and New Worlds
+### Wednesday, December 4: Lecture on Science and New Worlds
 *Primary Sources*
 
 - Bacon, Francis. “Magnalia Naturae” in *New Atlantis a Work Unfinished* (London: 1658), Early English Books Online, Wing/342:05. *(B)*
@@ -454,7 +452,7 @@ Answer one:
 *Assignments*
 - *Florilegium 11* is due on Brightspace by 9 PM Central Time.
 
-### Thursday, December 7: Discussion
+### Thursday, December 5: Discussion
 
 *Assignments*
 
@@ -462,8 +460,8 @@ Answer one:
 
 - Any remaining extra credit assignments must be turned in on Brightspace by 9:00 AM Central Time. No late assignments will be accepted for any reason.
 
-### Tuesday, December 12: Final Essays
+### Monday, December 9: Final Essays Due
 
 *Assignments*
 
-- Final Essays due on Brightspace at 5 PM Central Time. There will be no in-person final exam.
+- Final Essays due on Brightspace at 1 PM Central Time. There will be no in-person final exam.
