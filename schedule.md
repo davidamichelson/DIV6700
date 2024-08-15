@@ -2,8 +2,7 @@
 
 ### Notes:
 
-- This schedule will be updated regularly during the course of the semester. For each date, please read or complete any primary sources, secondary sources, or assignments listed following it. Please complete these assignments before coming to class on that date.
-- Brightspace does not always handle URLS well. So you may need to cut and paste the links below into your browser.
+- This schedule will be updated regularly during the course of the semester so please check this URL regularly. For each date, please read or complete any primary sources, secondary sources, or assignments listed following it. Please complete these assignments before coming to class on that date.
 
 ## Key to Abbreviations
 
@@ -92,7 +91,7 @@
 
 *Assignments*
 
-- *Florilegium 1* is due on Brightspace by 9 PM Central Time. Please also bring a paper copy to class.
+- *Florilegium 1* is due on Brightspace by 9 PM Central Time. Please also bring a paper copy to class. Please answer this question:
 
 1. Early Christian authors often drew upon the rhetorical strategy of creating "paradoxical antitheses" in which they re-defined or re-valued the norms of society through a Christian lens. How did early Christian authors used such paradoxes to express their theologies of martyrdom and asceticism?
 
@@ -135,7 +134,7 @@ For some reason, the translation of Irenaeus by Grant has left out the following
 
 *Florilegium 2* is due on Brightspace by 9 PM Central Time. Please also bring a paper copy to class.
 
-Please only answer one!
+Please pick one of these three questions to answer:
 
 1. Why does the author of the "Secret Book of John" think that their reader will be interested in the revelation contained in the book? How does reading the book help save the reader?
 2. What is truth according to Irenaeus? What are some of the rules of faith by which he argues that Christians can determine if a teacher or "scripture" conforms to the truth?
@@ -214,7 +213,7 @@ Please only answer one!
 
 *Assignments*
 
-- Map tutorial due on Brightspace by 10 AM on 10/2. You may take this as many times as you need, but you must pass with 100%. You may consult notes, the study guide, and other materials as you complete it.
+- Map tutorial due on Brightspace by 9 AM on 10/2. You may take this as many times as you need, but you must pass with 100%. You may consult notes, the study guide, and other materials as you complete it.
 
 ### Wednesday, October 2: Lecture on Divisions of Church and Empire
 
@@ -250,12 +249,13 @@ According to the ancient editor of the Apophthegmata Patrum, what is the goal of
 ### Wednesday, October 9: Lecture on Reading Scripture
 *Assignments*
 
+- *Remix Topic* is due on Brightspace by 9 AM Central Time.
+
 - *Florilegium 5* due by is due on Brightspace by 9 PM Central Time. Please also bring a paper copy to class.
 
 1. How did Ephrem and other Syriac authors of interpretive poetry describe aspects of salvation history which they considered to be beyond human comprehension?
-2. In your answer, you may wish to look at particular rhetorical techniques, such as the use of paradox, biblical symbolism, or reliance on the "gaps" in the biblical texts.
 
-- *Remix Topic* is due on Brightspace by 9 PM Central Time.
+	In your answer, you may wish to look at particular rhetorical techniques, such as the use of paradox, biblical symbolism, or reliance on the "gaps" in the biblical texts.
 
 ### Thursday, October 10: Fall Break - No Class
 
@@ -351,22 +351,20 @@ According to the ancient editor of the Apophthegmata Patrum, what is the goal of
 
 - Bull, Marcus. “Crusade and Conquest.” In _The Cambridge History of Christianity: Volume 4: Christianity in Western Europe, c.1100–c.1500_, edited by Miri Rubin and Walter Simons, 4:340–52. Cambridge History of Christianity. Cambridge: Cambridge University Press, 2009. *(VLC)*
 
-*Assignments*
-
-- Remix assignment due in class at 10 AM. Please upload to brightspace but also bring a copy to share with your classmates.
-
-### Wednesday, November 5: Lecture on Light and Shadows in High Medieval Europe
+### Wednesday, November 6: Lecture on Light and Shadows in High Medieval Europe
 *Primary Sources*
 
 - Hildegard of Bingen, “Introduction” and “Scivias (1151)”, in Sabina Flanagan, ed., and trans., Secrets of God: Writings of Hildegard of Bingen (1996) , pp. 1-11, 34-38. *(B)*
 
 *Assignments*
 
+- Remix assignment due in class at 9 AM. Please upload to brightspace but also bring a copy to share with your classmates.
+
 - *Florilegium 8* is due on Brightspace by 9 PM Central Time. Please also bring a paper copy to class. Please answer this question:
 
 Compare and contrast the theological themes of historical progress in Guibert of Nogent and Hildegard of Bingen. What threats to the Church concern the two authors? How do they see God at work in human history?
 
-### Thursday, November 6: Discussion
+### Thursday, November 7: Discussion
 
 ## Week 13: Crises of the Late Middle Ages and Christianities in the Americas
 ### Monday, November 11: Lecture on 5 Crises for Global Christianites
