@@ -66,7 +66,7 @@
 
 *Assignments*
 
-- *Practice Florilegium* is due on Brightspace by 9 PM Central Time. Please also bring a paper copy to class. Pick one question to answer from these two:
+- *Practice Florilegium* is due on Brightspace by 9 PM Central Time. Please come prepared to refer to your florilegium in discussion. Pick one question to answer from these two:
 
 1. How did Christians fit into existing patterns of Roman conflict with Judaism?
 2. How were Christians affected by the Roman fear of factions?
@@ -91,9 +91,9 @@
 
 *Assignments*
 
-- *Florilegium 1* is due on Brightspace by 9 PM Central Time. Please also bring a paper copy to class. Please answer this question:
+- *Florilegium 1* is due on Brightspace by 9 PM Central Time. Please come prepared to refer to your florilegium in discussion. Please answer this question:
 
-1. Early Christian authors often drew upon the rhetorical strategy of creating "paradoxical antitheses" in which they re-defined or re-valued the norms of society through a Christian lens. How did early Christian authors used such paradoxes to express their theologies of martyrdom and asceticism?
+1. Early Christian authors often drew upon the rhetorical strategy of creating "paradoxical antitheses" in which they re-defined or re-valued the norms of society through a Christian lens. How did early Christian authors use such paradoxes to express their theologies of martyrdom and asceticism?
 
 ### Thursday, September 5: Discussion
 
@@ -132,7 +132,7 @@ For some reason, the translation of Irenaeus by Grant has left out the following
 
 *Assignments*
 
-*Florilegium 2* is due on Brightspace by 9 PM Central Time. Please also bring a paper copy to class.
+*Florilegium 2* is due on Brightspace by 9 PM Central Time. Please come prepared to refer to your florilegium in discussion.
 
 Please pick one of these three questions to answer:
 
@@ -168,7 +168,7 @@ Please pick one of these three questions to answer:
 
 *Assignments*
 
-- *Florilegium 3* is due on Brightspace by 9 PM Central Time. Please also bring a paper copy to class. Please pick one of these two questions.
+- *Florilegium 3* is due on Brightspace by 9 PM Central Time. Please come prepared to refer to your florilegium in discussion. Please pick one of these two questions.
 
 1. Egeria's descriptions of the liturgy follows patterns which perhaps indicate what she found most interesting or theologically meaningful. What are some of the patterns she observes with regard to the time, the day, the seasons, and the physical location of the liturgies she participates in? How do these patterns connect to biblical texts and theological themes of salvation and ressurection in the liturgies she describes?
 2. According to Cyril, how are the mysteries of Baptism and the Eucharist a form of access to heavenly things?
@@ -185,7 +185,7 @@ Please pick one of these three questions to answer:
 
 *Secondary Sources*
 
-- McGuckin, John. "Chapter 4, The Gospel on the Throne: Christians in the Fourth-Century East". In *The Path of Christianity: The First Thousand Years*, 278-342. Downers Grove, IL: IVP Academic, 2017. (Browse for background only, you do not need to read this chapter in detail).
+- McGuckin, John. "Chapter 4, The Gospel on the Throne: Christians in the Fourth-Century East". In *The Path of Christianity: The First Thousand Years*, 278-342. Downers Grove, IL: IVP Academic, 2017. (Browse for background only, you do not need to read this chapter in detail). *(VLC)*
 
 ### Wednesday, September 25: Geography of Early Christianity
 *Secondary Sources*
@@ -227,7 +227,7 @@ Please pick one of these three questions to answer:
 
 *Assignments*
 
-- *Florilegium 4* is due on Brightspace by 9 PM Central Time. Please also bring a paper copy to class. Please answer this two-part question:
+- *Florilegium 4* is due on Brightspace by 9 PM Central Time. Please come prepared to refer to your florilegium in discussion. Please answer this two-part question:
 According to the ancient editor of the Apophthegmata Patrum, what is the goal of the monastic life? How does the ancient editor employ the rhetoric of paradox to make this point? Analyze one or more of the organizational themes (poverty, non-judgement, humility, love, etc.) used by the editor to support your interpretation.
 
 ### Thursday, October 3: Discussion
@@ -251,7 +251,7 @@ According to the ancient editor of the Apophthegmata Patrum, what is the goal of
 
 - *Remix Topic* is due on Brightspace by 9 AM Central Time.
 
-- *Florilegium 5* due by is due on Brightspace by 9 PM Central Time. Please also bring a paper copy to class.
+- *Florilegium 5* is due on Brightspace by 9 PM Central Time. Please come prepared to refer to your florilegium in discussion.
 
 1. How did Ephrem and other Syriac authors of interpretive poetry describe aspects of salvation history which they considered to be beyond human comprehension?
 
@@ -302,7 +302,7 @@ According to the ancient editor of the Apophthegmata Patrum, what is the goal of
 - Dilley, Paul. “Jesus as Lord of the Dance.” Biblical Archaeology Society, October 2, 2018. [https://www.biblicalarchaeology.org/daily/people-cultures-in-the-bible/jesus-historical-jesus/jesus-as-lord-of-the-dance/](https://www.biblicalarchaeology.org/daily/people-cultures-in-the-bible/jesus-historical-jesus/jesus-as-lord-of-the-dance/).
 *Assignments*
 
-- *Florilegium 6* is due on Brightspace by 9 PM Central Time. Please also bring a paper copy to class. Please answer one of these two questions.
+- *Florilegium 6* is due on Brightspace by 9 PM Central Time. Please come prepared to refer to your florilegium in discussion. Please answer one of these two questions.
 
 1. How do the Chinese Christian Sutras present Christian practices and beliefs in terms of concepts found in Buddhism (suffering), Taoism (the one way), and Confucianism (the virtues of loyalty and filial piety) of Tang Dynasty China?
 
@@ -333,7 +333,7 @@ According to the ancient editor of the Apophthegmata Patrum, what is the goal of
 
 *Assignments*
 
-- *Florilegium 7* is due on Brightspace by 9 PM Central Time. Please also bring a paper copy to class. Please answer one of these two questions.
+- *Florilegium 7* is due on Brightspace by 9 PM Central Time. Please come prepared to refer to your florilegium in discussion. Please answer one of these two questions.
 
 1. How do these sources from medieval Byzantium and the Latin middle ages envision Christ (or the Christian God) as an ultimate judge?
 
@@ -360,7 +360,7 @@ According to the ancient editor of the Apophthegmata Patrum, what is the goal of
 
 - Remix assignment due in class at 9 AM. Please upload to brightspace but also bring a copy to share with your classmates.
 
-- *Florilegium 8* is due on Brightspace by 9 PM Central Time. Please also bring a paper copy to class. Please answer this question:
+- *Florilegium 8* is due on Brightspace by 9 PM Central Time. Please come prepared to refer to your florilegium in discussion. Please answer this question:
 
 Compare and contrast the theological themes of historical progress in Guibert of Nogent and Hildegard of Bingen. What threats to the Church concern the two authors? How do they see God at work in human history?
 
@@ -392,7 +392,7 @@ Compare and contrast the theological themes of historical progress in Guibert of
 
 *Assignment*
 
-- *Florilegium 9* is due on Brightspace by 9 PM Central Time. Please also bring a paper copy to class.
+- *Florilegium 9* is due on Brightspace by 9 PM Central Time. Please come prepared to refer to your florilegium in discussion.
 
 The primary sources on the colonization of the America's illustrate three different perspectives on the Spanish expansion of Christendom to the Americas. What are these three views? Who held each view? For each perspective, please discuss if it approved or disapproved of how the Spanish colonizers went about expanding Christendom.
 
