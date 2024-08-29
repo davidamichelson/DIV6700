@@ -38,7 +38,7 @@
 *Assignments*
 
 - Before Thursday please help us get to know you by completing the DIV 6700 Student Questionnaire distributed in class on Wednesday.
-- Come to class prepared to discuss this question about 2 Esdras: What can this source tell us about the place of Christianity in the pre-existing conflict between Judaism and Hellenism?
+- Come to class prepared to discuss this question about 2 Esdras: What can this source tell us about how Christianity fit into the pre-existing conflict between Judaism and Hellenism?
 - In class on Thursday, sign up for an appointment to meet with Dr. Michelson in groups of three.
 
 ## Week 2: Christianity in the Greco-Roman World
