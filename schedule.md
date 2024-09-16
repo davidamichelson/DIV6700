@@ -202,7 +202,7 @@ Please pick one of these three questions to answer:
 
 *Assignments*
 
-- Midterm Essay due on brightspace by 12:00 PM (Noon).
+- Midterm Essay due on brightspace by 12:00 PM (Noon). Please note, this due date is 24 hours later than the original due date posted in the original syllabus, enjoy the extension!
 
 ## Week 7: Desert Christians
 ### Monday, September 30: Lecture on Desert Christians
@@ -469,3 +469,4 @@ Answer one:
 *Assignments*
 
 - Final Essays due on Brightspace at 1 PM Central Time. There will be no in-person final exam.
+w
