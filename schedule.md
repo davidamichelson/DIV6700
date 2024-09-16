@@ -196,6 +196,12 @@ Please pick one of these three questions to answer:
 
 *Assignments*
 
+- There is no florilegium due this week, but we suggest you prepare notes for your own use in the style of a florilegium related to Eusebius, "Life of Constantine". There is nothing to turn in, but please come to discussion prepared to answer the quesiton: "What was Eusebius' view of the Roman Empire and its relationship to Christianity?"
+  
+### Friday, September 27: Midterm Essay
+
+*Assignments*
+
 - Midterm Essay due on brightspace by 12:00 PM (Noon).
 
 ## Week 7: Desert Christians
