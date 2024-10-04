@@ -197,7 +197,7 @@ Please pick one of these three questions to answer:
 *Assignments*
 
 - There is no florilegium due this week, but we suggest you prepare notes for your own use in the style of a florilegium related to Eusebius, "Life of Constantine". There is nothing to turn in, but please come to discussion prepared to answer the quesiton: "What was Eusebius' view of the Roman Empire and its relationship to Christianity?"
-  
+
 ### Friday, September 27: Midterm Essay
 
 *Assignments*
@@ -257,11 +257,7 @@ According to the ancient editor of the Apophthegmata Patrum, what is the goal of
 
 - *Remix Topic* is due on Brightspace by 9 AM Central Time.
 
-- *Florilegium 5* is due on Brightspace by 9 PM Central Time. Please come prepared to refer to your florilegium in discussion.
-
-1. How did Ephrem and other Syriac authors of interpretive poetry describe aspects of salvation history which they considered to be beyond human comprehension?
-
-	In your answer, you may wish to look at particular rhetorical techniques, such as the use of paradox, biblical symbolism, or reliance on the "gaps" in the biblical texts.
+- There is no *Florilegium* this week, have a great fall break instead!
 
 ### Thursday, October 10: Fall Break - No Class
 
@@ -282,6 +278,8 @@ According to the ancient editor of the Apophthegmata Patrum, what is the goal of
 - Bundy, David D. “Timotheos I.” In *Gorgias Encyclopedic Dictionary of the Syriac Heritage: Electronic Edition*, edited by Sebastian P. Brock, Aaron M. Butts, George A. Kiraz and Lucas Van Rompay. Digital edition prepared by David Michelson, Ute Possekel, and Daniel L. Schwartz. Gorgias Press, 2011; online ed. Beth Mardutho, 2018. [https://gedsh.bethmardutho.org/Timotheos-I](https://gedsh.bethmardutho.org/Timotheos-I).
 
 ### Wednesday, October 16: Lecture on Islam
+
+- *Florilegium 5* is due on Brightspace by 9 PM Central Time. Please come prepared to refer to your florilegium in discussion. Please answer this question: How did Islam portray itself as a movement which both continued and reformed the monotheistic theology of Christianity?
 
 ### Thursday, October 17: Discussion
 
