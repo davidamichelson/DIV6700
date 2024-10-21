@@ -294,7 +294,7 @@ According to the ancient editor of the Apophthegmata Patrum, what is the goal of
 
 - Takahashi, Hidemi. "Syriac Christianity in China." In *The Syriac World*, edited by Daniel King, 625-652. London: Routledge, 2018. *(VLC)*
 
-### Wednesday, October 24: Lecture on Christianity in Africa
+### Wednesday, October 23: Lecture on Christianity in Africa
 
 *Primary Sources*
 
@@ -312,7 +312,7 @@ According to the ancient editor of the Apophthegmata Patrum, what is the goal of
 
 2. How does the author of the "Dance of the Savior" and "Discourse of the Savior" use the paradox of the cross (i.e. the inverted symbolism of the cross) to exalt Christ? How does this use of paradox in medieval Nubian Christianity compare with the use of paradox in other Christianities of the late ancient Mediterranean?
 
-### Thursday, October 25: Discussion
+### Thursday, October 24: Discussion
 
 ## Week 11: Greek and Latin Christendoms
 ### Monday, October 28: Lecture on Byzantium
