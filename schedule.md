@@ -288,7 +288,7 @@ According to the ancient editor of the Apophthegmata Patrum, what is the goal of
 
 *Primary Sources*
 
-- Coakley, John W., and Andrea Sterk, eds. “Chinese Christian Sutras.” In Readings in World Christian History: Earliest Christianity to 1453, 1:247–51. Maryknoll, New York: Orbis Books, 2013. *(B)* *NB: This reading is given only one title here but is actually two primary source texts. The first  is “The Fourth Sutra: The Sutra of Jesus Christ” and the second is “The First Liturgical Sutra”.*
+- Coakley, John W., and Andrea Sterk, eds. “Chinese Christian Sutras.” In Readings in World Christian History: Earliest Christianity to 1453, 1:247–51. Maryknoll, New York: Orbis Books, 2013. *(B)* *NB: This reading is given only one title here but is actually two primary source texts. The first  is “The Fourth Sutra: The Sutra of Jesus Christ” and the second is “The First Liturgical Sutra”. Please discuss each separately in your accessus.*
 
 *Secondary Sources*
 
@@ -298,7 +298,7 @@ According to the ancient editor of the Apophthegmata Patrum, what is the goal of
 
 *Primary Sources*
 
-- Ehrman, Bart D., and Zlatko Pleše, eds. “26. The Discourse upon the Cross.” In *Other Gospels: Accounts of Jesus from Outside the New Testament*, 226–30. New York: Oxford University Press, 2013. *(VLC)* *NB: This reading is given only one title here but is actually two primary source texts combined. The first is “Discourse of the Savior” and the second is “Dance of the Savior” (the "Dance" begins at where you see the mark for “(p. 24)” of the manuscript).*
+- Ehrman, Bart D., and Zlatko Pleše, eds. “26. The Discourse upon the Cross.” In *Other Gospels: Accounts of Jesus from Outside the New Testament*, 226–30. New York: Oxford University Press, 2013. *(VLC)* *NB: This reading is given only one title here but is actually two primary source texts combined. The first is “Discourse of the Savior” and the second is “Dance of the Savior” (the "Dance" begins at where you see the mark for “(p. 24)” of the manuscript). Please discuss each separately in your accessus.*
 
 *Secondary Sources*
 
