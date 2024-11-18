@@ -454,7 +454,7 @@ Answer one:
 - Keller, Vera. “The ‘New World of Sciences’: The Temporality of the Research Agenda and the Unending Ambitions of Science.” *Isis* 103, no. 4 (December 1, 2012): 727–34. doi:10.1086/669047. *(VLC) Browse this article.*
 
 *Assignments*
-- *Florilegium 11* is due on Brightspace by 9 PM Central Time.
+- As per the syllabus, we are going to take your 10 best florilegia scores out of 11 possible. So for this week there is no new assignment. Instead, if you are dissatisfied with a previous florilegium (or if there was a week in which you did not turn one in), please go back and revise/write that florilegium and upload it under *Florilegium 11* to be graded. If you are happy with your previous 10 florilegia, there is no need to turn anything in this week. *Florilegium 11* is due on Brightspace by 9 PM Central Time. 
 
 ### Thursday, December 5: Discussion
 
@@ -469,4 +469,3 @@ Answer one:
 *Assignments*
 
 - Final Essays due on Brightspace at 1 PM Central Time. There will be no in-person final exam.
-w
