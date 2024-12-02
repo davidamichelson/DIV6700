@@ -462,7 +462,7 @@ Answer one:
 
 - Revised Remix and Reflection due on Brightspace by 9:00 AM Central Time. Please also bring it to class to show your colleagues.
 
-- Any remaining extra credit assignments must be turned in on Brightspace by 9:00 AM Central Time. No late assignments will be accepted for any reason.
+- Any remaining extra credit assignments must be turned in on Brightspace by 9:00 AM Central Time. No late assignments will be accepted for any reason. If you wish, you may earn extra credit by watching and writing a response paper to any of the 13 episodes in the series Women Scholars of Orthodox Christianity produced by The Orthodox Christian Studies Center of Fordham University: [https://www.youtube.com/playlist?list=PLZtlyIz_-nVCq_GkTraAVJVW2z-vxp1OZ] (https://www.youtube.com/playlist?list=PLZtlyIz_-nVCq_GkTraAVJVW2z-vxp1OZ)
 
 ### Monday, December 9: Final Essays Due
 
