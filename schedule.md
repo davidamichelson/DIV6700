@@ -20,7 +20,7 @@ B = See Brightspace for an electronic reading.
 
 ## Monday 8/31: Lecture 2
 
-### Lecture Topic: Early Christian Judaism
+### Lecture Topic: Second Temple Judaism
 
 #### Secondary Sources:
 
@@ -45,7 +45,7 @@ May, Herbert G. and Bruce M. Metzger, eds. “2 Esdras 14-16” In *The New Oxfo
 
 - Please answer this question in your commentary: What can this source tell us about how Christianity fit into the pre-existing conflict between Judaism and Hellenism?
 
-### Lecture Topic: Christians and Romans
+### Lecture Topic: Early Christian Judaism
 
 ## Monday 9/7: No Class 
 
@@ -210,13 +210,13 @@ Cyril of Jerusalemm, “Excerpts from the *Mystagogical Catecheses*” in *Walki
 
 Remix draft due
 
-Please have your florilegia up to date and ready to turn at then end of class.
-
 ## Wednesday 11/4: Lecture 12
 
 ### Lecture Topic: Syriac Christians
 
 ## Monday 11/9: Discussion 8
+
+Please have your florilegia up to date and ready to turn at then end of class.
 
 ## Wednesday 11/11: Lecture 13
 
@@ -230,11 +230,15 @@ Please have your florilegia up to date and ready to turn at then end of class.
 
 ## Monday 11/23: No Class 
 
-### Assignment: Practice gratitude.
+### Assignment: 
+
+Practice gratitude.
 
 ## Wednesday 11/25: No Class
 
-### Assignment: Practice gratitude.
+### Assignment: 
+
+Practice gratitude.
 
 ## Monday 11/30: Discussion 10
 
@@ -244,17 +248,21 @@ Please have your florilegia up to date and ready to turn at then end of class.
 
 ## Monday 12/7: Discussion 11
 
-Please have your florilegia up to date and ready to turn at then end of class.
-
 ## Wednesday 12/9: Remix Presentations!
 
-### Assignment: Final remix due
+### Assignment: 
 
-Final Exam Review Session
+Final remix due
 
-## DATE TBD: Final Exam
+Final exam review session
 
-### Assignment: Final exam
+## Monday 12/14: Final Exam
 
-This schedule is © David A. Michelson, 2026. I have consulted many course syllabi in designing this class but drew most heavily on one by Daniel L. Schwartz who taught CLAS 220 “History of Christianity to 1500” at Texas A&M in 2022. I am grateful to have shared syllabus design with Professor Schwartz. This work is licensed under a Creative Commons Attribution 4.0 International License. Reuse is encouraged. Microsoft Word spelling and grammar tools were used to revise this document. Claude Sonnet 5.0 was used to transform the Markdown text and produce a PDF version. This document is version 1.0 of the schedule. Last revised 8/25/2026.
+### Assignment: 
+
+Final exam
+
+Please have your florilegia up to date and ready to turn at then end of class.
+
+This schedule is © David A. Michelson, 2026. I have consulted many course syllabi in designing this class but drew most heavily on one by Daniel L. Schwartz who taught CLAS 220 “History of Christianity to 1500” at Texas A&M University in 2022. I am grateful to have shared syllabus design with Professor Schwartz. This work is licensed under a Creative Commons Attribution 4.0 International License. Reuse is encouraged. Microsoft Word spelling and grammar tools were used to revise this document. Claude Sonnet 5.0 was used to transform the Markdown text and produce a PDF version. This document is version 2.5 of the schedule. Last revised 8/31/2026.
 
