@@ -39,11 +39,11 @@ Extra Credit: 8/31 11:00 AM Zotero training session with Keegan Osinski
 
 May, Herbert G. and Bruce M. Metzger, eds. “1 Maccabees - Chapters 1-2” In *The New Oxford Annotated Bible with the Apocrypha: Expanded Edition Revised Standard Version.* Fully revised fourth edition. New York: Oxford University Press, 1977. [You may also use another study Bible of your choice.]
 
-- Please answer this question in your commentary: How does the author of 1 Maccabees view the conflict between Second Temple Judaism and Hellenism? What side is the author on and how does the author think Jews should respond to the conflict?
+- Please answer this question in your *florilegium* notebook: How does the author of 1 Maccabees view the conflict between Second Temple Judaism and Hellenism? What side is the author on and how does the author think Jews should respond to the conflict?
 
 May, Herbert G. and Bruce M. Metzger, eds. “2 Esdras 14-16” In *The New Oxford Annotated Bible with the Apocrypha: Expanded Edition Revised Standard Version.* Fully revised fourth edition. New York: Oxford University Press, 1977. [You may also use another study Bible of your choice.]
 
-- Please answer this question in your commentary: What can this source tell us about how Christianity fit into the pre-existing conflict between Judaism and Hellenism?
+- Please answer this question in your *florilegium* notebook: What can this source tell us about how Christianity fit into the pre-existing conflict between Judaism and Hellenism?
 
 ### Lecture Topic: Early Christian Judaism
 
@@ -69,17 +69,17 @@ May, Herbert G. and Bruce M. Metzger, eds. “The Gospel According to Mark: Chap
 
 May, Herbert G. and Bruce M. Metzger, eds. “The Letter of Paul to the Philippians.” In *The New Oxford Annotated Bible with the Apocrypha: Expanded Edition Revised Standard Version.* Fully revised fourth edition. New York: Oxford University Press, 1977. [You may also use another study Bible of your choice.]
 
-Please answer these three questions in your commentary for Monday:
+Please answer these three questions in your *florilegium* notebook for Monday:
 
  - How do Mark and Paul employ the traditional sources of authority in Second Temple Judaism (such as the Temple, the Law of Moses, and or covenantal monotheism) in order to make the case for the religious authority of Jesus Christ?
 
  - How do Mark and Paul view the conflict between Jesus’ authority and Roman imperial power? What side is each author on and how does each author think Christians should respond to the conflict?
 
- - Please prepare this question in your florilegium: In 1-2 sentences, what did Mark and Paul think was the "good news" or the message of the Christian gospel?
+ - In 1-2 sentences, what did Mark and Paul think was the "good news" or the message of the Christian gospel?
 
 ### Assignment: 
 
-Please have your florilegia up to date and ready to turn at then end of class.
+Please have your *florilegium* notebook up to date and ready to turn at then end of class.
 
 ## Wednesday 9/16: Lecture 5
 
@@ -99,13 +99,13 @@ Please have your florilegia up to date and ready to turn at then end of class.
 
 "The Epistle to Diognetus," in *Early Christian Writings*, translated by Maxwell Staniforth, revised translation by Andrew Louth (London: Penguin Books, 1987), chapters 1-7, pp. 139-146. (See also *TPC*, p. 72-73.)
 
-"A Short Reader", in *TPC*, pp. 199-207. (Everyone select one text please and come prepared to introduce it).
-
- - Please prepare this question in your florilegium: Early Christian authors often employed a rhetoric of "paradoxical antitheses" in which they re-defined or re-valued the norms of society through a Christian lens. How did these early Christian authors use such paradoxes to express their theologies of martyrdom and asceticism?
-
 "Correspondence of Pliny and Trajan," in *RWCH*, p. 23.
 
- - Please prepare this question in your florilegium: How did the Roman authorities view Christians through existing patterns of Roman conflict with Judaism and the Roman Fear of Factions?
+"A Short Reader", in *TPC*, pp. 199-207. (Everyone, please select one text out of the list and come prepared to introduce it in class. You only need to enter one of these texts in your *florilegium* notebook and you do NOT need use this short text in any of your answers).
+
+ - Please prepare this question in your *florilegium* notebook: Early Christian authors often employed a rhetoric of "paradoxical antitheses" in which they re-defined or re-valued the norms of society through a Christian lens. How did these early Christian authors use such paradoxes to express their theologies of martyrdom and/or renunciation of the world?
+
+ - Please prepare this question in your *florilegium* notebook: How did the Roman authorities view Christians through existing patterns of Roman conflict with Judaism and/or the Roman Fear of Factions?
 
 ### Assignment: 
 Please have your florilegia up to date and ready to turn at then end of class.
@@ -128,9 +128,9 @@ Irenaeus of Lyons, "Against Heresies," in *RWCH*, p. 58 ff.
 
 “The Secret Book of John.” In Bart Ehrman, ed., *Lost Scriptures: Books That Did Not Make It into the New Testament*, 297-306. New York: Oxford University Press, 2003. *(VLC)* Please print these pages and bring them to class.
 
-"A Short Reader", in *TPC*, pp. 106-111. (Everyone select one text please and come prepared to introduce it).
+"A Short Reader", in *TPC*, pp. 106-111. (Everyone, please select one text out of the list and come prepared to introduce it in class. You only need to enter one of these texts in your *florilegium* notebook and you do NOT need use this short text in any of your answers).
 
--  Please prepare these questions in your florilegium: 
+-  Please prepare these questions in your *florilegium* notebook: 
 
  - Why does the author of the “Secret Book of John” think that their reader will be interested in the revelation contained in the book? How does reading the book help save the reader?
 
@@ -264,5 +264,5 @@ Final exam
 
 Please have your florilegia up to date and ready to turn at then end of class.
 
-This schedule is © David A. Michelson, 2026. I have consulted many course syllabi in designing this class but drew most heavily on one by Daniel L. Schwartz who taught CLAS 220 “History of Christianity to 1500” at Texas A&M University in 2022. I am grateful to have shared syllabus design with Professor Schwartz. This work is licensed under a Creative Commons Attribution 4.0 International License. Reuse is encouraged. Microsoft Word spelling and grammar tools were used to revise this document. Claude Sonnet 5.0 was used to transform the Markdown text and produce a PDF version. This document is version 2.5 of the schedule. Last revised 8/31/2026.
+This schedule is © David A. Michelson, 2026. I have consulted many course syllabi in designing this class but drew most heavily on one by Daniel L. Schwartz who taught CLAS 220 “History of Christianity to 1500” at Texas A&M University in 2022. I am grateful to have shared syllabus design with Professor Schwartz. This work is licensed under a Creative Commons Attribution 4.0 International License. Reuse is encouraged. Microsoft Word spelling and grammar tools were used to revise this document. Claude Sonnet 5.0 was used to transform the Markdown text and produce a PDF version. This document is version 3.0 of the schedule. Last revised 9/15/2026.
 
