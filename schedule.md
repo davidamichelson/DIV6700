@@ -95,7 +95,7 @@ Please have your *florilegium* notebook up to date and ready to turn at then end
 
 #### Primary Sources & Questions:
 
-"The Martyrdom of Perpetual and Felicity," in *RWCH*, p. 30 ff.
+"The Martyrdom of Perpetua and Felicity," in *RWCH*, p. 30 ff.
 
 "The Epistle to Diognetus," in *Early Christian Writings*, translated by Maxwell Staniforth, revised translation by Andrew Louth (London: Penguin Books, 1987), chapters 1-7, pp. 139-146. (See also *TPC*, p. 72-73.)
 
@@ -152,6 +152,10 @@ Please have your florilegia up to date and ready to turn at then end of the exam
 
 ### Lecture Topic: Geography of Early Christianity
 
+### Secondary Sources:
+
+"A Church of the Nations: Ancient Global Christianity,” in *TPC*, pp. 479-518. Browse as you find it useful.
+
 ### Assignment: 
 
 Remix topic due
@@ -178,7 +182,7 @@ Egeria, "Egeria's Diary" in *Walking Where Jesus Walked*, by Lester Ruth, Carrie
 
 Cyril of Jerusalemm, “Excerpts from the *Mystagogical Catecheses*” in *Walking Where Jesus Walked*, by Lester Ruth, Carrie Steenwyk, and John D. Witviliet (Grand Rapids, MI: W.B. Eerdmans Pub. Co., 2010), pp. 124-137. (These are excerpts from three sermons, all part of Cyril's *Mystagogical Catecheses*).
 
--  Please prepare these three questions in your florilegium: 
+-  Please prepare these questions in your *florilegium* notebook: 
 
  - The Didache teaches the Christianity is a "way of life", what are the theological values which give coherence to the ethical or practical teachings found in the Didache?
 
@@ -186,47 +190,133 @@ Cyril of Jerusalemm, “Excerpts from the *Mystagogical Catecheses*” in *Walki
 
  - According to Cyril, how are the mysteries of Baptism and the Eucharist a form of access to heavenly things?
 
-# Draft Schedule: To Be Completed
-
 ## Wednesday 10/14: Lecture 9
 
 ### Lecture Topic: Christians and Empire in Late Antiquity
 
+### Secondary Sources:
+
+"The Gospel on the Throne: Christians in the Fourth-Century East" in *TPC*, pp. 278-356. Browse as you find it useful.
+
 ## Monday 10/19: Discussion 5
+
+#### Primary Sources & Questions:
+
+Eusebius of Caesarea, *Life of Constantine*, in *RWCH*, p. 87 ff.
+
+The Emperor Julian, *Rescript on Christian Teachers*, in *RWCH*, p. 105 ff.
+
+"A Short Reader", in *TPC*, pp. 342-354. (Everyone select one text please and come prepared to introduce it).
+
+- Please prepare these questions in your *florilegium* notebook: 
+  - What was Eusebius' view of the Roman Empire and its relationship to Christianity?
+  - What was Julian's view of the Roman Empire and its relationship to Christianity?
 
 ## Wednesday 10/21: Lecture 10
 
 ### Lecture Topic: Desert Christians
 
+### Secondary Sources:
+
+"Reconciling the World: Christian Ascetical and Penitential Imperatives" in *TPC*, pp. 357-424. Browse as you find it useful.
+
 ## Monday 10/26: Discussion 6
+
+#### Primary Sources & Questions:
+
+John Wortley, trans., *Give Me a Word: The Alphabetical Sayings of the Desert Fathers* (Crestwood, N.Y.: St. Vladimir’s Seminary Press, 2014). Read the sayings of the following monastics: Antony, Arsenius, Agathon, Ammonas, Isaiah, Elijah, Theodora, Isidore of Scete, John the Persian, Moses, Xanthias, Sarah, Syncletica.
+
+- Please prepare this multi-part question in your *florilegium* notebook: 
+
+  - According to the ancient editor(s) of the *Apophthegmata patrum*, what is the goal of the monastic life? How does the ancient editor employ the rhetoric of paradox to make this point? Analyze at least two repeated themes found in the text (such as poverty, non-judgement, humility, love, etc.) to support your interpretation.
 
 ## Wednesday 10/28: Lecture 11
 
 ### Lecture Topic: Divisions of Church and Empire
 
+### Secondary Sources:
+
+“Remaking Society: The Church in the West in the Fourth to Sixth Centuries,” in *TPC*, pp. 425 ff. Browse as you find it useful.
+
+“The Rise of The Ecumenical Conciliar System in the Fifth to Sixth Centuries,” in *TPC*, pp. 519 ff. Browse as you find it useful.
+
 ## Monday 11/2: Discussion 7
+
+#### Primary Sources & Questions:
+
+Augustine of Hippo, “The City of God,” in *RWCH*, pages 195-206.
+
+- Please prepare these questions in your *florilegium* notebook: 
+  - What is "peace" according to Augustine of Hippo? 
+  - What is the best possible relationship between the "heavenly city" and the "earthly city" from Augustine's perspective?
 
 ### Assignment: 
 
-Remix draft due
+Draft remix due in class. Bring the result with you to share with your colleagues.
 
 ## Wednesday 11/4: Lecture 12
 
 ### Lecture Topic: Syriac Christians
 
+### Secondary Sources:
+
+“A Church of the Nations: Ancient Global Christianity,” in *TPC*, pp. 479 ff. Browse as you find it useful.
+
+Sebastian Brock, trans., *Treasure-House of Mysteries: Explorations of the Sacred Text Through Poetry in the Syriac Tradition* (Yonkers, N.Y.: St. Vladimirs Seminary Press, 2012). Please read:
+
+ - I. "Introduction"
+ - II. "Ephrem on Reading the Bible"
+
 ## Monday 11/9: Discussion 8
 
-Please have your florilegia up to date and ready to turn at then end of class.
+#### Primary Sources & Questions:
+
+Sebastian Brock, trans., *Treasure-House of Mysteries: Explorations of the Sacred Text Through Poetry in the Syriac Tradition* (Yonkers, N.Y.: St. Vladimirs Seminary Press, 2012). Please read:
+
+ - IV.3 Mary and Joseph (begins on page 144)
+ - IV.10 The Cherub and the Thief (begins on page 220)
+ - IV.11 Death and Satan (begins on page 229)
+ - V.8 Salvation History (begins on page 267)
+
+- Please prepare this multi-part question in your *florilegium* notebook: 
+ 
+ - How do the authors of these poems use the gaps in the biblical narratives as a place to creatively amplify the texts?
+ - How do the authors of these poems draw upon intertextual connections between different biblical books and stories?
+
+### Assignment: 
+
+Please have your *florilegium* notebook up to date and ready to turn at then end of class.
 
 ## Wednesday 11/11: Lecture 13
 
 ### Lecture Topic: Christianity and Islam
 
+### Secondary Sources:
+
+“Islam and Its Impact on Eastern Christianity,” in *TPC*, 383 ff. Browse as you find it useful.
+
 ## Monday 11/16: Discussion 9
+
+#### Primary Sources & Questions:
+
+M. A. S. Abdel Haleem, trans., *The Qur’an* (Oxford: Oxford University Press, 2015). Read Sura 1: 1-7: "The Opening", Sura 2:1-286: "The Cow", Sura 5: 1-120: “The Feast”; and Sura 30: 1-60: “The Byzantines”. 
+ - Please also listen to the recorded recitations of the Qur'an (in Arabic) found at https://tanzil.net for Sura 1 and 30.
+
+Ibn Ishaq, "The Story of Bahira,” in *The Life of Muhammad*, translated by Alfred Guillaume (Oxford: Oxford University Press, 1955), 79–81. (Posted to Brightspace, please print from there.)
+
+"The Apology of Timothy the Patriarch before the Caliph Mahdi,” in *RWCH*, pages 231-42.
+
+- Please prepare this question in your *florilegium* notebook: 
+
+ - In these sources, how do Christians and Muslims appeal to a shared tradition of monotheism to support their opposing views?
 
 ## Wednesday 11/18: Lecture 14
 
 ### Lecture Topic: Christians in Asia and Africa
+
+### Secondary Sources:
+
+“A Church of the Nations: Ancient Global Christianity,” in *TPC*, pp. 479 ff. Browse as you find it useful.
 
 ## Monday 11/23: No Class 
 
@@ -242,11 +332,41 @@ Practice gratitude.
 
 ## Monday 11/30: Discussion 10
 
+#### Primary Sources & Questions:
+
+“Inscription of the Monument of the Church of the East at Xian,” in *RWCH*, pages 243-47.
+
+“The Fourth Sutra: The Sutra of Jesus Christ,” in *RWCH*, pages 247-51.
+
+“The First Liturgical Sutra,” in *RWCH*, page 251.
+
+- Please prepare this question in your *florilegium* notebook: 
+
+ - How do the various Chinese Christian texts present Christian practices and beliefs in terms of concepts found in Buddhism (suffering), Taoism (the one way), and Confucianism (the virtues of loyalty and filial piety) of Tang Dynasty China?
+
 ## Wednesday 12/2: Lecture 15
 
 ### Lecture Topic: Micro-Christendoms
 
 ## Monday 12/7: Discussion 11
+
+#### Primary Sources & Questions:
+
+Bart D. Ehrman and Zlatko Pleše, eds., “26. The Discourse upon the Cross” in *Other Gospels: Accounts of Jesus from Outside the New Testament* (New York: Oxford University Press, 2013), 226–30. (Online through VLC)  - NB: This reading is given only one title here but is actually two primary source texts combined. The first is “Discourse of the Savior” and the second is “Dance of the Savior” (the "Dance" begins at where you see the mark for “(p. 24)” of the manuscript). Please discuss each separately in your accessus. Please print and bring a copy to class.
+
+"The Dream of the Rood" in *The Complete Old English Poems*, translated by Craig Williamson (Philadelphia: University of Pennsylvania Press, 2017), 253-258. (VLC)
+
+"The Ruthwell Cross" in *The Complete Old English Poems*, translated by Craig Williamson (Philadelphia: University of Pennsylvania Press, 2017), 1062-63. (VLC)
+
+"The Brussells Cross" in *The Complete Old English Poems*, translated by Craig Williamson (Philadelphia: University of Pennsylvania Press, 2017), 1064. (VLC)
+
+“The Heliand,” in *RWCH*, page 271 ff.
+
+- Please prepare these questions in your *florilegium* notebook: 
+ 
+ - How do the authors of the "Dance of the Savior" and "Discourse of the Savior" and the "Dream of the Rood" use the paradox of the cross (i.e. the inverted symbolism of the cross) to exalt Christ? How does this use of paradox compare with the use of paradox in other early Christian texts?
+ 
+ - How does the author of the Heliand present the narrative of the life of Christ in terms of the social structures and values of early medieval Germanic society?
 
 ## Wednesday 12/9: Remix Presentations!
 
@@ -264,5 +384,5 @@ Final exam
 
 Please have your florilegia up to date and ready to turn at then end of class.
 
-This schedule is © David A. Michelson, 2026. I have consulted many course syllabi in designing this class but drew most heavily on one by Daniel L. Schwartz who taught CLAS 220 “History of Christianity to 1500” at Texas A&M University in 2022. I am grateful to have shared syllabus design with Professor Schwartz. This work is licensed under a Creative Commons Attribution 4.0 International License. Reuse is encouraged. Microsoft Word spelling and grammar tools were used to revise this document. Claude Sonnet 5.0 was used to transform the Markdown text and produce a PDF version. This document is version 3.0 of the schedule. Last revised 9/15/2026.
+This schedule is © David A. Michelson, 2026. I have consulted many course syllabi in designing this class but drew most heavily on one by Daniel L. Schwartz who taught CLAS 220 “History of Christianity to 1500” at Texas A&M University in 2022. I am grateful to have shared syllabus design with Professor Schwartz. This work is licensed under a Creative Commons Attribution 4.0 International License. Reuse is encouraged. Microsoft Word spelling and grammar tools were used to revise this document. Claude Sonnet 5.0 was used to transform the Markdown text and produce a PDF version. This document is version 4.0 of the schedule. Last revised 10/3/2026.
 
